@@ -1,0 +1,7 @@
+Record about www.cplusplus.com Reference, contains sub-dictroies as follows:
+C libraries
+Containers
+InputOutput
+Multithreads
+Algorithm
+Other
