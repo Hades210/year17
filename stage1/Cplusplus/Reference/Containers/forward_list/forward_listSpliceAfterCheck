@@ -1,0 +1,58 @@
+// file : forward_listSpliceAfterCheck.cpp
+// Transfer elements from list to list
+/*************************************************************************************************************************
+*       entire list (1)         void splice_after(const_iterator position,forward_list& fwdlst);
+*       entire list (1)         void splice_after(const_iterator position,forward_list&& fwdlst);
+*       single element(2)       void splice_after(const_iterator position,forward_list& fwdlst, const_iterator i);
+*       single element(2)       void splice_after(const_iterator position,forward_list&& fwdlist, const_iterator i);
+*       element range(3)        void splice_after(const_iterator position,forward_list& x, const_iterator first, const_iterator last);
+*       element range(3)        void splice_after(const_iterator position, forward_list&& x, const_iterator first, const_iterator last);
+*************************************************************************************************************************/
+
+// Transfers elements from fwdlst into the container, inserting them after the element pointed by position.
+// This effectively inserts those elements into the container and removes them from fwdlst, altering the sizes of bot
+// containers. The operation does not involve the construction or destruction of any element. They are transferred, no
+// matter whether fwdlst is an lvalue or an rvalue, or whether the value_type supports move-construction or not.
+
+// The first version(1) transfers all the elements of fwdlst into the container.
+// The second version(2) transfers only the element pointed by i from fwdlst into the container.
+// The third version(3) transfers the range(first,last) from fwdlst into the container.
+
+
+#include <iostream>
+#include <forward_list>
+#include <string>
+
+using namespace std;
+
+template <class T>
+void printInfo(string who,const forward_list<T> & fwdlst)
+{
+	cout<<who<<" contains:";
+
+	for(auto & x : fwdlst)
+		cout<<x<<"\t";
+	cout<<"\n";
+}
+
+int main()
+{
+	forward_list<int> first = {1,2,3};
+	forward_list<int> second = {10,20,30};
+
+	auto it = first.begin();
+
+	first.splice_after(first.before_begin(),second);
+	printInfo("first",first);
+	printInfo("second",second);
+
+	second.splice_after(second.before_begin(),first,first.begin(),it);
+	printInfo("first",first);
+	printInfo("second",second);
+
+	first.splice_after(first.before_begin(),second,second.begin());
+	printInfo("first",first);
+	printInfo("second",second);
+
+	return 0;
+}
