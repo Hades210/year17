@@ -1,0 +1,38 @@
+Learnign materials about Machine Learning and Data Mining
+Materials originized from weibo
+
+
+Mat1 : 机器学习的最佳入门学习资料  from Jason Brownlee 
+
+Title 1 : Programming Libraries 编程资源库
+R Project for Statistical Computing https://www.r-project.org/  (CRAN 统计技术方法)
+WEKA http://www.cs.waikato.ac.nz/ml/weka/ 
+Mahout http://mahout.apache.org/ Hadoop机器学习库
+Scikit Learn http://scikit-learn.org/stable/ （Python编写的基于NumPy和SciPy的机器学习库）
+Octave http://www.gnu.org/software/octave/ 类似Matlab的数值计算环境
+BigML https://bigml.com/(通过Web页面建立模型 不用通过代码)
+
+Title 2 : Video Courses 视频课程
+Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave库
+https://www.coursera.org/learn/machine-learning
+http://cs229.stanford.edu/ （讲义和笔记）
+Caltech Learning from Data Yaser Abu-Mostafa 更多关注细节和数学知识
+https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
+Machine Learning Category on VideoLectures.Net 
+http://videolectures.net/Top/Computer_Science/Machine_Learning/ (videoLectures.net机器学习目录)
+Machine Learning竞赛者的对话 http://blog.kaggle.com/2011/03/23/getting-in-shape-for-the-sport-of-data-sciencetalk-by-jeremy-howard/
+
+Title 3 : Overview Papers 综述论文
+Tom Mitchell 白皮书 http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf
+http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+Title 4 : Beginner Machine Learning Books
+Programming Collective Intelligence: Building Smart Web 2.0 Applications (简单理论，重点程序 web中实际问题和解决办法)
+Machine Learning for Hackers （机器学习：实用案例解析）(使用R语言，很多实践练习，涉及更多的数据分析，建议在读完上一本后读)
+Machine Learning: An Algorithmic Perspective 包含数学知识和Python程序片段，建议在读完第一本后读
+English edition 3 数据挖掘：实用机器学习工具与技术
+Machine Learning 计算机科学丛书 教科书 为每一个算法提供了相关讲解
+
+Title 5 Further Reading 
+https://conductrics.com/data-science-resources/
+https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1
