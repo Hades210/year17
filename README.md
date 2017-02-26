@@ -9,3 +9,5 @@ github上关注的一些项目    Java/C++
 
 Algorithm and Data Structure      
 刷题 vijos leetcode openjudge pku oj 
+
+Machine Learning && Data Mining
