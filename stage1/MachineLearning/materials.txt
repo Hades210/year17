@@ -36,3 +36,50 @@ Machine Learning 计算机科学丛书 教科书 为每一个算法提供了相�
 Title 5 Further Reading 
 https://conductrics.com/data-science-resources/
 https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1
+
+Mat2:
+http://nbviewer.jupyter.org/ Jupyter 书籍共享
+https://github.com/jonblower/python-viz-intro python可视化教程
+https://github.com/stanfordnlp/phrasal standford nlp开源项目phrasal (Java)
+https://www.youtube.com/watch?v=mF5-tr7qAF4 机器如何学习算法 (讲座) http://munichacm.de/deeplearning/speakers/
+https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/ Computer Science 294 (UC Berkeley Michael Jordan)
+http://dataunion.org/2903.html SJTU数据科学相关课程
+https://it-ebooks.info/ 免费下载IT书籍(英文)
+
+Programming Computer vision with python 笔记
+https://segmentfault.com/a/1190000003941588 (一)
+https://segmentfault.com/a/1190000003946953 (二)
+https://segmentfault.com/a/1190000003950550 (三)
+https://segmentfault.com/a/1190000003989791 (四)
+https://segmentfault.com/a/1190000004002685 (五)
+https://segmentfault.com/a/1190000004033826 (六)
+https://segmentfault.com/a/1190000004048075 (七)
+https://segmentfault.com/a/1190000004051795 (八)
+https://segmentfault.com/a/1190000004055633 (九)
+https://segmentfault.com/a/1190000004091583 (十)
+https://segmentfault.com/a/1190000004149225 (十一)
+https://segmentfault.com/a/1190000004200111 (十二)
+
+https://cn.udacity.com/course/deep-learning--ud730 深度学习 Google Udacity
+http://people.cs.umass.edu/~brenocon/inlp2015/ (umass NLP课程 )
+http://matt.might.net/articles/books-papers-materials-for-graduate-students/ (推荐研究生书单)
+
+http://vision.stanford.edu/teaching/cs231n/index.html (cs231n FeifeiLi)
+http://cs231n.github.io/
+
+http://www.cnblogs.com/xinz/p/5044037.html (源代码管理)
+http://www.cnblogs.com/buaase/p/5066288.html
+http://www.cnblogs.com/greyzeng/p/5178001.html
+
+http://machinelearningmastery.com/machine-learning-in-r-step-by-step/ (R Machine Learning 例子)
+https://github.com/Hades210/stat212b (Topics Course on Deep Learning UC Berkeley)
+http://www.wikiwand.com/en/Statistical_learning_theory (Statistical Learning Wiki)
+
+http://mooc.guokr.com/topic/songshuhui_2_2016/ (英文写作 四门课)
+http://mooc.guokr.com/topic/mit-ocw-courses/ (MIT OCW 推荐课程)
+http://yann.lecun.com/
+http://blog.nycdatascience.com/meetup/learn-deep-learning-with-yann-lecun/
+http://pansop.com/1042/ (python自然语言处理工具) http://python.jobbole.com/81834/
+http://webscope.sandbox.yahoo.com/ (Yahoo) http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
+https://github.com/dmlc
+
