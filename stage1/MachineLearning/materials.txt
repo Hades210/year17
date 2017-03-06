@@ -83,3 +83,17 @@ http://pansop.com/1042/ (python自然语言处理工具) http://python.jobbole.c
 http://webscope.sandbox.yahoo.com/ (Yahoo) http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
 https://github.com/dmlc
 
+http://www.ezlippi.com/blog/2014/12/c-open-project.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io 值得推荐的C++框架和库
+http://phunter.farbox.com/ phunter_lan老师的博客
+https://www.ngdata.com/big-data-analysis-resources/ (50个大数据分析学习资料)
+http://machinelearningmastery.com/ 机器学习博客 
+http://junma5.weebly.com/ （伊利诺伊大学应用数学系phD博客）
+https://datascienceplus.com/ （R语言科学计算）
+http://machinelearningmastery.com/machine-learning-ensembles-with-r/
+http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r
+https://datascienceplus.com/mastering-r-plot-part-2-axis/
+http://eferm.com/machine-learning-cheat-sheet/(机器学习算法速查表)
+http://eferm.com/(eferm的博客 Oxford Palantir)
+http://www.cs.cmu.edu/~muli/(百度少帅 李沐)
+http://weibo.com/p/1001603939799944846106
+http://weibo.com/p/1001603940328460664808 (爱可可老师的年度分享)
