@@ -98,3 +98,66 @@ http://www.cs.cmu.edu/~muli/(百度少帅 李沐)
 http://weibo.com/p/1001603939799944846106
 http://weibo.com/p/1001603940328460664808 (爱可可老师的年度分享)
 
+http://blog.csdn.net/longxinchen_ml/article/details/50543337
+http://blog.csdn.net/longxinchen_ml/article/details/50597149
+http://blog.csdn.net/longxinchen_ml/article/details/50629110
+http://blog.csdn.net/longxinchen_ml/article/details/50629613
+http://blog.csdn.net/longxinchen_ml/article/details/50646528  NLP系列
+http://vissoc.co/index.html 
+https://kieranhealy.org/blog/archives/2016/02/10/data-visualization-course-notes/ 数据可视化课程
+http://sci-hub.io/ 
+http://www.aioptify.com/topmldmbooks.php (16本机器学习与数据挖掘的书)
+http://rt.dgyblog.com/
+http://rt.dgyblog.com/ref/ref-learning-deep-learning.html (深度学习阅读清单)
+http://www.52caml.com/(计算广告与机器学习)
+http://dblp.uni-trier.de/ (计算机文献)
+http://www.kdnuggets.com/
+https://www.techopedia.com/2/30510/trends/big-data/7-steps-for-learning-data-mining-and-data-science (数据挖掘七步走)
+
+https://mitpress.mit.edu/books/how-write-thesis
+https://www.theparisreview.org/interviews/5856/umberto-eco-the-art-of-fiction-no-197-umberto-eco
+https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis (How to write thesis 加书评)
+
+http://mp.weixin.qq.com/s?__biz=MzI5MDEwMzc3MA==&mid=403188405&idx=1&sn=7b7a7e7fe62419cad1174ce64b215dcb#rd(edx英文课程)
+Cloud Vision API 谷歌图像识别API
+
+http://weibo.com/p/1001603946008533927097 （如何读论文)
+http://www.redbook.io/index.html （数据库红宝书)
+http://www.jeannicholashould.com/getting-started-with-statistics-for-data-science.html
+http://dataunion.org/22115.html （数据科学统计学入门）
+http://www.jeannicholashould.com/ （JN的个人网站)
+http://dataunion.org/ (数盟社区）
+http://cacm.acm.org/ (cacm)
+https://segmentfault.com/a/1190000004467183 (Python 识别相似图片 一)
+https://segmentfault.com/a/1190000004500523 (Python 识别相似图片 二)
+http://mp.weixin.qq.com/s?__biz=MzIyOTA2NTY0Nw==&mid=410685916&idx=1&sn=030197cee41b3204b9a434269941e0a9&scene=1&srcid=0228mRd7F1FRV5tWbEKanZVQ&from=groupmessage&isappinstalled=0#wechat_redirect (NLP)
+http://www.keithschwarz.com/interesting/
+http://www.keithschwarz.com/ (KS的个人网站)
+https://matloff.wordpress.com/2016/03/01/50-draft-of-forthcoming-book-available/
+https://matloff.wordpress.com/ 
+http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf (Bayesian Networks)
+http://nlp.postech.ac.kr/Course/CS704/ (机器学习与自然语言处理 课程)
+http://nlp.postech.ac.kr/Course/
+http://www.nowpublishers.com/article/Details/MAL-049 (Bayesian Reinforcement Learning)
+
+http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419396174&idx=1&sn=5a7491735a0f3def426be277e03acec0
+http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419800107&idx=1&sn=9f6e0c62a8d0195acaa7b4ac06849b97
+https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420429696&idx=1&sn=70088a12d51388c97296d396219e93c3
+https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420595183&idx=1&sn=e1c02c46447fefe15e5b87bc8e45ff2d (硅谷王川)
+www.wiley.com/WileyCDA/WileyTitle/productCd-1118999738,subjectCd-BE00.html (书）
+http://www.springer.com/cn/book/9783319251257(书)
+http://bookzz.org/
+https://www.jiumodiary.com/ (英文电子书搜索)
+https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/ (sequence-learning)
+https://pythontips.com/2016/02/27/learning-python-for-data-science/
+https://pythontips.com/
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html (强化学习课程)
+http://jmozah.github.io/links/ （深度学习阅读书单)
+http://deeplearning.net/reading-list/ （深度学习书单)
+http://blog.sciencenet.cn/home.php?mod=space&uid=330732&do=blog&id=368718 （阅读文献)
+https://www.futurelearn.com/ （英国大学公开课)
+https://deepmind.com/research/alphago/ (alphago）
+http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/codes （T 大 NLP 开源代码)
+http://onlinelibrary.wiley.com/book/10.1002/9780470669723 (书)
+http://liwei.life/ （linux 书籍）
+http://caffecn.cn/ (Caffee中国社区)
