@@ -161,3 +161,33 @@ http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/codes （T 大 NLP 开源代�
 http://onlinelibrary.wiley.com/book/10.1002/9780470669723 (书)
 http://liwei.life/ （linux 书籍）
 http://caffecn.cn/ (Caffee中国社区)
+http://www.cs.columbia.edu/~blei/ （David blei）
+https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html （handong1587博客）
+http://www.jianshu.com/p/aefe80044463  (深度强化学习)
+https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
+http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf
+http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1 (iclr会议)
+http://machinelearning.wustl.edu/mlpapers/venues (机器学习论文清单)
+https://cse.wustl.edu/Pages/default.aspx
+http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
+lamda.nju.edu.cn/MainPage.ashx （南大 lamda实验室)
+
+http://blog.csdn.net/han_xiaoyang/article/details/49123419
+http://blog.csdn.net/longxinchen_ml/article/details/49284391
+http://blog.csdn.net/longxinchen_ml/article/details/49798139
+http://blog.csdn.net/longxinchen_ml/article/details/50471268
+http://blog.csdn.net/longxinchen_ml/article/details/50471682
+http://blog.csdn.net/longxinchen_ml/article/details/50493845
+http://blog.csdn.net/longxinchen_ml/article/details/50749614
+http://blog.csdn.net/longxinchen_ml/article/details/50900070 (机器学习系列)
+http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html
+http://www.jfsowa.com/logic/math.htm (计算机数理逻辑）
+http://www.jfsowa.com/ (jfsowa)
+https://www.quora.com/What-are-some-of-the-best-research-papers-books-for-Machine-learning?redirected_qid=1539716
+https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071(书)
+https://arxiv.org/
+https://www.cs.bgu.ac.il/~yoavg/uni/ 
+http://www.kdnuggets.com/2016/03/data-scientists-know-about-psychology.html
+http://terencebroad.com/
+https://www.quora.com/session/Carlos-Guestrin/1
+https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm/answer/Carlos-Guestrin?srid=cgo&share=6153e44f
