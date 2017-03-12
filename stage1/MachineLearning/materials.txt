@@ -191,3 +191,69 @@ http://www.kdnuggets.com/2016/03/data-scientists-know-about-psychology.html
 http://terencebroad.com/
 https://www.quora.com/session/Carlos-Guestrin/1
 https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm/answer/Carlos-Guestrin?srid=cgo&share=6153e44f
+https://github.com/google
+https://github.com/facebook
+https://github.com/microsoft
+https://github.com/baidu
+http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html
+http://cs.stanford.edu/~pliang/
+http://www-nlp.stanford.edu/software/sempre/ (standford NLP)
+https://cn.udacity.com/course/machine-learning-for-trading--ud501 （udacity 算法交易与计算投资)
+http://www.cs.toronto.edu/~fbacchus/csc384/ (csc384 toronto university)
+http://www.cs.toronto.edu/~fbacchus/
+http://norvig.com/ipython/README.html
+http://norvig.com/ (Peter Norivig)
+http://www.cs.toronto.edu
+http://bcmi.sjtu.edu.cn/ （上交bcmi实验室)
+https://www.wikiwand.com/en/Feature_selection (feature selection)
+http://lumiverse.io/series/neural-networks-demystified (neural network demystified)
+http://lumiverse.io/
+http://www.itechflare.com/main/15-free-ebooks-artificial-intelligence/ (书)
+https://simons.berkeley.edu/workshops/bigdata2013-boot-camp
+https://simons.berkeley.edu/
+http://personalpages.manchester.ac.uk/staff/yanghong.huang/teaching/MATH36032/psbc2017.html
+http://personalpages.manchester.ac.uk/staff/yanghong.huang/
+http://wikicfp.com/cfp/
+https://www.linkedin.com/pulse/deep-learning-xgboost-winning-hands-down-ashish-kumar?trk=pulse_spock-articles
+http://homes.cs.washington.edu/~tqchen/ （陈天奇）
+http://mxnet.io/index.html
+http://xgboost.readthedocs.io/en/latest/
+http://www.deeplearningbook.org/ (书)
+http://cvlab.postech.ac.kr/research/dppnet/?utm_content=buffer89fcb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+http://cvlab.postech.ac.kr/~hyeonwoonoh/ （卷积神经网络 图像问答系统)
+http://cvlab.postech.ac.kr/lab/ (cv lab postech university)
+http://ukoethe.github.io/vigra/  (vigra 图像处理库)
+https://hci.iwr.uni-heidelberg.de/Staff/ukoethe/
+https://hci.iwr.uni-heidelberg.de/ (HCI)
+http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html
+http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=402769129&idx=1&sn=4e756517daba112b824e21522d91f232 （Jeff Dean 大规模深度学习)
+http://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/ （ggplot2和R绘图比较)
+http://ggplot2.org/
+http://deepcontext.cs.princeton.edu/
+http://vision.princeton.edu/ 
+http://deepcontext.cs.princeton.edu/paper.pdf (Princeton 视觉组)
+http://www.business2community.com/big-data/tools-big-data-science-technologies-languages-statistical-analysis-01483461#yuCeYtBLW6sfHwMj.97 
+https://karthkk.wordpress.com/2016/03/22/deep-learning-solution-for-netflix-prize/
+http://web.stanford.edu/~jurafsky/slp3/（书）
+http://tcci.ccf.org.cn/summersch/classm/Introduction-to-smt.pdf (机器翻译)
+http://tcci.ccf.org.cn/index.html （计算机学会)
+https://www.quantstart.com/articles/Markov-Chain-Monte-Carlo-for-Bayesian-Inference-The-Metropolis-Algorithm
+https://algobeans.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/ （ANN简介)
+http://www.kdnuggets.com/2016/03/top-10-data-science-github.html
+http://machinelearningmastery.com/linear-regression-for-machine-learning/
+https://sites.google.com/site/repl4nlp2016/
+http://cambridgecoding.com/
+http://blog.jobbole.com/99057/ （数据库设计)
+https://www.ece.nus.edu.sg/stfpage/eleyans/ （颜水成教授)
+https://www.ece.nus.edu.sg/ （nation university of singapore)
+https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html (mit6.006)
+https://stellar.mit.edu/
+https://algobeans.com/
+http://kddchina.org/#/Home
+http://download.csdn.net/detail/u011518985/9473260 (cs229d)
+http://download.csdn.net/download/u011518985/9473257 (cs224d)
+http://cs224d.stanford.edu/index.html 
+https://data.library.utoronto.ca/cleaning-data-python
+http://data.library.utoronto.ca/
+
+https://aws.amazon.com/blogs/big-data/anomaly-detection-using-pyspark-hive-and-hue-on-amazon-emr/
