@@ -252,8 +252,55 @@ https://algobeans.com/
 http://kddchina.org/#/Home
 http://download.csdn.net/detail/u011518985/9473260 (cs229d)
 http://download.csdn.net/download/u011518985/9473257 (cs224d)
+http://www.socher.org/
 http://cs224d.stanford.edu/index.html 
 https://data.library.utoronto.ca/cleaning-data-python
 http://data.library.utoronto.ca/
 
 https://aws.amazon.com/blogs/big-data/anomaly-detection-using-pyspark-hive-and-hue-on-amazon-emr/
+
+http://pages.cs.wisc.edu/~anhai/courses/784-fall15/ieSurvey.pdf
+http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
+https://www.ecse.rpi.edu/homepages/nagy/PDF_files/Embley_Hurst_Lopresti_Nagy_tablesurvey.pdf
+http://tcci.ccf.org.cn/summersch/classm/nlp20110828.pdf
+http://pages.cs.wisc.edu/~anhai/courses/ (wisc university)
+http://pages.cs.wisc.edu/~anhai/
+https://database.cs.wisc.edu/ (数据库组)
+http://www.cs.cornell.edu/home/llee/lillian.html
+http://www.cs.cornell.edu/
+https://www.ecse.rpi.edu/homepages/nagy/
+https://www.ecse.rpi.edu/
+http://www.dharwadker.org/graph_theory_applications.pdf (Applications of Graph Theory)
+http://www.dharwadker.org/
+https://www.crcpress.com/Statistical-Reinforcement-Learning-Modern-Machine-Learning-Approaches/Sugiyama/p/book/9781439856895 (书)
+http://karpathy.github.io/neuralnets/
+http://karpathy.github.io/ (李飞飞的高徒)
+http://setosa.io/ev/ 
+http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf (为文章自动生成海报)
+http://www.springer.com/us/book/9783642176555 （书)
+http://cs.brown.edu/~ls/publications_year.html
+http://cs.brown.edu/~ls/
+http://learningtensorflow.com/index.html
+http://www.tensorfly.cn/
+https://github.com/SeSaMe-NUS 
+http://www.comp.nus.edu.sg/~atung/gl/
+http://www.comp.nus.edu.sg/~atung/publication/gpugenie.pdf (倒排索引 ）
+http://www.comp.nus.edu.sg/~atung/ (郑锦浩)
+http://www.comp.nus.edu.sg/ (nation university of singapore)
+http://fastml.com/bayesian-machine-learning/ （bayesian machine learning)
+http://fastml.com/
+https://arxiv.org/abs/1511.07916 (分布式表示的自然语言理解)
+https://github.com/nyu-dl
+http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php （cs190）
+http://web.stanford.edu/~ouster/cgi-bin/home.php 
+http://www.infoq.com/cn/presentations/building-hardware-accelerated-distributed-neural-network-framework-on-spark
+http://www.huffingtonpost.com/laura-dambrosio/machine-learning-as-a-ser_b_9548962.html
+https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ (youtube Machine Learning 课程)
+http://kogan.rutgers.edu/ml-phd/
+http://kogan.rutgers.edu/
+https://www.microsoft.com/cognitive-services (微软认知服务API)
+http://kaiminghe.com/ (KaiMing He)
+http://thulac.thunlp.org/ (清华大学NLP 中文分词)
+http://www.graphics.stanford.edu/~niessner/thies2016face.html
+http://www.graphics.stanford.edu/~niessner/index.html
+http://www.graphics.stanford.edu/~niessner/thies2016face.html
