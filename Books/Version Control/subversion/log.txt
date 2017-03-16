@@ -1,0 +1,15 @@
+reading record of <<subversion>>
+
+6/15 - 8/20
+
+This book contains:
+
+Basic concepts
+
+Basic usage
+
+Advanced Themes
+
+Branch and Merge
+
+Repos Management

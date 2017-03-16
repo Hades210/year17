@@ -1,0 +1,20 @@
+Reading Records of <<Inside the c++ Object Model>>
+
+5/20 - 7/10
+
+This book contains:
+
+Object Lessons
+
+The Semantics of Constructors
+
+The Semantics of Data
+
+The Semantics of Function
+
+Semantics of Construction, Destruction, and Copy
+
+Runtime Semantics
+
+On the Cusp of the Object Model
+

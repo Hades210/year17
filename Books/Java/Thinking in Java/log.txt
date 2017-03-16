@@ -1,0 +1,21 @@
+reading records of <<Thinking in Java>>
+
+4/1 - 5/25
+
+This book contains:
+
+Basic
+chapter 1 - chapter 3
+
+class
+chapter 4 - chapter 9
+
+Advance 
+chapter 10 - chapter 12
+
+Project skill
+chapter 13 - chapter 15
+
+Design
+chapter 16 - chapter 17
+

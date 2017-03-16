@@ -1,0 +1,13 @@
+reading record of <<23 design pattern>>
+
+6/15 - 9/1
+
+This book contains:
+
+Creation
+
+Structure
+
+Action
+
+Using of design Pattern

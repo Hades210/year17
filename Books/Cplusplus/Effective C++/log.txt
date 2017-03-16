@@ -1,0 +1,23 @@
+Reading Record of <<Effective C++>> (2ed)
+
+5/1 - 6/20
+
+This book contains:
+
+Accustoming yourself to C++
+
+Constructors & Destructors & Assignment Operation
+
+Resource Management
+
+Designs and Declarations
+
+Implementations
+
+Inheritance and Object-Oriented Design
+
+Templates and Generic Programming
+
+Customizing new and delete
+
+Miscellary

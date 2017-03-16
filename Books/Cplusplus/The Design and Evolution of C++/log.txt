@@ -1,0 +1,10 @@
+Reading Record of << The Design and Evolution of C++ >>
+
+7/15 - 9/15
+
+This book contains:
+
+Part I : The Original of C++ (before Release 1.0)
+
+part II : From Release 1.0 to now
+

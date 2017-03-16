@@ -1,0 +1,19 @@
+ reading record of <<Programming with POSIX threads>>
+
+ 8/25 - 10/25
+
+ This book contains:
+
+ Introduction
+
+ Threads
+
+ Advanced topics of Threads
+
+ POSIX standards
+
+ Real code
+
+ Avoiding Problems
+
+ Reference

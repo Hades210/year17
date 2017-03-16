@@ -1,0 +1,13 @@
+reading record of <<The art of Unix Programming>>
+
+7/25 - 9/25
+
+This book contains:
+
+Context
+
+Design
+
+Implementation
+
+Community

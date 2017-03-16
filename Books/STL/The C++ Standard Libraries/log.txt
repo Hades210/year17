@@ -1,0 +1,23 @@
+reading record of <<The C++ Standard Libraries>>
+
+5/20 - 7/20
+
+This book contains:
+
+Brief Introduction
+
+General Concepts
+
+Utilities
+
+STL Container
+
+STL Iterators
+
+Functors
+
+STL Algorithms
+
+Special Containers
+
+Strings, Numerics, IO, Internationalization, Allocator

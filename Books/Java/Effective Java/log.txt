@@ -1,0 +1,25 @@
+reading records of <<Effective Java>>
+
+5/1 - 6/30
+
+This book contains:
+
+Constructor and Destructor
+
+common methods of all classes
+
+class and interface
+
+generic
+
+enum and comments
+
+method
+
+Generic Programming
+
+Exception
+
+Concurrency
+
+Serialize

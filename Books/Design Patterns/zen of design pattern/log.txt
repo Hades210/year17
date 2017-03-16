@@ -1,0 +1,13 @@
+reading record of <<zen of design pattern>>
+
+6/1 - 8/1
+
+This book contains:
+
+6 design principals
+
+Instances of 23 design patterns
+
+compare
+
+combine

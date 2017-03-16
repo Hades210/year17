@@ -1,0 +1,15 @@
+reading record of <<UNIX Network Programming Volume2: Inter Process Communications>>
+
+9/1 - 12/31
+
+This book contains:
+
+Introduction
+
+Message Queue
+
+Synchronous
+
+Shared Memory
+
+Remote Process Call

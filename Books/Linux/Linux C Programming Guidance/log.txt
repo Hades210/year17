@@ -1,0 +1,31 @@
+reading record of <<Linux C Programming Guidance>>
+
+7/15 - 8/30
+
+This book contains:
+
+Introduction
+
+Memory Management
+
+Vim and Emacs
+
+gcc Compiler
+
+gdb debugging
+
+process control
+
+IPC
+
+File system
+
+Stream
+
+Signal
+
+Network Programming
+
+Terminal
+
+Make

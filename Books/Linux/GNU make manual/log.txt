@@ -1,0 +1,35 @@
+reading record of <<GNU make manual>>
+
+6/1 - 9/1
+
+This book contains:
+
+Introduction
+
+GNU make
+
+Makefile Summary
+
+Makefile rules
+
+Makefile commands
+
+Makefile variables
+
+If conditions in Makefile
+
+Inline functions in Makefile
+
+Execution
+
+Hidden rules
+
+Update static library using make
+
+GNU make characters
+
+Compatible with other version
+
+Makefile constraint
+
+Make error

@@ -1,0 +1,11 @@
+books about version control
+
+including
+
+Got Git: The Definitive Guide of Git
+
+Version Vontrol with Git
+
+subversion
+
+Pragmatic Version Control Using Subversion

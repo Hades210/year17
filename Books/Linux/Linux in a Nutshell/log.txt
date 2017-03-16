@@ -1,0 +1,36 @@
+reading record of <<Linux in a Nutshell>>
+
+5/15 - 7/25
+
+This book contains:
+
+Introduction
+
+System and Network Administration Overview
+
+Linux Commands
+
+Boot Methods
+
+Package Management
+
+The Bash Shell
+
+Pattern Matching
+
+The Emacs Editor
+
+The vi, ex, and vim Editor
+
+The sed Editor
+
+The gawk Programming Language
+
+Source Code Management: An Overview
+
+SVN
+
+Git
+
+Virtualization Command-Line Tools
+

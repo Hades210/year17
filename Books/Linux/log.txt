@@ -1,0 +1,30 @@
+books about Linux Programming
+
+including
+
+<<tlcl>>
+
+<<Linux in a Netshell>>
+
+<<UNIX Network Programming Volume 1: The sockets networking API>>
+
+<<GNU/Linux Programming>>
+
+<<GNU make manual>>
+
+<<Beginning Linux Programming>>
+
+<<Linux C Programming Guidance>>
+
+<<APUE>>
+
+<<The art of UNIX Programming>>
+
+<<Advanced Linux Programming>>
+
+<<Programming with POSIX threads>>
+
+<<UNIX Network Programming Volume2: Interprocess Communications>>
+
+
+

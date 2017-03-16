@@ -1,0 +1,10 @@
+reading record of <<C++ Templates>>
+
+7/10 - 8/10
+
+Basic
+chapter 1 - chapter 6
+
+Templates in depth
+chapter 7 - chapter 15
+

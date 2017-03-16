@@ -1,0 +1,35 @@
+Reading Record of <<Thinking in C++>>
+
+7/1 - 9/1
+
+This book contains:
+
+Introduction to Objects
+
+Making and Using Objects
+
+The C in C++
+
+Data Abstraction
+
+Hiding the Implementation
+
+Initialization and CleanUp
+
+Function Overloading and Default Arguments
+
+Constants
+
+Inline Functions
+
+Name Control
+
+references and the Copy-constructor
+
+Dynamic Object Creation
+
+Inheritance and Composition
+
+Polymorphism and Virtual Functions
+
+Introduction to Templates

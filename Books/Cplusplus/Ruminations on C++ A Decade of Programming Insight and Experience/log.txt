@@ -1,0 +1,17 @@
+Reading Record of <<Ruminations on C++: A Decade of Programming Insight and Experience>>
+
+6/1 - 7/20
+
+This book contains:
+
+Motivation
+
+Classes and Inheritance
+
+Templates
+
+Libraries
+
+Technology
+
+Summary

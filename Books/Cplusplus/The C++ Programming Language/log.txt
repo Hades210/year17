@@ -1,0 +1,13 @@
+Reading records of <<The C++ Programming Language>> (4 ed )
+
+3/15 - 4/30
+
+This book contains:
+
+Introductory Material
+
+Basic Facilities
+
+Abstraction Mechanisms
+
+The Standard Library

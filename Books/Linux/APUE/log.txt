@@ -1,0 +1,47 @@
+reading record of APUE
+
+7/25 - 11/25
+
+This book contains:
+
+Unix System Overview
+
+UNIX Standardization and Implementations
+
+File IO
+
+Files and Directories
+
+Standard I/O Library
+
+System Data File and Information
+
+Process Environment
+
+Process Control
+
+Process Relationships
+
+Signals
+
+Threads
+
+Thread Control
+
+Daemon Processes
+
+Advanced I/O
+
+Interprocess Communication
+
+Network IPC: Sockets
+
+Advanced IPC
+
+Terminal I/O
+
+Pseudo Terminal
+
+A Database Library
+
+Communicating with a Network Printer

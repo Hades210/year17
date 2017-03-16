@@ -1,0 +1,41 @@
+reading record of <<Beginning Linux Programming>>
+
+7/1 - 8/20
+
+This book contains:
+
+Getting started
+
+Shell Programming
+
+Working with Files
+
+The Linux Environment
+
+Terminals
+
+Managing Text-Based Screens with curses
+
+Data Management
+
+MySQL
+
+Development Tools
+
+Debugging
+
+Processes and Signals
+
+POSIX Threads
+
+Interprocess Communication: Pipes
+
+Semaphores, Shared Memory, and Message Queues
+
+Sockets
+
+Programming GNOME Using GTK+
+
+Programming KDE Using Qt
+
+Standards for Linux

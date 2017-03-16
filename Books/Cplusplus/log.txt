@@ -1,0 +1,15 @@
+books of C++
+
+including
+
+<<The C++ Programming Language>>
+
+<<Effective C++>>
+
+<<Inside The C++ Object Model>>
+
+<<Ruminations on C++: A Decade of Programming Insight and Experience>>
+
+<<Thinking in C++>>
+
+<<The Design and Evolution of C++>>

@@ -1,0 +1,8 @@
+books about STL
+
+including
+
+<<The C++ Standard Libraries>>
+
+<<C++ Templates>>
+

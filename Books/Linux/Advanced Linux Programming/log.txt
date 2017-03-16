@@ -1,0 +1,27 @@
+reading record of <<Advanced Linux Programming>>
+
+8/10 - 10/10
+
+This book contains:
+
+Getting started
+
+Writing Good GNU/Linux Software
+
+Processes
+
+Threads
+
+IPC
+
+Devices
+
+The /proc filesystem
+
+Linux System Call
+
+Inline Assembly Code
+
+Security
+
+A sample GNU/Linux Application
