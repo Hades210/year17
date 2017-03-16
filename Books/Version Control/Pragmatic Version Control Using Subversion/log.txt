@@ -1,4 +1,27 @@
-reading record of <<Version Control with Git>>
+reading record of << Pragmatic Version Control Using Subversion >>
 
-6/10 - 8/20
+7/1 - 9/1
 
+This book contains:
+
+Introduction
+
+What is Version Control
+
+Getting started with Version Control
+
+How to
+
+Accessing A Repository
+
+Common Subversion Commands
+
+File locking and Binary Files
+
+Organizing Your repository
+
+Using tags and branches
+
+Creating a Project
+
+Third-party code

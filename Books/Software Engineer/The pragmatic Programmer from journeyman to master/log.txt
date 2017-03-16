@@ -1,0 +1,21 @@
+reading record of <<The pragmatic programmer from journeyman to master>>
+
+7/1 - 8/1
+
+This book contains:
+
+A pragmatic Philosophy
+
+A pragmatic Approach
+
+The Basic Tools
+
+Pragmatic Paranoia
+
+Bend or Break
+
+While you are coding
+
+Before The Project
+
+Pragmatic Projects

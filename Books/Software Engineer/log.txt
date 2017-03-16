@@ -1,0 +1,11 @@
+books of Software Engineer
+
+including
+
+The pragmatic Programmer from journeyman to master
+
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+
+Working Effectively with Legacy Code
+
+Code Quality: The Open Source Perspective

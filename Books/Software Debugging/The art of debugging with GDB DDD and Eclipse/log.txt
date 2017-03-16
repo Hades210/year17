@@ -1,0 +1,21 @@
+reading record of << The art of debugging with GDB DDD and Eclipse >>
+
+7/1 - 8/15
+
+This book contains:
+
+Prerequisite
+
+Stop to look through your codes
+
+Check variables through gdb
+
+core dump
+
+debugging threads
+
+special theme
+
+other tools
+
+other language

@@ -1,0 +1,15 @@
+reading record of <<Software Debugging>>
+
+8/1 - 12/1
+
+This book contains:
+
+Introduction
+
+CPU Debugging Support
+
+Operation System Debugging Support
+
+Compiler Debugging Support
+
+Debuggability
