@@ -1,0 +1,67 @@
+The standard library consists of components developed over a period
+of almost 40 years. Thus, their style and approaches to error handling are not consistent:
+
+C-style libraries consist of functions, many of which set errno to indicate that an error happened.
+
+Many algorithms operating on a sequence of elements return an iterator to the one-past-the-last element to indicate "not found" or "failure"
+
+The I/O streams library relies on a state in each stream to reflect errors and may(if the user requests it) throws exceptions to indicate errors
+
+some standard-library components, such as vector, string, and bitset, throw exceptions to indicate errors.
+
+
+bitset								invalid_argument/out_of_range/overflow_error
+iostream							ios_base::failure
+regex								regex_error
+string								length_error/out_of_range
+vector								out_of_range
+new T 								bad_alloc
+dynamic_cast<T>(r)					bad_cast
+typeid()							bad_typeid
+thread								system_error
+call_once()							system_error
+mutex								system_error
+condition_variable					system_error
+async()								system_error
+packaged_task						system_error
+future/promise						system_error
+
+
+It is a good idea to always catch one of the root classes of the standard-library excception hierarchy(such as exception)
+as well as any exception(...)somewhere.
+
+Do not throw built-in types, such as int and C-style strings. Instead, throw Objects of types specifically defined to be used as exceptions.
+
+page1139
+
+exception propagation
+
+exception_ptr						Unspecified type used to point to exceptions
+ep = current_exception()			ep is an exception_ptr to the current exception, or to no exception if there is no currently
+									active exception;noexcept
+rethrow_exception(ep)				re-throw the exception pointed to by ep;
+									ep's contained pointer must not be nullptr;noreturn									
+ep = make_exception_ptr(e)			ep is an exception_ptr to exception e; noexcept
+
+An exception_ptr can point to any exception, not just exceptions from the exception hierarchy. Think of exception_ptr as a smart
+pointer that keeps its exception alive for as long as an exception_ptr points to it. That way, we can pass an exception_pointer to an exception out of a function that caught it and re-throw elsewhere. In particular, an exception_ptr can be used to implement
+a re-throw of an exception in a different thread from the one in which the exception was caught. This is what promise and future rely on. Use of rethrow_exception() on an exception_ptr (from different threads ) does not introduce a data race.
+
+A nested_exception is class that stores an exception_ptr obtained from a call of current_exception():
+
+nested_exception ne();							Default constructor: ne holds an exception_ptr
+												to the current_exception(); noexcept
+nested_exception ne(ne2);						Copy constructor: both ne and ne2 hold an exception_ptr to the stored exception
+ne2 = ne 										Copy assignment: both ne and ne2 hold an exception_ptr to the stored exception
+ne.~nested_exception()							Destructor;virtual
+ne.rethrow_nested()								Rethrow ne's stroed exception
+												terminate() if no exception is stored in ne;noreturn
+ep = ne.nested_ptr()							ep is an exception_ptr pointing to ne's stored exception;noexcept
+throw_with_nested(e)							Throw an exception of type derived fro nested_exception
+												and e's type; e must not be derived from nested_exception;noreturn
+rethrow_with_nested(e)							dynamic_cast<const nested_exception&>(e).rethrow_nested();
+												e's type must be derived from nested_exception
+
+																																			
+
+
