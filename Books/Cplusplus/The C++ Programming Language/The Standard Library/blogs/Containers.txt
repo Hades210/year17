@@ -1,0 +1,57 @@
+map/multimap/set/multiset containers are usually implemented as balanced binary trees (usually red-black trees)
+The default ordering criterion for a key, K, is std::less<K>
+
+unordered_map/unordered_multimap/unordered_set/unordered_multiset containers arfe impplemented as hash tables with linked overflow. The default hash function type H, for a type K is std::hash<K>. The default for the equality function type, E, for a type K is std::equal_to<K>
+
+To be an element of a container, an object must be of a type that allows the container implementation to copy or move it, and to swap elements. If a container copies an element using a copy constructor or copy assignment, the result of the copy must be an equivalent object. This roughly means that any tests for equality that you can devise on the value of the objects must deem the copy equal to the original. Similarly, a move constructor and a move assignment must have the conventional definitions and move semantics. In addition, it mujst be possible to swap() elements with the usual semantics. If a type has copy or move, the standard-library swap() will work.
+
+Associative containers. For an ordering criterion cmp (think of it as "less than") we require:
+
+Irreflexivity: cmp(x,x) is false.
+Antisymmetry:  cmp(x,y) implies !(cmp(y,x)).
+Transitivity: If cmp(x,y) and cmp(y,z), then cmp(x,z).
+Transitivity of equivalence: Define equiv(x,y) to be !(cmp(x,y) || cmp(y,x)). If equiv(x,y) and equiv(y,z),then equiv(x,z).
+The last rule is the one that allows us to define equality(x==y) as !(cmp(x,y)||cmp(y,x)) if we need ==.
+
+Beware that < on C-style strings(const char* s) compares pointer values. Thus, associative containers will not work as nost people would expect them to if C-style strings are used as keys. To make them work properly, a less-than operation that compares based on lexicographical order must be used. For example:
+
+struct Cstring_less {
+	bool operator() (const char* p, const char* q) const {return strcmp(p,q) < 0;}	
+};
+
+map<char*,int,Cstring_less> m;
+
+Given < and ==, we can easily construct the rest o the usual comparisons. The standard library defines them in the namespace std::rel_ops and presents them in <utility>
+
+page1168
+
+We can move them as arguments when we don't want aliasing. For example:
+
+void task(vector<int>&& v);
+
+vector<int> user(vector<int>& large)
+{
+	vector<int> res;
+	//...
+	task(move(large)); // transfer ownership of data to task()
+	//...
+	return res;
+}
+
+vector vs. array
+
+void read()
+{
+	array<int,MAX> a;
+
+	for(auto& x : a)
+		cin.get(&x);
+}
+
+For vector, we might use emplace_back() to achieve a similar effect.
+
+vector vs. string
+vector<char> 
+A vector is a general mechanism for storing values. It makes no assumptions about the relationships among the values stored in it. To constrast, a string is intended to hold character sequences.
+
+
