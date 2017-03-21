@@ -144,6 +144,7 @@ http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419396174&idx=1&sn=5a749173
 http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419800107&idx=1&sn=9f6e0c62a8d0195acaa7b4ac06849b97
 https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420429696&idx=1&sn=70088a12d51388c97296d396219e93c3
 https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420595183&idx=1&sn=e1c02c46447fefe15e5b87bc8e45ff2d (硅谷王川)
+
 www.wiley.com/WileyCDA/WileyTitle/productCd-1118999738,subjectCd-BE00.html (书）
 http://www.springer.com/cn/book/9783319251257(书)
 http://bookzz.org/
@@ -304,3 +305,86 @@ http://thulac.thunlp.org/ (清华大学NLP 中文分词)
 http://www.graphics.stanford.edu/~niessner/thies2016face.html
 http://www.graphics.stanford.edu/~niessner/index.html
 http://www.graphics.stanford.edu/~niessner/thies2016face.html
+
+http://homes.cs.washington.edu/~nasmith/index.html (CMU noah smith)
+http://demo.clab.cs.cmu.edu/fa2015-11763/ （cmu 语言等离散数据的结构预测)
+
+http://web.stanford.edu/class/cs224n/
+https://nlp.stanford.edu/courses/cs224n/
+https://nlp.stanford.edu/courses/cs224n/2015/ (cs224n 课程相关)
+
+https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1
+http://www.crcnetbase.com/doi/book/10.1201/9781420035391(书)
+
+http://suanfazu.com/t/tensorflow/12854?u=hyper （tensorflow 源码学习)
+http://suanfazu.com/ (算法组)
+http://www.algorithmdog.com/
+http://crad.ict.ac.cn/CN/volumn/home.shtml(中国计算机学会 会刊)
+
+http://homes.cs.washington.edu/~jxie/
+http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html
+
+http://pandas.pydata.org/
+http://tomaugspurger.github.io/modern-1.html
+http://tomaugspurger.github.io/method-chaining.html
+http://tomaugspurger.github.io/
+
+http://www.unofficialgoogledatascience.com/2016/03/using-random-effects-models-in.html
+https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
+http://www.deeplearningbook.org/
+http://machinelearningmastery.com/deep-learning-books/ (书单)
+http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start （课程)
+http://cilvr.nyu.edu/doku.php?id=start
+http://cilvr.nyu.edu/doku.php?id=courses:start
+https://github.com/tensorflow
+github top100 国人
+http://blog.codingnow.com/
+http://evanyou.me/
+http://blog.ibireme.com/
+http://stormzhang.com/
+http://blog.devtang.com/
+http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/ (神经网络与深度学习时间简史)
+http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/
+http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/
+http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/
+https://scs.hosted.panopto.com/Panopto/Pages/Home.aspx
+https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=10&folderQuery=%2215-213%22 （cmu 课程)
+
+http://blog.csdn.net/langb2014/article/category/5998589 （caffe 从入门到放弃)
+http://blog.csdn.net/langb2014/article/category/2495471 (opencv 从入门到放弃)
+http://coursegraph.com/tag/%E7%AE%97%E6%B3%95
+
+http://blog.csdn.net/u013088062/article/details/51118744
+http://blog.csdn.net/u013088062/article/category/5738609
+https://people.mpi-inf.mpg.de/~mehlhorn/
+http://svaksha.github.io/pythonidae/
+http://www.cs.cmu.edu/~guyb/realworld.html
+http://videolectures.net/course_information_theory_pattern_recognition/ 
+http://videolectures.net/
+https://github.com/docker
+http://learnbigcode.github.io/ (大代码数据集)
+http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/ （李飞飞 科研建议)
+https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650790506&idx=1&sn=493a4cbde6196b74c6bdf94b3d22106d
+http://qinhongwei.com/
+http://python.jobbole.com/84809/
+http://www.thoughtly.co/blog/deep-learning-lesson-1/
+http://www.thoughtly.co/blog/deep-learning-lesson-2/
+http://www.thoughtly.co/blog/deep-learning-lesson-3/
+http://www.thoughtly.co/blog/
+http://chinagdg.org/ （google开发者 中文社区)
+http://scikit-learn.org/stable/
+http://i.youku.com/i/UMjczOTc0NDkzNg==/playlists?spm=a2hzp.8244740.0.0 (google开发者的youku）
+http://chinagdg.org/2016/03/machine-learning-recipes-for-new-developers/
+http://www.cs.cmu.edu/~tom/10701_sp11/ （cmu machine learning课程)
+http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
+http://www.cs.cmu.edu/~tom/
+http://www.cs.cmu.edu/
+http://machinelearningmastery.com/start-here/
+http://machinelearningmastery.com/train-final-machine-learning-model/
+https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+https://yq.aliyun.com/articles/30794
+https://yq.aliyun.com/articles/30796
+http://www.cs.princeton.edu/~wayne/kleinberg-tardos/
+http://www.cs.princeton.edu/~wayne/contact/
+http://www.cs.princeton.edu/
