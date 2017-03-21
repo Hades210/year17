@@ -388,3 +388,73 @@ https://yq.aliyun.com/articles/30796
 http://www.cs.princeton.edu/~wayne/kleinberg-tardos/
 http://www.cs.princeton.edu/~wayne/contact/
 http://www.cs.princeton.edu/
+http://web.eecs.umich.edu/~cscott/past_courses/eecs545f15/index.html
+http://web.eecs.umich.edu/~cscott/
+http://www.cs.toronto.edu/~rgrosse/csc321/
+http://www.cs.toronto.edu/~rgrosse/
+https://cs.uwaterloo.ca/~jimmylin/teaching.html
+https://cs.uwaterloo.ca/~jimmylin/
+http://joanbruna.github.io/stat212b/
+http://link.springer.com/book/10.1007/978-0-387-87811-9 (书)
+http://www.tomsargent.com/
+http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
+http://blog.echen.me/
+https://www.semanticscholar.org/
+http://tech.meituan.com/online-learning.html
+http://tech.meituan.com/
+http://web.stanford.edu/~jurafsky/
+http://www.cnblogs.com/llhthinker/tag/Machine%20Learning/ (standford机器学习笔记)
+http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html (书)
+http://webdocs.cs.ualberta.ca/~sutton/
+http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html
+http://www.lua.org/ （脚本语言)
+https://www.rust-lang.org/en-US/
+https://www.haskell.org/
+http://erlang.org/doc/man/erlang.html
+https://www.codingame.com/
+https://www.codingame.com/training/machine-learning
+https://github.com/all-umass
+https://github.com/rlpy
+https://visualstudiomagazine.com/articles/2016/04/19/intro-to-cpp-core-guidelines.aspx
+https://www.pluralsight.com/
+http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
+https://github.com/isocpp
+https://python.libhunt.com/
+https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html#types-of-rnn
+http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb
+https://deepmind.com/research/publications/
+http://rll.berkeley.edu/deeprlcourse/
+http://www.bibtex.org/ (写论文时，制作参考文件的工具)
+http://www.princeton.edu/haushofer/
+http://harvardnlp.github.io/
+https://github.com/openai
+https://www.quora.com/What-is-the-best-online-course-for-Python-data-science-and-machine-learning
+https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details
+http://users.eecs.northwestern.edu/~yingwu/teaching/EECS433/index.html
+http://users.eecs.northwestern.edu/~yingwu/
+http://it.eecs.northwestern.edu/
+http://steshaw.org/plt/
+http://steshaw.org/
+http://studiy.co/path/deep-learning/
+http://studiy.co/
+http://fabiensanglard.net/algorithms_and_datastructures/index.php (算法)
+http://fabiensanglard.net/
+http://prml.github.io/
+https://github.com/PRML （matlab code for algorithm in prml)
+https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/
+https://galeascience.wordpress.com/
+http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/
+http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/
+http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/
+http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/
+http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/
+http://brettromero.com/wordpress/data-science-kaggle-walkthrough-creating-model/
+http://brettromero.com/wordpress/
+https://mva.microsoft.com/zh-cn/training-courses/-8249?l=HOo1R00QB_3300115888
+https://mva.microsoft.com/
+http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=401316537&idx=1&sn=c009cb4e4f055b4e54cb6afbce9ed5b4
+http://coursegraph.com/tag/spark
+https://www.youtube.com/watch?v=CwhFjQThBX0
+http://www.aioptify.com/topmldmbooks.php
+https://github.com/unnati-xyz
+http://beust.com/weblog/
