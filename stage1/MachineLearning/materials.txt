@@ -458,3 +458,44 @@ https://www.youtube.com/watch?v=CwhFjQThBX0
 http://www.aioptify.com/topmldmbooks.php
 https://github.com/unnati-xyz
 http://beust.com/weblog/
+http://neuralnetworksanddeeplearning.com/
+http://cseweb.ucsd.edu/~dasgupta/250B/lectures.html 
+http://cseweb.ucsd.edu/~dasgupta/
+http://videolectures.net/sanjoy_dasgupta/
+https://cn.aminer.org/ (唐杰老师)
+https://github.com/nyu-dl
+https://github.com/nccgroup
+http://www.chuanke.com/v2889565-173289-848480.html (大规模机器学习概论)
+http://blog.csdn.net/heyongluoyao8/article/category/2220409
+http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
+http://the-paper-trail.org/blog/
+https://my.oschina.net/yilian/blog/664632 (TensorFlow的博客)
+https://github.com/jobbole
+https://cn.udacity.com/course/deep-learning--ud730/
+https://indico.io/blog/the-good-bad-ugly-of-tensorflow/
+https://indico.io/
+http://www.csuldw.com/2015/09/23/2015-09-23%20Machine%20learning%20materials/
+http://www.csuldw.com/
+http://webee.technion.ac.il/people/shimkin/MC15/
+https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
+https://www.nayuki.io/
+https://github.com/floydhub
+http://lib.csdn.net/home
+http://lib.csdn.net/base/2/structure
+http://www.cnblogs.com/cyruszhu/p/5496913.html
+http://haifengl.github.io/smile/index.html#overview
+https://www.packtpub.com/
+http://sonack.top/
+http://galahad-moye.top/
+http://www.yisongyue.com/courses/cs159/
+http://www.yisongyue.com/
+https://github.com/aimacode
+https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html
+https://www.slac.stanford.edu/xorg/nmtf/
+https://www6.slac.stanford.edu/
+http://aima.cs.berkeley.edu/
+http://www.uu.se/en
+http://graphific.github.io/posts/building-a-deep-learning-dream-machine/
+http://graphific.github.io/posts/running-a-deep-learning-dream-machine/
+
+
