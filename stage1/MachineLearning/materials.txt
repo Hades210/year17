@@ -359,6 +359,7 @@ http://blog.csdn.net/u013088062/article/category/5738609
 https://people.mpi-inf.mpg.de/~mehlhorn/
 http://svaksha.github.io/pythonidae/
 http://www.cs.cmu.edu/~guyb/realworld.html
+http://www.cs.cmu.edu/~guyb/
 http://videolectures.net/course_information_theory_pattern_recognition/ 
 http://videolectures.net/
 https://github.com/docker
@@ -497,5 +498,109 @@ http://aima.cs.berkeley.edu/
 http://www.uu.se/en
 http://graphific.github.io/posts/building-a-deep-learning-dream-machine/
 http://graphific.github.io/posts/running-a-deep-learning-dream-machine/
-
-
+http://101.datascience.community/2016/05/20/berkeley-undergrad-data-science-course-and-textbook/
+http://101.datascience.community/
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+http://www.valpo.edu/mathematics-statistics/academics/degree-programs/b-s-in-data-science/
+http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+http://ml4a.github.io/index/
+http://www.nature.com/news/mathematician-claims-breakthrough-in-sudoku-puzzle-1.9751 （sudoku有趣的事实)
+http://ml4a.github.io/classes/itp-S16/
+https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life
+http://web.bentley.edu/empl/c/ncarter/vgt/ (群论可视化)
+http://www.scratchapixel.com/
+https://nathancarter.github.io/
+http://cs.nju.edu.cn/zlj/
+https://www.gitbook.com/book/ds8/textbook/details
+http://data8.org/
+http://algo-visualizer.jasonpark.me/#path=graph_search/bfs/tree (算法可视化)
+http://www.52cs.org/?p=867
+http://www.52cs.org/?p=869
+http://www.52cs.org/?p=873 （陈天奇)
+http://www.stat.cmu.edu/~larry/=sml/
+http://www.stat.cmu.edu/~larry/
+http://blog.csdn.net/eternity1118_/article/category/6174993 （模式识别博客)
+https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people
+http://www.stat.cmu.edu/
+https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+https://www.cs.ox.ac.uk/ (牛津)
+http://www.math.ucla.edu/~wotaoyin/math164/
+http://www.math.ucla.edu/~wotaoyin/math273a/
+http://www.math.ucla.edu/~wotaoyin/index.html
+https://falconn-lib.org/ （FALCONN相关资料)
+https://arxiv.org/abs/1509.02897
+https://github.com/FALCONN-LIB
+https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf (费曼量子计算论文)
+https://people.eecs.berkeley.edu/~christos/
+http://top.jobbole.com/35028/?repeat=w3tc (随机数生成算法)
+https://eccc.weizmann.ac.il/report/2015/119/
+https://google.github.io/styleguide/pyguide.html (google python编程风格指南)
+https://google.github.io/styleguide/
+http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/
+http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/lectures.html
+http://people.eecs.berkeley.edu/~jordan/courses/281A-spring14/
+http://web.mit.edu/15.053/www/
+https://github.com/thunlp
+http://web.mit.edu/
+https://pan.baidu.com/share/home?uk=4265849107#category/type=0 (何登成)
+http://hedengcheng.com/
+https://cpp.libhunt.com/
+http://www.springer.com/us/book/9783319306186 (书)
+https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/
+https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
+http://www.squeakland.org/resources/books/readingList.jsp (书单)
+http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb
+http://www.squeakland.org/
+https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/course_schedule.html
+https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html
+http://ai.berkeley.edu/lecture_videos.html
+http://ai.berkeley.edu/home.html
+http://www.cs.ucsb.edu/~william/index.html （王威廉老师)
+http://bugra.github.io/work/notes/2016-06-05/a-gentle-introduction-to-bloom-filter/ (bloom filter)
+http://bugra.github.io/
+http://courses.cms.caltech.edu/cs179/
+https://adamscheller.com/book-reviews/from-mathematics-to-generic-programming-review/
+http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html
+http://datanice.github.io/
+http://www.opsschool.org/en/latest/unix_101.html (unix 101)
+http://www.opsschool.org/en/latest/index.html
+http://www.cs.yale.edu/homes/aspnes/
+https://komunity.komand.com/learn/article/gdb-for-fun-and-profit/
+https://www.programmingalgorithms.com/algorithm/dijkstra%27s-algorithm?lang=PHP
+https://www.programmingalgorithms.com/
+http://bafflednerd.com/learn-python-online/
+http://bafflednerd.com/
+https://komunity.komand.com/learn/article/gdb-for-fun-and-profit/
+https://komunity.komand.com/
+https://github.com/UKPLab
+https://www.ukp.tu-darmstadt.de/ukp-home/
+https://hackerlists.com/free-machine-learning-books/
+http://bafflednerd.com/learn-sql-online/
+http://bjsc.github.io/SuperLR-Page/pages/
+http://www.mlyearning.org/
+https://mp.weixin.qq.com/s?__biz=MjM5NDQ3NTkwMA==&mid=2650141339&idx=1&sn=0a8e7dadec3526af55677ecc3395bd57
+https://hackerlists.com/free-java-books/
+https://sebastianraschka.com/faq/index.html
+https://sebastianraschka.com/
+https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+http://mp.weixin.qq.com/s?__biz=MzA3OTgzMzUzOA==&mid=503740900&idx=1&sn=2f6c7eaea5c59300d5000a214235df6d#rd
+https://blog.packagecloud.io/
+https://hackerlists.com/free-data-science-books/
+https://hackerlists.com/
+http://openbigdatagroup.github.io/plda/
+http://openbigdatagroup.github.io/psvm/
+http://openbigdatagroup.github.io/pspectralclustering/
+http://openbigdatagroup.github.io/speedo/
+http://openbigdatagroup.github.io/
+https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html
+https://dnlcrl.github.io/
+https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf
+http://lvdmaaten.github.io/publications/
+http://lvdmaaten.github.io/
+http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets
+https://github.com/torchnet
+https://github.com/nasa/
+https://code.nasa.gov/#/
+http://blog.csdn.net/watkinsong/article/details/51773524
+https://jaxenter.com/machine-learning-an-introduction-for-programmers-122135.html
