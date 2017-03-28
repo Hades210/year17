@@ -162,6 +162,14 @@ https://www.edx.org/course/toeflr-test-preparation-insiders-guide-etsx-toeflx-2
 https://www.edx.org/course/ielts-academic-test-preparation-uqx-ieltsx-0
 `STATUS:NOT START`
 
+http://courses.csail.mit.edu/6.034s/about.html
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-spring-2005/
+`STATUS:NOT START`
+
+http://deeplearning.cs.cmu.edu/
+`STATUS:NOT START`
+
+
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
 
@@ -1051,6 +1059,71 @@ http://www.makeuseof.com/tag/15-top-notch-podcasts-programmers-software-develope
 http://www.scipy-lectures.org/
 `STATUS:NOT START`
 
+https://hackerlists.com/computer-vision-resources/
+`STATUS:NOT START`
+
+http://documentup.com/matt-42/vpp
+http://perso.ensta-paristech.fr/~garrigues/index.html
+document for Video++ written by C++14
+`STATUS:NOT START`
+
+http://hunch.net/~l2s/
+Learning to search
+`STATUS:NOT START`
+
+http://hunch.net/
+Machine Learning Theory
+`STATUS:NOT START`
+
+http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718072&idx=1&sn=93f90c233077280da3097f397da6260b&scene=0#rd
+Machine Learning Summer School
+`STATUS:NOT START`
+
+https://hackerlists.com/beginner-ml-courses/
+`STATUS:NOT START`
+
+https://hackerlists.com/tensorflow-resources/
+`STATUS:NOT START`
+
+https://cn.aminer.org/data
+
+http://boredzo.org/
+http://boredzo.org/blog/archives/2016-08-15/colorized-man-pages-understood-and-customized
+`STATUS:NOT START`
+
+http://www.studytrails.com/
+http://www.studytrails.com/r/15-page-tutorial-for-r/
+`STATUS:NOT START`
+
+http://blog.josephmisiti.com/
+`STATUS:NOT START`
+
+https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c
+`STATUS:NOT START`
+
+http://weibo.com/ttarticle/p/show?id=2309404025388832575825
+`STATUS:NOT START`
+
+http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Miao_Fan
+http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/%E9%A6%96%E9%A1%B5
+`STATUS:NOT START`
+
+https://tensortalk.com/?s=hot&t=type-all
+`STATUS:NOT START`
+
+https://linuxstory.org/
+https://linuxstory.org/free-chinese-programming-books/
+`STATUS:NOT START`
+
+http://www.kuqin.com/shuoit/20161012/352959.html
+`STATUS:NOT START`
+
+http://www.tldp.org/index.html
+http://www.tldp.org/LDP/LG/
+http://www.tldp.org/LDP/LG/issue23/
+http://www.tldp.org/LDP/LG/issue23/flower/page1.html
+`STATUS:NOT START`
+
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
 
@@ -1124,6 +1197,7 @@ https://mva.microsoft.com/ebooks/
 https://www.manning.com/books/spark-graphx-in-action
 https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition 
 http://www.springer.com/gp/book/9783319340715
+http://www.springer.com/gp/book/9783658140748
 
 ## Academy
 
@@ -1242,6 +1316,16 @@ https://arxiv.org/abs/1104.5557
 
 https://arxiv.org/abs/1510.00116
 无等待栈
+`STATUS:NOT START`
+
+https://arxiv.org/abs/1511.08130
+`STATUS:NOT START`
+
+http://www.52cs.org/?p=1203
+`STATUS:NOT START`
+
+http://www.katyjordan.com/
+http://www.katyjordan.com/moocliterature/
 `STATUS:NOT START`
 
 ## Teaching Faculty
@@ -1392,6 +1476,14 @@ http://csifdocs.cs.ucdavis.edu/
 http://csiflabs.cs.ucdavis.edu/~ssdavis/
 http://csiflabs.cs.ucdavis.edu/~ssdavis/60/
 
+http://cocosci.berkeley.edu/tom/index.php
+
+https://www.microsoft.com/en-us/research/people/kannan/?from=https%3A%2F%2Fresearch.microsTensorFlowoft.com%2Fen-US%2Fpeople%2Fkannan%2Fbook-no-solutions-aug-21-2014.pdf
+http://www.cs.cmu.edu/~kannan/Papers/pubs.html
+http://aco.math.cmu.edu/index.html
+https://www.cs.cornell.edu/jeh/
+
+http://www.sz.tsinghua.edu.cn/publish/sz/139/2010/20101218141443318939067/20101218141443318939067_.html
 
 ## Open Source Projects
 `写代码就像写文章，多读优秀的文章可以提高作文的水平，多读优秀的开源代码，可以提高编码的水平`
@@ -1420,6 +1512,7 @@ Tsinghua NLP 开源代码
 
 https://github.com/google
 https://github.com/facebook
+https://github.com/facebookresearch
 https://github.com/microsoft
 https://github.com/baidu
 http://mxnet.io/index.html
