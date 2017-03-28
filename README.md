@@ -1,68 +1,68 @@
-# year17
-Plans for year 2017   
-C++
-www.cpluscplus.com    
-Java      
-Java编程实例1200例
-开源
-github上关注的一些项目    Java/C++
+# awesome year17
 
-Algorithm and Data Structure      
-刷题 vijos leetcode openjudge pku oj 
+Plans for year 2017
 
-Machine Learning && Data Mining
+```
+Mathematics won the war. 
+Mathematics broke the Japanese codes and built the A-bomb. 
+Mathematics like you.
+The stated goal of the Soviets is global communism. 
+In medicine or ecomics, in technology or space,
+battle lines are being drawn. 
+To triumph we need results. Publishable applicable results. 
+Now who among you will be the next Morse? The next Einstein? 
+Who among you will be the vanguard of democracy freedom and discovery? 
+Today we bequeath America's future into your able hands. 
+Welcome to Princeton gentlemen.
+                                                --<<A Beautiful Mind>>
+``` 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## Table of contents
+* [C++](#c++)
+    * [CPP](#cpp)
+    * [STL](#stl)
+* [Java](#java)
+* [Open Source](#open-source)
+* [Algorithm and Data Structure](#algorithm-and-data-structure)
+* [Machine Learning and Data Mining](#machine-learning-and-data-mining)
+* [Computer Science topics](#computer-science-topics)
+* [Mathematics](#mathematics)
 
-For C++ Books:
-深度探索C++对象模型
-Effective C++
-C++ 沉思录
+## C++
 
-For C++ STL Books:
-www.cpluscplus.com
-C++标准程序库
-C++ Templates
+books, blogs, websites and videos about C++ programming language
 
-For Java Books:
-Thinking in Java
-Effective Java
 
-For Java SCL Books:
-Java1200
-JDK
+### CPP
 
-For DSA Books
-THU 邓俊晖课程 配套教材 + 源代码
-PKU 张铭课程
-Princeton Robert课程 配套教材 + 源代码
+Object-Oritented Programming and Generic Programming
 
-For DSA Exercise:
-PKUOJ/OnlineJudge/九度/leetcode/vijos
+### STL
 
-For DSA Reference
-PKU 郭纬课 曲婉玲课
-小土刀博客 小优博客
+Containers and Algorithm and other libraries
 
-For 设计模式 books
-head first 设计模式
-23种设计模式
+## Java
 
-For 软件工程
-代码大全
-代码重构
+books,blogs,websites and videos about Java Programming language
 
-For Linux Books
-鸟哥的Linux私房菜
-TLCL
-Linux shell 脚本
+## Open Source
 
-For OS Books
-PKU 陈俞 向永课 + ucore代码
-中科大 Linux内核
+Open source Projects forked from git@github.com or git@git.oschina.net
 
-For TCP/IP Books
-TCP/IP详解 （3卷）
-Unix网络编程
 
-For OpenSource Project
+## Algorithm and Data Structure
+
+books, blogs, websites and videos about Algorithm and Data Structure
+
+## Machine Learning and Data Mining
+
+books, blogs, websites and videos about Machine Learning and Data Mining
+
+## Computer Science topics
+
+covers more topics about Computer Science, such as Operating System, Databases, Networks, Software Engineers, NLP, AI, Search Engine, Programming Language, Computer Vision and so on.
+
+## Mathematics
+
+mathematics that is required for Computer Science
+
