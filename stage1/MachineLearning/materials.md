@@ -169,9 +169,78 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-ar
 http://deeplearning.cs.cmu.edu/
 `STATUS:NOT START`
 
+https://pdos.csail.mit.edu/
+https://pdos.csail.mit.edu/6.824/
+MIT 6.824
+`STATUS:NOT START`
+
+https://cs.stanford.edu/~matei/
+https://cs.stanford.edu/~matei/courses/2015/6.S897/
+Large-Scale Systems
+`STATUS:NOT START`
+
+https://berkeley-deep-learning.github.io/
+https://berkeley-deep-learning.github.io/cs294-dl-f16/
+`STATUS:NOT START`
+
+http://cs.brown.edu/~mlittman/
+https://classroom.udacity.com/courses/ud820/lessons/684808907/concepts/6512308530923#
+Udacity Michael Littman
+`STATUS:NOT START`
+
+http://bair.berkeley.edu/
+http://ai.berkeley.edu/home.html
+CS188
+`STATUS:NOT START`
+
+http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html
+http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+`STATUS:NOT START`
+
+http://courses.csail.mit.edu/6.851/
+Advanced Algorithms
+`STATUS:NOT START`
+
+https://www.cs.stonybrook.edu/
+http://www3.cs.stonybrook.edu/~algorith/
+http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+`STATUS:NOT START`
 
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
+
+http://geek.csdn.net/news/detail/124887
+`STATUS:NOT START`
+
+http://www.52ml.net/20849.html
+`STATUS:NOT START`
+
+https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/
+`STATUS:NOT START`
+
+http://jeffe.cs.illinois.edu/
+http://jeffe.cs.illinois.edu/teaching/algorithms/
+`STATUS:NOT START`
+
+https://www.ops-class.org/
+`STATUS:NOT START`
+
+https://www.quora.com/What-are-some-Machine-learning-project-ideas-for-an-undergraduate-that-can-be-original-and-lead-to-a-publication
+`STATUS:NOT START`
+
+https://www.quora.com/How-do-you-motivate-yourself-when-you-are-down
+`STATUS:NOT START`
+
+https://xlinux.nist.gov/dads/
+Dictionary of Algorithm and Data Structure
+`STATUS:NOT START`
+
+http://www.bfilipek.com/
+`STATUS:NOT START`
+
+http://www.aristeia.com/
+Scott Meyers
+`STATUS:NOT START`
 
 http://blog.kaggle.com/2011/03/23/getting-in-shape-for-the-sport-of-data-sciencetalk-by-jeremy-howard/
 Machine Learning竞赛者的对话 
@@ -1124,6 +1193,10 @@ http://www.tldp.org/LDP/LG/issue23/
 http://www.tldp.org/LDP/LG/issue23/flower/page1.html
 `STATUS:NOT START`
 
+https://www.reddit.com/
+https://www.reddit.com/r/MachineLearning/comments/5ffgts/p_c_chai_another_open_source_minimal_neural/
+`STATUS:NOT START`
+
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
 
@@ -1233,6 +1306,7 @@ https://hci.iwr.uni-heidelberg.de/
 HCI
 https://hci.iwr.uni-heidelberg.de/Staff/ukoethe/
 
+http://cs.brown.edu/
 http://cs.brown.edu/~ls/
 http://cs.brown.edu/~ls/publications_year.html
 
@@ -1331,6 +1405,10 @@ http://www.katyjordan.com/moocliterature/
 ## Teaching Faculty
 `教师是人类灵魂的工程师`
 
+http://zhangmeishan.github.io/
+http://www.sns.ias.edu/witten
+http://www.cs.washington.edu/people/faculty/bodik
+http://www.dartmouth.edu/~chance/
 http://yann.lecun.com/
 http://www.cs.cmu.edu/~muli/
 百度少帅 李沐
@@ -1488,6 +1566,12 @@ http://www.sz.tsinghua.edu.cn/publish/sz/139/2010/20101218141443318939067/201012
 ## Open Source Projects
 `写代码就像写文章，多读优秀的文章可以提高作文的水平，多读优秀的开源代码，可以提高编码的水平`
 
+http://mp.weixin.qq.com/s/04U5Gcj4Bb4wEgxPV3qLiA
+https://github.com/commaai
+
+https://github.com/CLDrone
+`STATUS:NOT START`
+
 https://github.com/jonblower/python-viz-intro
 python可视化教程
 `STATUS:NOT START`
@@ -1627,6 +1711,11 @@ http://vissoc.co/index.html
 
 ### Free books download
 
+http://bookboon.com/en
+http://manybooks.net/
+http://gen.lib.rus.ec/
+http://www.pdfdrive.com/
+http://en.booksee.org/
 https://it-ebooks.info/
 免费下载IT书籍(英文)
 http://bookzz.org/
