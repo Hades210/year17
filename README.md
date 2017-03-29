@@ -65,4 +65,3 @@ covers more topics about Computer Science, such as Operating System, Databases, 
 ## Mathematics
 
 mathematics that is required for Computer Science
-
