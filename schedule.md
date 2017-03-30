@@ -99,8 +99,8 @@ subversion
 程序员修炼之道 从小工到专家
 软件开发者路线图 从学徒到高手
 凌波微步 软件开发警戒案例
-修改代码的艺术
 Code Quality
+修改代码的艺术
 
 ### Software Debugging
 `USERFUL SKILLS MUST BE MASTERED BY EVERY PROGRAMMER`
@@ -120,11 +120,49 @@ Algorithms in C++
 ## Mathematics
 `Actually, mathematics are the basis of not just computer science, but all science. You got to master mathematics if you really want to make a career`
 
+Introduction to Mathematical Thinking 
+Principles of Mathematical Analysis
+
 ### Advanced Mathematics
+
+Calculus(Robert Smith)
+Calculus(James Stewart)
+Precalculus A Problems Oriented Approach
+Calculus A one Year Course
+Calculus A Complete Course
+微积分学教程(菲赫金哥尔茨)
+微积分教程
+托马斯微积分
+微积分和数学分析引论 (科朗)
+离散数学及其应用
+The Princeton Companion to Mathematics
+Principles of Mathematical for Calculus
+Outline of 3000 solved problems in calculus
+
 
 ### Linear Algebra
 
+Introduction to Linear Algebra
+Linear Algebra and Its Applications
+线性代数及其应用
+Algebra and Trigonometry
+Elementary and Intermediate Algebra
+Intermediate Algebra
+代数学引论（科斯特利金）
+
 ### Probability
+
+深入浅出统计学
+概率论经典教程 钟开莱
+统计学 David Freedman
+概率论与数理统计(陈希孺)
+概率论教程 –钟开莱
+概率导论
+初等概率论-随机过程
+The Theory of Probability Explorations and Applications
+概率导论
+统计学习方法
+
 
 ## English
 `ATTENTION! THIS IS A MUST BE `
@@ -133,6 +171,9 @@ Algorithms in C++
 
 
 ## All of Computer Science
+
+### Theory
+Computational Science and Engineering
 
 ### Programming Language
 #### C/C++
