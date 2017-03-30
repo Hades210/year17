@@ -19,6 +19,7 @@ book lists for year 2017
     * [Linear Algebra](#linear-algebra)
     * [Probability](#probability)
 * [English](#english)
+* [Basic Skills](#basic-skills)
 * [Machine Learning](#machine-learning)
 * [All of Computer Science](#all-of-computer-science)
     * [Programming Language](#programming-language)
@@ -29,6 +30,9 @@ book lists for year 2017
         * [Scala](#scala)
         * [Lisp](#lisp)
         * [Lua](#lua)
+        * [R](#r-programming)
+        * [Matlab](#matlab)
+        * [Golang](#golang)
     * [Algorithms](#algorithm)
     * [Operating System](#operating-system)
     * [Database](#database)
@@ -167,7 +171,43 @@ The Theory of Probability Explorations and Applications
 ## English
 `ATTENTION! THIS IS A MUST BE `
 
+## Basic Skills
+`Skills about how to write essays, hou to use your time and how to learn better`
+### How-to-write-papers
+SCI科研投稿发文宝典
+科研方法与学术论文写作
+如何撰写与发表SCI期刊论文
+数学眼光
+院士教你读文献
+
 ## Machine Learning
+
+Learning From Data (Yaser)
+Learning from Data
+Machine Learning for Hackers
+Python for Data Analysis
+Head first Data Analysis
+Doing Data Science
+Data Mining: Concepts and Techniques, Third Edition
+数据挖掘导论
+
+Introduction to Data Mining
+Pattern Recognition and Machine Learning
+An Introduction to Information Retrieval
+An Introduction to Statistical Learning
+Bayesian Reasoning and Machine Learning
+Foundations of Statistical Natural Language Processing
+Probabilistic Graphical Models
+Machine Learning A Probabilistic Perspective
+Mining of Massive Datasets
+Networks Crowds and markets
+Natural Language Processing with Python
+Speech and Language Processing
+The elements of statistical Learning
+社交网站的数据挖掘与分析
+深入搜索引擎—海量信息的压缩、索引和查询
+数据挖掘与R语言
+搜索引擎 信息检索实践
 
 
 ## All of Computer Science
@@ -183,6 +223,19 @@ Computational Science and Engineering
 #### Scala
 #### Lisp
 #### Lua
+#### R Programming
+Learning R 
+R Programming for Data Science
+Exploratory Data Analysis with R
+Ggplot2 数据分析与图形艺术
+R Programming for Data Science
+R In a Nutshell
+R 数据可视化手册
+R 语言编程艺术
+R 语言经典实例
+R 语言实战
+#### Matlab
+#### Golang
 ### Algorithm
 ### Operating System
 ### Databases
