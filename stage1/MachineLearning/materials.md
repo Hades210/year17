@@ -206,8 +206,19 @@ http://www3.cs.stonybrook.edu/~algorith/
 http://www3.cs.stonybrook.edu/~algorith/video-lectures/
 `STATUS:NOT START`
 
+http://www.cs.virginia.edu/~evans/cs216/
+http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+`STATUS:NOT START`
+
+
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
+
+http://www.techug.com/post/how-google-do-load-balance.html
+
+http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+
+http://wap.sciencenet.cn/blogview.aspx?id=1016560
 
 http://geek.csdn.net/news/detail/124887
 `STATUS:NOT START`
@@ -1274,6 +1285,10 @@ http://www.springer.com/gp/book/9783658140748
 
 ## Academy
 
+http://www.cs.virginia.edu/
+http://www.dartmouth.edu
+http://www.ijecs.in/
+https://eecs.berkeley.edu/
 http://webscope.sandbox.yahoo.com/
 http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
 Yahoo
@@ -1400,6 +1415,12 @@ http://www.52cs.org/?p=1203
 
 http://www.katyjordan.com/
 http://www.katyjordan.com/moocliterature/
+`STATUS:NOT START`
+
+http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf
+`STATUS:NOT START`
+
+http://zhangmeishan.github.io/description%28expect-for-lrec2016%29.pdf
 `STATUS:NOT START`
 
 ## Teaching Faculty
@@ -1563,11 +1584,16 @@ https://www.cs.cornell.edu/jeh/
 
 http://www.sz.tsinghua.edu.cn/publish/sz/139/2010/20101218141443318939067/20101218141443318939067_.html
 
+http://www.cs.virginia.edu/~evans/
+
+
 ## Open Source Projects
 `写代码就像写文章，多读优秀的文章可以提高作文的水平，多读优秀的开源代码，可以提高编码的水平`
 
 http://mp.weixin.qq.com/s/04U5Gcj4Bb4wEgxPV3qLiA
 https://github.com/commaai
+
+https://github.com/intel-analytics
 
 https://github.com/CLDrone
 `STATUS:NOT START`
