@@ -214,6 +214,8 @@ http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
 
+http://www.iana.org/
+
 http://www.techug.com/post/how-google-do-load-balance.html
 
 http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
@@ -1425,7 +1427,7 @@ http://zhangmeishan.github.io/description%28expect-for-lrec2016%29.pdf
 
 ## Teaching Faculty
 `教师是人类灵魂的工程师`
-
+https://dickgrune.com/
 http://zhangmeishan.github.io/
 http://www.sns.ias.edu/witten
 http://www.cs.washington.edu/people/faculty/bodik
