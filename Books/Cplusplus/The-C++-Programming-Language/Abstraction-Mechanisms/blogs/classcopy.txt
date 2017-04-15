@@ -1,0 +1,87 @@
+By default, objects can be copied. In particular, a class object can be initialized with a copy of an object of its class. By default, the copy of a class object is a copy of each member. If that default is not the behavior wanted for a class X, a more appropriate behavior can be provided.
+Similarly, class objects can by default be copied by assignment. 
+Again, the default semantics is memberwise copy. If that is not the right choice for a class X, the user can define an appropriate assignment operator.
+
+Use struct for classes that as "just simple data structures". Classes as "a proper type with an invariant"
+It is not a requirement to declare data first in a class. In fact, it often makes sense to place data members last to emphasize the functions providing the public user interface.
+
+Since a constructor defines initialization for a class, we can use the {}-initializer notation
+I recommend the {} notation over the () notation for initialization because it is explicit about what is being done(initialization), avoids some potential mistakes, and can be used consistently.
+
+By default, a constructor invoked by a single argument acts as an implicit conversion from its argument type to its type.
+Fortunately, we can specify that a constructor is not used as an implicit conversion. A constructor declared with the keyword explicit can only be used for initialization and explicit conversions.
+
+If a constructor is decalred explicit and defined outside the class, that explicit cannot be repeated.
+
+An initialization with an = is considered a copy initialization. In principle, a copy of the initializer is placed into the initialized object.However, such a copy may be optimized away, and a move operation may be used if the initializer is an rvalue.
+
+In-Class Initializers
+we can add initializers to data members:
+
+class Date {
+	int d {today.d};
+	int m {today.m};
+	int y {today.y};
+public:
+	// ...
+}
+
+we can define a member of a class to be mutable, meaning that it can be modified even in a const object.
+class Date {
+public:
+	//...
+	string string_rep() const;
+private:
+	mutable bool cache_valid;
+	mutable string cache;
+	void compute_cache_value() const ; // fill (mutable) cache
+};
+
+string Date::string_rep() const 
+{
+	if(!cache_valid) {
+		compute_cache_value();
+		cache_valid = true;
+	}
+	return cache;
+}
+
+
+Declaring a member mutable is most appropriate when only a small part of a representation of a small object is allowed to change. More complicited cases are often better handled by placing the changing data in a separate object and accessing it indirectly. If that technique is used, the string-with-cache example becomes:
+
+struct cache {
+	bool valid;
+	string rep;
+};
+
+class Date {
+public:
+	string string_rep() const;
+private:	
+	cache* c; // initialize in constructor
+	void compute_cache_value() const; // fill what cache refers to
+
+};
+
+string Date::string_rep() const
+{
+	if(!c->valid) {
+		compute_cache_value();
+		c-valid=true;
+	}
+	return c->rep;
+}
+
+If we want to refer to a member in general, rather than to a member of a particular object, we qualify by the class name followed by ::
+
+static 
+If used, a static member - a function or data member - must be defined somewhere. The keyword static is not repeated in the defined somewhere. The keyword static is not repeated in the definition of a static member.
+
+In multi-threaded code, static data members require some kind of locking or access discipline to avoid race conditions.
+
+Member Types
+Types and types aliases can be members of a class.
+A member class (often called a nested class) can refer to types and static members of its enclosing class. It can only refer to non-static members when it is given an object of the enclosing class to refer to.
+
+
+
