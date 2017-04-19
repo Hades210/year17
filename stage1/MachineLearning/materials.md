@@ -26,1264 +26,908 @@ To be continued...
 ```
 互联网使得勤奋的学生有机会拉进了与名校学生之间的差距 -- by 佚名
 ```
-https://www.coursera.org/learn/machine-learning
-http://cs229.stanford.edu/ （讲义和笔记）
-Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave库
+[机器学习 cs229 by standard Andrew Ng](https://www.coursera.org/learn/machine-learning) </br>
+[cs229 讲义和笔记](http://cs229.stanford.edu/) </br>
+Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave库 4月17日开课 尽快学习</br>
 `STATUS:NOT START`
 
-https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x
-Caltech Learning from Data Yaser Abu-Mostafa 更多关注细节和数学知识
+[Caltech Learning from Data Yaser Abu-Mostafa](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)</br>
+这门课程更多关注细节和数学知识</br>
 `STATUS:NOT START`
 
-http://videolectures.net/Top/Computer_Science/Machine_Learning/ 
-videoLectures.net机器学习目录
+[videoLectures.net机器学习目录](http://videolectures.net/Top/Computer_Science/Machine_Learning/)</br>
 `STATUS:NOT START`
 
-https://www.youtube.com/watch?v=mF5-tr7qAF4
-机器如何学习算法 (讲座)
+[机器如何学习算法 (讲座) youtube](https://www.youtube.com/watch?v=mF5-tr7qAF4)</br>
 `STATUS:NOT START`
 
-http://munichacm.de/deeplearning/speakers/
+[speakers](http://munichacm.de/deeplearning/speakers/)</br>
 `STATUS:NOT START`
 
-https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/
-Computer Science 294 (UC Berkeley Michael Jordan)
+[Computer Science 294 (UC Berkeley Michael Jordan)](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)</br>
 `STATUS:NOT START`
 
-http://dataunion.org/2903.html
-SJTU数据科学相关课程
+[SJTU数据科学相关课程](http://dataunion.org/2903.html)</br>
 `STATUS:NOT START`
 
-https://cn.udacity.com/course/deep-learning--ud730
-深度学习 Google Udacity
+[深度学习 Google Udacity](https://cn.udacity.com/course/deep-learning--ud730)</br>
 `STATUS:NOT START`
 
-http://people.cs.umass.edu/~brenocon/inlp2015/
-umass NLP课程
+[umass NLP课程](http://people.cs.umass.edu/~brenocon/inlp2015/)</br>
 `STATUS:NOT START`
 
-http://vision.stanford.edu/teaching/cs231n/index.html 
-http://cs231n.github.io/
-cs231n FeifeiLi
+[cs231n 李飞飞课程](http://vision.stanford.edu/teaching/cs231n/index.html)</br>
+[github notes](http://cs231n.github.io/)</br>
 `STATUS:NOT START`
 
-http://mooc.guokr.com/topic/songshuhui_2_2016/
-英文写作 四门课
+[英文写作 四门课](http://mooc.guokr.com/topic/songshuhui_2_2016/)</br>
 `STATUS:NOT START`
 
-http://mooc.guokr.com/topic/mit-ocw-courses/
-MIT OCW 推荐课程
+[MIT OCW 推荐课程](http://mooc.guokr.com/topic/mit-ocw-courses/)</br>
 `STATUS:NOT START`
 
-http://mp.weixin.qq.com/s?__biz=MzI5MDEwMzc3MA==&mid=403188405&idx=1&sn=7b7a7e7fe62419cad1174ce64b215dcb#rd
-edx英文课程
+[edx英文课程](http://mp.weixin.qq.com/s?__biz=MzI5MDEwMzc3MA==&mid=403188405&idx=1&sn=7b7a7e7fe62419cad1174ce64b215dcb#rd)</br>
 `STATUS:NOT START`
 
-http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf
-Bayesian Networks
-http://nlp.postech.ac.kr/Course/CS704/
-机器学习与自然语言处理 课程
-http://nlp.postech.ac.kr/Course/
+[cs704 seoul National University](http://nlp.postech.ac.kr/Course/CS704/)</br>
+[cs704 pdf Bayesian Networks](http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf)</br>
+[Lectures related to iSoft Lab/CSE department lessons](http://nlp.postech.ac.kr/Course/)</br>
 `STATUS:NOT START`
 
-https://www.futurelearn.com/
-英国大学公开课
+[英国大学公开课](https://www.futurelearn.com/)</br>
 `STATUS:NOT START`
 
-http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-强化学习课程
+[David Silver homepage](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html)</br>
+[David Silver 强化学习课程 (AlphaGo作者)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)</br>
 `STATUS:NOT START`
 
-https://cn.udacity.com/course/machine-learning-for-trading--ud501
-udacity 算法交易与计算投资
+[udacity 算法交易与计算投资](https://cn.udacity.com/course/machine-learning-for-trading--ud501)</br>
 `STATUS:NOT START`
 
-http://cs224d.stanford.edu/index.html
+[cs224 Deep Learning for Natural Language Processing
+](http://cs224d.stanford.edu/index.html)</br>
 `STATUS:NOT START`
 
-http://data.library.utoronto.ca/
-https://data.library.utoronto.ca/cleaning-data-python
+http://data.library.utoronto.ca/</br>
+https://data.library.utoronto.ca/cleaning-data-python</br>
 `STATUS:NOT START`
 
-https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ
-youtube Machine Learning 课程
+[youtube Machine Learning 课程](https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ)</br>
 `STATUS:NOT START`
 
-https://scs.hosted.panopto.com/Panopto/Pages/Home.aspx
-https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=10&folderQuery=%2215-213%22
-cmu 课程
+[cmu 课程](https://scs.hosted.panopto.com/Panopto/Pages/Home.aspx)</br>
+[cmu Introduction to Computer Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=10&folderQuery=%2215-213%22)</br>
 `STATUS:NOT START`
 
-http://coursegraph.com/tag/%E7%AE%97%E6%B3%95
+[算法公开课](http://coursegraph.com/tag/%E7%AE%97%E6%B3%95)</br>
 `STATUS:NOT START`
 
-http://videolectures.net/
-http://videolectures.net/course_information_theory_pattern_recognition/ 
+[videolectures](http://videolectures.net/)</br>
+[information theory && pattern recognition](http://videolectures.net/course_information_theory_pattern_recognition/ 
 `STATUS:NOT START`
 
-http://chinagdg.org/
-google开发者 中文社区
-http://i.youku.com/i/UMjczOTc0NDkzNg==/playlists?spm=a2hzp.8244740.0.0
-google开发者的youku lists
+[google开发者 中文社区](http://chinagdg.org/)</br>
+[google开发者的youku lists](http://i.youku.com/i/UMjczOTc0NDkzNg==/playlists?spm=a2hzp.8244740.0.0)</br>
 `STATUS:NOT START`
 
-http://videolectures.net/sanjoy_dasgupta/
+[sanjoy dasgupta courses](http://videolectures.net/sanjoy_dasgupta/)</br>
 `STATUS:NOT START`
 
-https://mva.microsoft.com/
+[microsoft mva](https://mva.microsoft.com/)</br>
 `STATUS:NOT START`
 
-http://coursegraph.com/tag/spark
+[spark 公开课](http://coursegraph.com/tag/spark)</br>
 `STATUS:NOT START`
 
 https://www.youtube.com/watch?v=CwhFjQThBX0
 `STATUS:NOT START`
 
-http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=401316537&idx=1&sn=c009cb4e4f055b4e54cb6afbce9ed5b4
+[spark 书籍推荐](http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=401316537&idx=1&sn=c009cb4e4f055b4e54cb6afbce9ed5b4)</br>
 `STATUS:NOT START`
 
-https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/
+[MIT OCW 多元微积分](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)</br>
 `STATUS:NOT START`
 
-https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+[MIT OCW 线性代数](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)</br>
 `STATUS:NOT START`
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
+[MIT OCW 概率论](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)</br>
 `STATUS:NOT START`
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/
+[MIT OCW Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)</br>
 `STATUS:NOT START`
 
-http://list.youku.com/albumlist/show?id=27469882&ascending=1&page=1
-http://list.youku.com/albumlist/show?id=27327189&ascending=1&page=1
+[用Scikit-learn 和 Python 优雅地学会机器学习](http://list.youku.com/albumlist/show?id=27469882&ascending=1&page=1)</br>
+[ tensorflow 神经网络 教程](http://list.youku.com/albumlist/show?id=27327189&ascending=1&page=1)</br>
 `STATUS:NOT START`
 
-https://www.edx.org/course/toeflr-test-preparation-insiders-guide-etsx-toeflx-2
-https://www.edx.org/course/ielts-academic-test-preparation-uqx-ieltsx-0
+[edx TOEFL 课程](https://www.edx.org/course/toeflr-test-preparation-insiders-guide-etsx-toeflx-2)</br>
+[edx IELTS 课程](https://www.edx.org/course/ielts-academic-test-preparation-uqx-ieltsx-0)</br>
 `STATUS:NOT START`
 
-http://courses.csail.mit.edu/6.034s/about.html
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-spring-2005/
+[MIT 6.034 Artificial Intelligence ](http://courses.csail.mit.edu/6.034s/about.html)</br>
+[MIT OCW 6.034 Artificial Intelligence ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-spring-2005/)</br>
 `STATUS:NOT START`
 
-http://deeplearning.cs.cmu.edu/
+[cmu deep-learning](http://deeplearning.cs.cmu.edu/)</br>
 `STATUS:NOT START`
 
-https://pdos.csail.mit.edu/
-https://pdos.csail.mit.edu/6.824/
-MIT 6.824
+[MIT Parallel & Distributed Operating Systems Group ](https://pdos.csail.mit.edu/)</br>
+[MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/)</br>
 `STATUS:NOT START`
 
-https://cs.stanford.edu/~matei/
-https://cs.stanford.edu/~matei/courses/2015/6.S897/
-Large-Scale Systems
+
+[standford 6.S897: Large-Scale Systems](https://cs.stanford.edu/~matei/courses/2015/6.S897/)</br>
 `STATUS:NOT START`
 
-https://berkeley-deep-learning.github.io/
-https://berkeley-deep-learning.github.io/cs294-dl-f16/
+[berkeley deep-learning lessons](https://berkeley-deep-learning.github.io/)</br>
+[berkeley cs294](https://berkeley-deep-learning.github.io/cs294-dl-f16/)</br>
 `STATUS:NOT START`
 
-http://cs.brown.edu/~mlittman/
-https://classroom.udacity.com/courses/ud820/lessons/684808907/concepts/6512308530923#
-Udacity Michael Littman
+
+[Udacity Michael Littman](https://classroom.udacity.com/courses/ud820/lessons/684808907/concepts/6512308530923#)</br>
 `STATUS:NOT START`
 
-http://bair.berkeley.edu/
-http://ai.berkeley.edu/home.html
-CS188
+[berkeley bair 实验室](http://bair.berkeley.edu/)</br>
+[berkeley cs188](http://ai.berkeley.edu/home.html)</br>
 `STATUS:NOT START`
 
-http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html
-http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
+[MIT 6.851: Advanced Data Structures](http://courses.csail.mit.edu/6.851/)</br>
 `STATUS:NOT START`
 
-http://courses.csail.mit.edu/6.851/
-Advanced Algorithms
+[Department of Computer Science Stonybrook](https://www.cs.stonybrook.edu/)</br>
+[The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/)</br>
+[Algorithm 课程大合集](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)</br>
 `STATUS:NOT START`
 
-https://www.cs.stonybrook.edu/
-http://www3.cs.stonybrook.edu/~algorith/
-http://www3.cs.stonybrook.edu/~algorith/video-lectures/
+[CS216: Program and Data Representation](http://www.cs.virginia.edu/~evans/cs216/)</br>
+[x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)</br>
 `STATUS:NOT START`
-
-http://www.cs.virginia.edu/~evans/cs216/
-http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
-`STATUS:NOT START`
-
 
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
 
-http://www.iana.org/
+[Internet Assigned Numbers Authority](http://www.iana.org/)</br>
 
-http://www.techug.com/post/how-google-do-load-balance.html
+[Google是如何做负载均衡的](http://www.techug.com/post/how-google-do-load-balance.html)</br>
 
-http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+[Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)</br>
 
-http://wap.sciencenet.cn/blogview.aspx?id=1016560
+[爱德华·威滕 简介](http://wap.sciencenet.cn/blogview.aspx?id=1016560)</br>
 
-http://geek.csdn.net/news/detail/124887
-`STATUS:NOT START`
+[在美国大学计算机专业都学什么](http://geek.csdn.net/news/detail/124887)</br>
 
-http://www.52ml.net/20849.html
-`STATUS:NOT START`
+[学术资源BT站 研究数据集](http://www.52ml.net/20849.html)</br>
 
 https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/
-`STATUS:NOT START`
 
-http://jeffe.cs.illinois.edu/
-http://jeffe.cs.illinois.edu/teaching/algorithms/
+[Jeff Erickson](http://jeffe.cs.illinois.edu/) </br>
+[Jeff Erickson Algorithm lesson](http://jeffe.cs.illinois.edu/teaching/algorithms/) </br>
 `STATUS:NOT START`
 
-https://www.ops-class.org/
-`STATUS:NOT START`
+[Hack the kernel Learn Operating System Online](https://www.ops-class.org/)</br>
 
-https://www.quora.com/What-are-some-Machine-learning-project-ideas-for-an-undergraduate-that-can-be-original-and-lead-to-a-publication
-`STATUS:NOT START`
+[有哪些供本科生研究的机器学习课题](https://www.quora.com/What-are-some-Machine-learning-project-ideas-for-an-undergraduate-that-can-be-original-and-lead-to-a-publication)</br>
 
-https://www.quora.com/How-do-you-motivate-yourself-when-you-are-down
-`STATUS:NOT START`
+[情绪低落时如何鼓舞自己](https://www.quora.com/How-do-you-motivate-yourself-when-you-are-down)</br>
 
-https://xlinux.nist.gov/dads/
-Dictionary of Algorithm and Data Structure
-`STATUS:NOT START`
+[Dictionary of Algorithm and Data Structure](https://xlinux.nist.gov/dads/)</br>
 
-http://www.bfilipek.com/
-`STATUS:NOT START`
+http://www.bfilipek.com/</br>
 
-http://www.aristeia.com/
-Scott Meyers
-`STATUS:NOT START`
+[Scott Meyers： Effective 系列作者](http://www.aristeia.com/)</br>
 
-http://blog.kaggle.com/2011/03/23/getting-in-shape-for-the-sport-of-data-sciencetalk-by-jeremy-howard/
-Machine Learning竞赛者的对话 
-`STATUS:NOT START`
 
-https://conductrics.com/data-science-resources/
-https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1
-`STATUS:NOT START`
+[Machine Learning竞赛者的对话](http://blog.kaggle.com/2011/03/23/getting-in-shape-for-the-sport-of-data-sciencetalk-by-jeremy-howard/)</br>
 
-Programming Computer vision with python 笔记
-https://segmentfault.com/a/1190000003941588 (一)
-https://segmentfault.com/a/1190000003946953 (二)
-https://segmentfault.com/a/1190000003950550 (三)
-https://segmentfault.com/a/1190000003989791 (四)
-https://segmentfault.com/a/1190000004002685 (五)
-https://segmentfault.com/a/1190000004033826 (六)
-https://segmentfault.com/a/1190000004048075 (七)
-https://segmentfault.com/a/1190000004051795 (八)
-https://segmentfault.com/a/1190000004055633 (九)
-https://segmentfault.com/a/1190000004091583 (十)
-https://segmentfault.com/a/1190000004149225 (十一)
-https://segmentfault.com/a/1190000004200111 (十二)
-`STATUS:NOT START`
+[数据科学与机器学习列表](https://conductrics.com/data-science-resources/)</br>
+[Quora :How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)</br>
 
-http://matt.might.net/articles/books-papers-materials-for-graduate-students/推荐研究生书单
-`STATUS:NOT START`
 
-http://www.cnblogs.com/xinz/p/5044037.html 
-http://www.cnblogs.com/buaase/p/5066288.html
-http://www.cnblogs.com/greyzeng/p/5178001.html
-源代码管理
-`STATUS:NOT START`
+[Programming Computer vision with python 笔记 1 ](https://segmentfault.com/a/1190000003941588)</br>
+[Programming Computer vision with python 笔记 2 ](https://segmentfault.com/a/1190000003946953)</br>
+[Programming Computer vision with python 笔记 3 ](https://segmentfault.com/a/1190000003950550)</br>
+[Programming Computer vision with python 笔记 4 ](https://segmentfault.com/a/1190000003989791)</br>
+[Programming Computer vision with python 笔记 5 ](https://segmentfault.com/a/1190000004002685)</br>
+[Programming Computer vision with python 笔记 6 ](https://segmentfault.com/a/1190000004033826)</br>
+[Programming Computer vision with python 笔记 7 ](https://segmentfault.com/a/1190000004048075)</br>
+[Programming Computer vision with python 笔记 8 ](https://segmentfault.com/a/1190000004051795)</br>
+[Programming Computer vision with python 笔记 9 ](https://segmentfault.com/a/1190000004055633)</br>
+[Programming Computer vision with python 笔记 10 ](https://segmentfault.com/a/1190000004091583)</br>
+[Programming Computer vision with python 笔记 11 ](https://segmentfault.com/a/1190000004149225)</br>
+[Programming Computer vision with python 笔记 12 ](https://segmentfault.com/a/1190000004200111)</br>
 
-http://machinelearningmastery.com/machine-learning-in-r-step-by-step/
-R Machine Learning 例子
-`STATUS:NOT START`
+[推荐研究生书单](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)</br>
 
-http://www.wikiwand.com/en/Statistical_learning_theory
-Statistical Learning Wiki
-`STATUS:NOT START`
+[源代码管理 邹欣](http://www.cnblogs.com/xinz/p/5044037.html)</br>
+[Beta阶段 团队源代码管理](http://www.cnblogs.com/buaase/p/5066288.html)</br>
+[源代码管理](http://www.cnblogs.com/greyzeng/p/5178001.html)</br>
 
-http://blog.nycdatascience.com/meetup/learn-deep-learning-with-yann-lecun/
-`STATUS:NOT START`
+[R Machine Learning 例子](http://machinelearningmastery.com/machine-learning-in-r-step-by-step/)</br>
 
+[Statistical Learning Wiki](http://www.wikiwand.com/en/Statistical_learning_theory)</br>
 
-http://www.ezlippi.com/blog/2014/12/c-open-project.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-值得推荐的C++框架和库
-`STATUS:NOT START`
+[learn-deep-learning-with-yann-lecun](http://blog.nycdatascience.com/meetup/learn-deep-learning-with-yann-lecun/)</br>
 
-http://phunter.farbox.com/
-phunter_lan老师的博客
-`STATUS:NOT START`
+[值得推荐的C++框架和库](http://www.ezlippi.com/blog/2014/12/c-open-project.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)</br>
 
-https://www.ngdata.com/big-data-analysis-resources/
-50个大数据分析学习资料
-`STATUS:NOT START`
+[phunter_lan老师的博客](http://phunter.farbox.com/)</br>
 
-http://machinelearningmastery.com/
-机器学习博客 
-`STATUS:NOT START`
+[50个大数据分析学习资料](https://www.ngdata.com/big-data-analysis-resources/)</br>
 
-http://junma5.weebly.com/
-伊利诺伊大学应用数学系phD博客
-`STATUS:NOT START`
+[机器学习博客](http://machinelearningmastery.com/)</br>
 
-https://datascienceplus.com/
-R语言科学计算
-`STATUS:NOT START`
+[伊利诺伊大学应用数学系phD博客](http://junma5.weebly.com/)</br>
 
-http://machinelearningmastery.com/machine-learning-ensembles-with-r/
-`STATUS:NOT START`
+[R语言科学计算](https://datascienceplus.com/)</br>
 
-http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r
-`STATUS:NOT START`
+[machine-learning-ensembles-with-r](http://machinelearningmastery.com/machine-learning-ensembles-with-r/)</br>
 
-https://datascienceplus.com/mastering-r-plot-part-2-axis/
-`STATUS:NOT START`
+[build-your-own-neural-network-classifier-in-r](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)</br>
 
-http://eferm.com/machine-learning-cheat-sheet/
-机器学习算法速查表
-http://eferm.com/
-eferm的博客 Oxford Palantir
-`STATUS:NOT START`
+[mastering-r-plot-part-2-axis](https://datascienceplus.com/mastering-r-plot-part-2-axis/)</br>
 
-NLP系列
-http://blog.csdn.net/longxinchen_ml/article/details/50543337
-http://blog.csdn.net/longxinchen_ml/article/details/50597149
-http://blog.csdn.net/longxinchen_ml/article/details/50629110
-http://blog.csdn.net/longxinchen_ml/article/details/50629613
-http://blog.csdn.net/longxinchen_ml/article/details/50646528  
-`STATUS:NOT START`
+[机器学习算法速查表](http://eferm.com/machine-learning-cheat-sheet/)</br>
 
-https://kieranhealy.org/blog/archives/2016/02/10/data-visualization-course-notes/
-数据可视化课程
-`STATUS:NOT START`
+[eferm的博客 Oxford毕业 就职于Palantir](http://eferm.com/)</br>
 
-http://www.aioptify.com/topmldmbooks.php
-16本机器学习与数据挖掘的书
-`STATUS:NOT START`
+[NLP系列 1](http://blog.csdn.net/longxinchen_ml/article/details/50543337)</br>
+[NLP系列 2](http://blog.csdn.net/longxinchen_ml/article/details/50597149)</br>
+[NLP系列 3](http://blog.csdn.net/longxinchen_ml/article/details/50629110)</br>
+[NLP系列 4](http://blog.csdn.net/longxinchen_ml/article/details/50629613)</br>
+[NLP系列 5](http://blog.csdn.net/longxinchen_ml/article/details/50646528)</br>
 
-http://rt.dgyblog.com/
-http://rt.dgyblog.com/ref/ref-learning-deep-learning.html
-深度学习阅读清单
-`STATUS:NOT START`
+[数据可视化课程](https://kieranhealy.org/blog/archives/2016/02/10/data-visualization-course-notes/)</br>
 
-http://www.52caml.com/
-计算广告与机器学习
-`STATUS:NOT START`
+[16本机器学习与数据挖掘的书](http://www.aioptify.com/topmldmbooks.php)</br>
 
-http://dblp.uni-trier.de/
-计算机文献
-`STATUS:NOT START`
+[random thoughts](http://rt.dgyblog.com/)</br>
+[深度学习阅读清单](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)</br>
 
-http://www.kdnuggets.com/
+[计算广告与机器学习](http://www.52caml.com/)</br>
 
-https://www.techopedia.com/2/30510/trends/big-data/7-steps-for-learning-data-mining-and-data-science
-数据挖掘七步走
-`STATUS:NOT START`
+[计算机文献](http://dblp.uni-trier.de/)</br>
 
-http://weibo.com/p/1001603946008533927097
-如何读论文
-`STATUS:NOT START`
+[kdnuggets](http://www.kdnuggets.com/) </br>
 
-http://www.jeannicholashould.com/getting-started-with-statistics-for-data-science.html
-`STATUS:NOT START`
+[数据挖掘七步走](https://www.techopedia.com/2/30510/trends/big-data/7-steps-for-learning-data-mining-and-data-science)</br>
 
-http://dataunion.org/22115.html
-数据科学统计学入门
-`STATUS:NOT START`
+[如何读论文](http://weibo.com/p/1001603946008533927097)</br>
 
-http://www.jeannicholashould.com/
-JN的个人网站
-`STATUS:NOT START`
+[getting-started-with-statistics-for-data-science](http://www.jeannicholashould.com/getting-started-with-statistics-for-data-science.html)</br>
 
-http://dataunion.org/
-数盟社区
-`STATUS:NOT START`
+[数据科学统计学入门](http://dataunion.org/22115.html)</br>
 
-https://segmentfault.com/a/1190000004467183 (Python 识别相似图片 一)
-https://segmentfault.com/a/1190000004500523 (Python 识别相似图片 二)
-`STATUS:NOT START`
+[Jean Nicholas 的个人网站](http://www.jeannicholashould.com/)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzIyOTA2NTY0Nw==&mid=410685916&idx=1&sn=030197cee41b3204b9a434269941e0a9&scene=1&srcid=0228mRd7F1FRV5tWbEKanZVQ&from=groupmessage&isappinstalled=0#wechat_redirect
-NLP
-`STATUS:NOT START`
+[数盟社区](http://dataunion.org/)</br>
 
-http://www.keithschwarz.com/
-KS的个人网站
-http://www.keithschwarz.com/interesting/
-`STATUS:NOT START`
+[Python 识别相似图片 一](https://segmentfault.com/a/1190000004467183)</br>
+[Python 识别相似图片 二](https://segmentfault.com/a/1190000004500523)</br>
 
-https://matloff.wordpress.com/2016/03/01/50-draft-of-forthcoming-book-available/
-`STATUS:NOT START`
+[NLP概念浅析](http://mp.weixin.qq.com/s?__biz=MzIyOTA2NTY0Nw==&mid=410685916&idx=1&sn=030197cee41b3204b9a434269941e0a9&scene=1&srcid=0228mRd7F1FRV5tWbEKanZVQ&from=groupmessage&isappinstalled=0#wechat_redirect)</br>
 
-https://matloff.wordpress.com/
-`STATUS:NOT START`
+[Keith Schwarz的个人网站](http://www.keithschwarz.com/)</br>
+[The Archive of Interesting Code ](http://www.keithschwarz.com/interesting/)</br>
 
-硅谷王川
-http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419396174&idx=1&sn=5a7491735a0f3def426be277e03acec0
-http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419800107&idx=1&sn=9f6e0c62a8d0195acaa7b4ac06849b97
-https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420429696&idx=1&sn=70088a12d51388c97296d396219e93c3
-https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420595183&idx=1&sn=e1c02c46447fefe15e5b87bc8e45ff2d
-`STATUS:NOT START`
+[Mad Scientist](https://matloff.wordpress.com/)</br>
+[R programming book](https://matloff.wordpress.com/2016/03/01/50-draft-of-forthcoming-book-available/)</br>
 
-https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/
-sequence-learning
-`STATUS:NOT START`
+[深度学习有多深? 学了究竟有几分? (一)](http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419396174&idx=1&sn=5a7491735a0f3def426be277e03acec0)</br>
+[深度学习有多深? 学了究竟有几分? (二)](http://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=419800107&idx=1&sn=9f6e0c62a8d0195acaa7b4ac06849b97)</br>
+[深度学习有多深? 学了究竟有几分? (三)](https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420429696&idx=1&sn=70088a12d51388c97296d396219e93c3)</br>
+[深度学习有多深? 学了究竟有几分? (四)](https://mp.weixin.qq.com/s?__biz=MzA3MzE5MjM2Mw==&mid=420595183&idx=1&sn=e1c02c46447fefe15e5b87bc8e45ff2d)</br>
 
-https://pythontips.com/
-https://pythontips.com/2016/02/27/learning-python-for-data-science/
-`STATUS:NOT START`
+[sequence-learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/)</br>
 
-http://jmozah.github.io/links/
-深度学习阅读书单
-`STATUS:NOT START`
+[python tips](https://pythontips.com/)</br>
+[learning-python-for-data-science](https://pythontips.com/2016/02/27/learning-python-for-data-science/)</br>
 
-http://deeplearning.net/reading-list/
-深度学习书单
-`STATUS:NOT START`
+[深度学习阅读书单](http://jmozah.github.io/links/)</br>
 
-http://blog.sciencenet.cn/home.php?mod=space&uid=330732&do=blog&id=368718 阅读文献
-`STATUS:NOT START`
+[深度学习书单](http://deeplearning.net/reading-list/)</br>
 
-http://machinelearning.wustl.edu/mlpapers/venues
-机器学习论文清单
-`STATUS:NOT START`
+[阅读文献](http://blog.sciencenet.cn/home.php?mod=space&uid=330732&do=blog&id=368718)</br>
 
-https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html handong1587博客
-`STATUS:NOT START`
+[机器学习论文清单](http://machinelearning.wustl.edu/mlpapers/venues)</br>
 
-http://www.jianshu.com/p/aefe80044463
-深度强化学习
-`STATUS:NOT START`
+[ handong1587博客](https://handong1587.github.io/deep_learning/2015/10/09/dl-resources.html)</br>
 
-https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
-`STATUS:NOT START`
+[深度强化学习](http://www.jianshu.com/p/aefe80044463)</br>
 
-机器学习系列
-http://blog.csdn.net/han_xiaoyang/article/details/49123419
-http://blog.csdn.net/longxinchen_ml/article/details/49284391
-http://blog.csdn.net/longxinchen_ml/article/details/49798139
-http://blog.csdn.net/longxinchen_ml/article/details/50471268
-http://blog.csdn.net/longxinchen_ml/article/details/50471682
-http://blog.csdn.net/longxinchen_ml/article/details/50493845
-http://blog.csdn.net/longxinchen_ml/article/details/50749614
-http://blog.csdn.net/longxinchen_ml/article/details/50900070
-http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html
-`STATUS:NOT START`
+[introduction-deep-learning-fundamentals-neural-networks](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)</br>
 
-https://www.quora.com/What-are-some-of-the-best-research-papers-books-for-Machine-learning?redirected_qid=1539716
-`STATUS:NOT START`
+[机器学习系列 一](http://blog.csdn.net/han_xiaoyang/article/details/49123419)</br>
+[机器学习系列 二](http://blog.csdn.net/longxinchen_ml/article/details/49284391)</br>
+[机器学习系列 三](http://blog.csdn.net/longxinchen_ml/article/details/49798139)</br>
+[机器学习系列 四](http://blog.csdn.net/longxinchen_ml/article/details/50471268)</br>
+[机器学习系列 五](http://blog.csdn.net/longxinchen_ml/article/details/50471682)</br>
+[机器学习系列 六](http://blog.csdn.net/longxinchen_ml/article/details/50493845)</br>
+[机器学习系列 七](http://blog.csdn.net/longxinchen_ml/article/details/50749614)</br>
+[机器学习系列 八](http://blog.csdn.net/longxinchen_ml/article/details/50900070)</br>
 
-http://www.kdnuggets.com/2016/03/data-scientists-know-about-psychology.html
-`STATUS:NOT START`
+[jeff-dean-on-large-scale-deep-learning-at-google](http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html)</br>
 
-http://terencebroad.com/
-`STATUS:NOT START`
+[Quora: What-are-some-of-the-best-research-papers-books-for-Machine-learning?](https://www.quora.com/What-are-some-of-the-best-research-papers-books-for-Machine-learning?redirected_qid=1539716)</br>
 
-https://www.quora.com/session/Carlos-Guestrin/1
-`STATUS:NOT START`
+[data-scientists-know-about-psychology](http://www.kdnuggets.com/2016/03/data-scientists-know-about-psychology.html)</br>
 
-https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm/answer/Carlos-Guestrin?srid=cgo&share=6153e44f
-`STATUS:NOT START`
+[Terence Broad](http://terencebroad.com/)</br>
 
-http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html
-`STATUS:NOT START`
+[Carlos Guestrin quora homepage](https://www.quora.com/session/Carlos-Guestrin/1)</br>
 
-http://norvig.com/
-Peter Norivig
-http://norvig.com/ipython/README.html
-`STATUS:NOT START`
+[Quora: Which-is-your-favorite-Machine-Learning-algorithm](https://www.quora.com/Which-is-your-favorite-Machine-Learning-algorithm/answer/Carlos-Guestrin?srid=cgo&share=6153e44f)</br>
 
-https://www.wikiwand.com/en/Feature_selection
-feature selection
-`STATUS:NOT START`
+[Piotr Migdał - blog](http://p.migdal.pl/)</br>
+[data-science-intro-for-math-phys-background](http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html)</br>
 
-http://lumiverse.io/
-http://lumiverse.io/series/neural-networks-demystified
-neural network demystified
-`STATUS:NOT START`
+[Peter Norivig](http://norvig.com/)</br>
 
-https://www.linkedin.com/pulse/deep-learning-xgboost-winning-hands-down-ashish-kumar?trk=pulse_spock-articles
-`STATUS:NOT START`
+[Ipython Notebooks](http://norvig.com/ipython/README.html)</br>
 
-http://highscalability.com/blog/2016/3/16/jeff-dean-on-large-scale-deep-learning-at-google.html
-`STATUS:NOT START`
+[feature selection](https://www.wikiwand.com/en/Feature_selection)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=402769129&idx=1&sn=4e756517daba112b824e21522d91f232
-Jeff Dean 大规模深度学习
-`STATUS:NOT START`
+[lumiverse](http://lumiverse.io/)</br>
+[neural network demystified](http://lumiverse.io/series/neural-networks-demystified)</br>
 
-http://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/ ggplot2和R绘图比较
-`STATUS:NOT START`
+[deep-learning-xgboost-winning-hands-down](https://www.linkedin.com/pulse/deep-learning-xgboost-winning-hands-down-ashish-kumar?trk=pulse_spock-articles)</br>
 
-http://www.business2community.com/big-data/tools-big-data-science-technologies-languages-statistical-analysis-01483461#yuCeYtBLW6sfHwMj.97
-`STATUS:NOT START`
+[Jeff Dean 大规模深度学习](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=402769129&idx=1&sn=4e756517daba112b824e21522d91f232)</br>
 
-https://karthkk.wordpress.com/2016/03/22/deep-learning-solution-for-netflix-prize/
-`STATUS:NOT START`
+[ggplot2和R绘图比较](http://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/)</br>
 
-https://www.quantstart.com/articles/Markov-Chain-Monte-Carlo-for-Bayesian-Inference-The-Metropolis-Algorithm
-`STATUS:NOT START`
+[The Tools of Big Data Science](http://www.business2community.com/big-data/tools-big-data-science-technologies-languages-statistical-analysis-01483461#yuCeYtBLW6sfHwMj.97)</br>
 
-https://algobeans.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/
-ANN简介
-`STATUS:NOT START`
+[deep-learning-solution-for-netflix-prize](https://karthkk.wordpress.com/2016/03/22/deep-learning-solution-for-netflix-prize/)</br>
 
-http://www.kdnuggets.com/2016/03/top-10-data-science-github.html
-`STATUS:NOT START`
+[Markov-Chain-Monte-Carlo-for-Bayesian-Inference](https://www.quantstart.com/articles/Markov-Chain-Monte-Carlo-for-Bayesian-Inference-The-Metropolis-Algorithm)</br>
 
-http://machinelearningmastery.com/linear-regression-for-machine-learning/
-`STATUS:NOT START`
+[ANN简介](https://algobeans.com/2016/03/13/how-do-computers-recognise-handwriting-using-artificial-neural-networks/)</br>
 
-https://sites.google.com/site/repl4nlp2016/
-`STATUS:NOT START`
+[top-10-data-science-github](http://www.kdnuggets.com/2016/03/top-10-data-science-github.html)</br>
 
-http://cambridgecoding.com/
-`STATUS:NOT START`
+[linear-regression-for-machine-learning](http://machinelearningmastery.com/linear-regression-for-machine-learning/)</br>
 
-http://blog.jobbole.com/99057/
-数据库设计
-`STATUS:NOT START`
+[nlp2016 ](https://sites.google.com/site/repl4nlp2016/)</br>
 
-https://aws.amazon.com/blogs/big-data/anomaly-detection-using-pyspark-hive-and-hue-on-amazon-emr/
-`STATUS:NOT START`
+[coding summer school](http://cambridgecoding.com/)</br>
 
-http://karpathy.github.io/
-李飞飞的高徒
-http://karpathy.github.io/neuralnets/
+[数据库设计](http://blog.jobbole.com/99057/)</br>
 
-http://setosa.io/ev/
+[Anomaly Detection Using PySpark, Hive, and Hue on Amazon EMR](https://aws.amazon.com/blogs/big-data/anomaly-detection-using-pyspark-hive-and-hue-on-amazon-emr/)</br>
 
-http://www.tensorfly.cn/
-http://learningtensorflow.com/index.html
-`STATUS:NOT START`
+[李飞飞的高徒 karpathy](http://karpathy.github.io/)</br>
+[Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)</br>
 
-http://fastml.com/
-http://fastml.com/bayesian-machine-learning/ （bayesian machine learning)
-`STATUS:NOT START`
+[Explained Visually](http://setosa.io/ev/)</br>
 
-http://www.infoq.com/cn/presentations/building-hardware-accelerated-distributed-neural-network-framework-on-spark
-`STATUS:NOT START`
+[tensorflow 中文社区](http://www.tensorfly.cn/)</br>
+[learning tensorflow ](http://learningtensorflow.com/index.html)</br>
 
-http://www.huffingtonpost.com/laura-dambrosio/machine-learning-as-a-ser_b_9548962.html
-`STATUS:NOT START`
+[fastML](http://fastml.com/)</br>
+[bayesian machine learning](http://fastml.com/bayesian-machine-learning/)</br>
 
-https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1
-`STATUS:NOT START`
+[在Spark上构建硬件加速的分布式神经网络框架](http://www.infoq.com/cn/presentations/building-hardware-accelerated-distributed-neural-network-framework-on-spark)</br>
 
-http://www.algorithmdog.com/
-http://suanfazu.com/ (算法组)
-http://suanfazu.com/t/tensorflow/12854?u=hyper （tensorflow 源码学习)
-`STATUS:NOT START`
+[Machine Learning as a Service: How Data Science Is Hitting the Masses](http://www.huffingtonpost.com/laura-dambrosio/machine-learning-as-a-ser_b_9548962.html)</br>
 
-http://www.unofficialgoogledatascience.com/2016/03/using-random-effects-models-in.html
-`STATUS:NOT START`
+[Quora: What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning](https://www.quora.com/What-would-be-your-advice-to-a-software-engineer-who-wants-to-learn-machine-learning-3/answer/Alex-Smola-1)</br>
 
-http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html
-`STATUS:NOT START`
+[Algorithmdog](http://www.algorithmdog.com/)</br>
+[算法组](http://suanfazu.com/)</br>
+[tensorflow 源码学习](http://suanfazu.com/t/tensorflow/12854?u=hyper)</br>
 
-https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
-`STATUS:NOT START`
+[Using random effects models in prediction problems ](http://www.unofficialgoogledatascience.com/2016/03/using-random-effects-models-in.html)</br>
 
-神经网络与深度学习时间简史
-http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
-http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/
-http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/
-http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/
-`STATUS:NOT START`
+[Deep3D: Automatic 2D-to-3D Video Conversion with CNNs](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)</br>
 
-http://blog.csdn.net/langb2014/article/category/5998589
-caffe 从入门到放弃
-`STATUS:NOT START`
+[deep-learning-computer-vision-introduction-convolution-neural-networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)</br>
 
-http://blog.csdn.net/langb2014/article/category/2495471
-opencv 从入门到放弃
-`STATUS:NOT START`
+[神经网络与深度学习时间简史 一](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)</br>
+[神经网络与深度学习时间简史 二](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)</br>
+[神经网络与深度学习时间简史 三](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/)</br>
+[神经网络与深度学习时间简史 四](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/)</br>
 
-http://blog.csdn.net/u013088062/article/details/51118744
-`STATUS:NOT START`
 
-http://blog.csdn.net/u013088062/article/category/5738609
-`STATUS:NOT START`
+[caffe 从入门到放弃](http://blog.csdn.net/langb2014/article/category/5998589)</br>
+
+[opencv 从入门到放弃](http://blog.csdn.net/langb2014/article/category/2495471)</br>
+
+[深度学习与卷积神经网络大事件一览](http://blog.csdn.net/u013088062/article/details/51118744)</br>
+[深度学习与卷积神经网络](http://blog.csdn.net/u013088062/article/category/5738609)</br>
 
 http://www.thoughtly.co/blog/
 http://www.thoughtly.co/blog/deep-learning-lesson-1/
 http://www.thoughtly.co/blog/deep-learning-lesson-2/
 http://www.thoughtly.co/blog/deep-learning-lesson-3/
-`STATUS:NOT START`
 
-http://blog.csdn.net/eternity1118_/article/category/6174993
-模式识别博客
-`STATUS:NOT START`
+[模式识别博客](http://blog.csdn.net/eternity1118_/article/category/6174993)</br>
 
-https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people
-`STATUS:NOT START`
+[Quora: How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)</br>
 
-http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/
-李飞飞 科研建议
-https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650790506&idx=1&sn=493a4cbde6196b74c6bdf94b3d22106d
-`STATUS:NOT START`
+[李飞飞 科研建议](http://qinhongwei.com/2015/03/25/Fei-fei-Li-s-advice/)</br>
+[李飞飞科研建议 中文](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650790506&idx=1&sn=493a4cbde6196b74c6bdf94b3d22106d)</br>
 
-http://qinhongwei.com/
-`STATUS:NOT START`
+[qinhongwei blog](http://qinhongwei.com/)</br>
 
-http://python.jobbole.com/84809/
-`STATUS:NOT START`
+[python LSTM-RNN codes](http://python.jobbole.com/84809/)</br>
 
-http://scikit-learn.org/stable/
-`STATUS:NOT START`
+[scikit-learn ](http://scikit-learn.org/stable/)</br>
 
-http://chinagdg.org/2016/03/machine-learning-recipes-for-new-developers/
-`STATUS:NOT START`
+[面向普通开发者的机器学习应用方案](http://chinagdg.org/2016/03/machine-learning-recipes-for-new-developers/)</br>
 
-http://machinelearningmastery.com/start-here/
-`STATUS:NOT START`
+[start-here-with-machine-learning](http://machinelearningmastery.com/start-here/)</br>
 
-http://machinelearningmastery.com/train-final-machine-learning-model/
-`STATUS:NOT START`
+[train-final-machine-learning-model](http://machinelearningmastery.com/train-final-machine-learning-model/)</br>
 
-https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
-`STATUS:NOT START`
+[complete-tutorial-tree-based-modeling-scratch-in-python](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)</br>
 
-https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
-`STATUS:NOT START`
+[28款GitHub最流行的开源机器学习项目 1](https://yq.aliyun.com/articles/30794)</br>
+[28款GitHub最流行的开源机器学习项目 2](https://yq.aliyun.com/articles/30796)</br>
 
-https://yq.aliyun.com/articles/30794
-https://yq.aliyun.com/articles/30796
-`STATUS:NOT START`
+[tom sargent homepage](http://www.tomsargent.com/)</br>
 
-http://www.tomsargent.com/
-`STATUS:NOT START`
+[edwin chen's blog](http://blog.echen.me/)</br>
+[introduction-to-restricted-boltzmann-machines](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)</br>
 
-http://blog.echen.me/
-http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/
-`STATUS:NOT START`
+[semanticscholar](https://www.semanticscholar.org/)</br>
 
-https://www.semanticscholar.org/
-`STATUS:NOT START`
+[美团点评技术团队 blog](http://tech.meituan.com/)</br>
+[online-learning](http://tech.meituan.com/online-learning.html)</br>
 
-http://tech.meituan.com/
-http://tech.meituan.com/online-learning.html
-`STATUS:NOT START`
+[standford机器学习笔记](http://www.cnblogs.com/llhthinker/tag/Machine%20Learning/)</br>
 
-http://www.cnblogs.com/llhthinker/tag/Machine%20Learning/ (standford机器学习笔记)
-`STATUS:NOT START`
+[RLAI CMPUT 609: Reinforcement Learning for Artificial Intelligence](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html)</br>
 
-http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/2010.html
-`STATUS:NOT START`
+[cpp-core-guidelines](https://visualstudiomagazine.com/articles/2016/04/19/intro-to-cpp-core-guidelines.aspx)</br>
 
-https://visualstudiomagazine.com/articles/2016/04/19/intro-to-cpp-core-guidelines.aspx
-`STATUS:NOT START`
+[plural sight](https://www.pluralsight.com/)</br>
 
-https://www.pluralsight.com/
-`STATUS:NOT START`
+[top-10-ipython-nb-tutorials](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)</br>
 
-http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
-`STATUS:NOT START`
+[awesome python](https://python.libhunt.com/)</br>
 
-https://python.libhunt.com/
-`STATUS:NOT START`
-
-https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html#types-of-rnn
-`STATUS:NOT START`
+[rnn-and-lstm](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html#types-of-rnn)</br>
 
 http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb
-`STATUS:NOT START`
 
-https://www.quora.com/What-is-the-best-online-course-for-Python-data-science-and-machine-learning
-`STATUS:NOT START`
+[Quora: What-is-the-best-online-course-for-Python-data-science-and-machine-learning](https://www.quora.com/What-is-the-best-online-course-for-Python-data-science-and-machine-learning)</br>
 
-http://steshaw.org/
-http://steshaw.org/plt/
-`STATUS:NOT START`
+[steven shaw homepage](http://steshaw.org/)</br>
+[plt-programming-language-theory](http://steshaw.org/plt/)</br>
 
-http://studiy.co/
-http://studiy.co/path/deep-learning/
-`STATUS:NOT START`
+[stuDIY](http://studiy.co/)</br>
+[deep-learning stuDIY](http://studiy.co/path/deep-learning/)</br>
 
-http://fabiensanglard.net/
-http://fabiensanglard.net/algorithms_and_datastructures/index.php (算法)
-`STATUS:NOT START`
+[Fabien Sanglard's Website](http://fabiensanglard.net/)</br>
+[Algorithm and Data structure ](http://fabiensanglard.net/algorithms_and_datastructures/index.php)</br>
 
-https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/
-`STATUS:NOT START`
+[markov-chain-monte-carlo-sampling](https://galeascience.wordpress.com/2016/04/27/markov-chain-monte-carlo-sampling/)</br>
+[Alexander Galea's Blog](https://galeascience.wordpress.com/)</br>
 
-https://galeascience.wordpress.com/
-`STATUS:NOT START`
+[Data Inspired Insights](http://brettromero.com/wordpress/)</br>
+[data-science-a-kaggle-walkthrough-introduction](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/)</br>
+[data-science-a-kaggle-walkthrough-understanding-the-data](http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/)</br>
+[data-science-kaggle-walkthrough-cleaning-data](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/)</br>
+[data-science-kaggle-walkthrough-data-transformation-feature-extraction](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/)</br>
+[data-science-kaggle-walkthrough-adding-new-data](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/)</br>
+[data-science-kaggle-walkthrough-creating-model](http://brettromero.com/wordpress/data-science-kaggle-walkthrough-creating-model/)</br>
 
-http://brettromero.com/wordpress/
-http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-introduction/
-http://brettromero.com/wordpress/data-science-a-kaggle-walkthrough-understanding-the-data/
-http://brettromero.com/wordpress/data-science-kaggle-walkthrough-cleaning-data/
-http://brettromero.com/wordpress/data-science-kaggle-walkthrough-data-transformation-feature-extraction/
-http://brettromero.com/wordpress/data-science-kaggle-walkthrough-adding-new-data/
-http://brettromero.com/wordpress/data-science-kaggle-walkthrough-creating-model/
-`STATUS:NOT START`
+[网络基础知识培训 mva](https://mva.microsoft.com/zh-cn/training-courses/-8249?l=HOo1R00QB_3300115888)</br>
 
-https://mva.microsoft.com/zh-cn/training-courses/-8249?l=HOo1R00QB_3300115888
-`STATUS:NOT START`
+[topmldmbooks](http://www.aioptify.com/topmldmbooks.php)</br>
 
-http://www.aioptify.com/topmldmbooks.php
-`STATUS:NOT START`
+[Otaku Cedric's blog](http://beust.com/weblog/)</br>
 
-http://beust.com/weblog/
-`STATUS:NOT START`
+[nndl](http://neuralnetworksanddeeplearning.com/)</br>
 
-http://neuralnetworksanddeeplearning.com/
-`STATUS:NOT START`
+[大规模机器学习概论]([http://www.chuanke.com/v2889565-173289-848480.html)</br>
 
-http://www.chuanke.com/v2889565-173289-848480.html
-大规模机器学习概论
-`STATUS:NOT START`
+[DM-and-ML](http://blog.csdn.net/heyongluoyao8/article/category/2220409)</br>
 
-http://blog.csdn.net/heyongluoyao8/article/category/2220409
-`STATUS:NOT START`
+[distributed-systems-theory-for-the-distributed-systems-engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)</br>
 
-http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
-`STATUS:NOT START`
+[Paper Trail](http://the-paper-trail.org/blog/)</br>
 
-http://the-paper-trail.org/blog/
-`STATUS:NOT START`
+[TensorFlow的博客](https://my.oschina.net/yilian/blog/664632)</br>
 
-https://my.oschina.net/yilian/blog/664632
-TensorFlow的博客
-`STATUS:NOT START`
+[indico](https://indico.io/)</br>
+[the-good-bad-ugly-of-tensorflow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/)</br>
 
+[刘帝伟 blog](http://www.csuldw.com/)</br>
+[机器学习-个人资料整理](http://www.csuldw.com/2015/09/23/2015-09-23%20Machine%20learning%20materials/)</br>
 
-https://indico.io/
-https://indico.io/blog/the-good-bad-ugly-of-tensorflow/
-`STATUS:NOT START`
+[Monte Carlo Methods for Computation and Optimization](http://webee.technion.ac.il/people/shimkin/MC15/)</br>
 
-http://www.csuldw.com/
-http://www.csuldw.com/2015/09/23/2015-09-23%20Machine%20learning%20materials/
-`STATUS:NOT START`
-
-http://webee.technion.ac.il/people/shimkin/MC15/
-`STATUS:NOT START`
-
-https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming
-`STATUS:NOT START`
+[a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)</br>
 
 https://www.nayuki.io/
-`STATUS:NOT START`
 
-http://lib.csdn.net/home
-http://lib.csdn.net/base/2/structure
-`STATUS:NOT START`
+[知识库](http://lib.csdn.net/home)</br>
+[机器学习知识库](http://lib.csdn.net/base/2/structure)</br>
 
-http://www.cnblogs.com/cyruszhu/p/5496913.html
-`STATUS:NOT START`
+[ML-DL-NLP-RoadMap](http://www.cnblogs.com/cyruszhu/p/5496913.html)</br>
 
-http://haifengl.github.io/smile/index.html#overview
-`STATUS:NOT START`
+[Smile ](http://haifengl.github.io/smile/index.html#overview)</br>
 
-https://www.packtpub.com/
-`STATUS:NOT START`
+[packtpub blog](https://www.packtpub.com/)</br>
 
-http://sonack.top/
-`STATUS:NOT START`
+[sonack blog](http://sonack.top/)</br>
 
-http://galahad-moye.top/
-`STATUS:NOT START`
+[galahad-moye blog](http://galahad-moye.top/)</br>
 
-http://www.yisongyue.com/
-http://www.yisongyue.com/courses/cs159/
-`STATUS:NOT START`
+[yisongyue homepage](http://www.yisongyue.com/)</br>
+[CS 159: Advanced Topics in Machine Learning](http://www.yisongyue.com/courses/cs159/)</br>
 
-http://www.uu.se/en
-`STATUS:NOT START`
+[Uppsala University](http://www.uu.se/en)</br>
 
-http://graphific.github.io/posts/building-a-deep-learning-dream-machine/
-http://graphific.github.io/posts/running-a-deep-learning-dream-machine/
-`STATUS:NOT START`
+[building-a-deep-learning-machine](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)</br>
+[running-a-deep-learning-machine](http://graphific.github.io/posts/running-a-deep-learning-dream-machine/)</br>
 
-http://101.datascience.community/
-http://101.datascience.community/2016/05/20/berkeley-undergrad-data-science-course-and-textbook/
-`STATUS:NOT START`
+[datascience 101 ](http://101.datascience.community/)</br>
+[berkeley datascience 101](http://101.datascience.community/2016/05/20/berkeley-undergrad-data-science-course-and-textbook/)</br>
 
-https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
-`STATUS:NOT START`
+[List_of_datasets_for_machine_learning_research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)</br>
 
-http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
-`STATUS:NOT START`
+[seven-steps-machine-learning-python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)</br>
 
-http://ml4a.github.io/index/
-http://ml4a.github.io/classes/itp-S16/
-`STATUS:NOT START`
+[ml4a](http://ml4a.github.io/index/)</br>
+[itp-s16 ml4a](http://ml4a.github.io/classes/itp-S16/)</br>
 
-http://www.nature.com/news/mathematician-claims-breakthrough-in-sudoku-puzzle-1.9751
-sudoku有趣的事实
-`STATUS:NOT START`
+[sudoku有趣的事实](http://www.nature.com/news/mathematician-claims-breakthrough-in-sudoku-puzzle-1.9751)</br>
 
-https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life
-`STATUS:NOT START`
+[Quora:Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life](https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life)</br>
 
-http://web.bentley.edu/empl/c/ncarter/vgt/
-群论可视化
-`STATUS:NOT START`
+[群论可视化](http://web.bentley.edu/empl/c/ncarter/vgt/)</br>
 
-http://www.scratchapixel.com/
-`STATUS:NOT START`
+[scratch a pixel](http://www.scratchapixel.com/)</br>
 
-https://nathancarter.github.io/
-`STATUS:NOT START`
+[nathan carter blog](https://nathancarter.github.io/)</br>
 
-https://www.gitbook.com/book/ds8/textbook/details
-`STATUS:NOT START`
+https://www.gitbook.com/book/ds8/textbook/details</br>
 
-http://data8.org/
-`STATUS:NOT START`
+[The Foundations of Data Science](http://data8.org/)</br>
 
-http://algo-visualizer.jasonpark.me/#path=graph_search/bfs/tree
-算法可视化
-`STATUS:NOT START`
+[算法可视化](http://algo-visualizer.jasonpark.me/#path=graph_search/bfs/tree)</br>
 
-http://www.52cs.org/?p=867
-http://www.52cs.org/?p=869
-http://www.52cs.org/?p=873
-陈天奇
-`STATUS:NOT START`
 
-http://top.jobbole.com/35028/?repeat=w3tc
-随机数生成算法
-`STATUS:NOT START`
+[52cs 陈天奇 采访 1](http://www.52cs.org/?p=867)</br>
+[52cs 陈天奇 采访 2](http://www.52cs.org/?p=869)</br>
+[52cs 陈天奇 采访 3](http://www.52cs.org/?p=873)</br>
 
-https://eccc.weizmann.ac.il/report/2015/119/
-`STATUS:NOT START`
 
-http://hedengcheng.com/
-https://pan.baidu.com/share/home?uk=4265849107#category/type=0
-何登成
-`STATUS:NOT START`
+[随机数生成算法](http://top.jobbole.com/35028/?repeat=w3tc)</br>
 
-https://cpp.libhunt.com/
-`STATUS:NOT START`
 
-http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb
-`STATUS:NOT START`
+[ECCC](https://eccc.weizmann.ac.il/report/2015/119/)</br>
 
-http://www.squeakland.org/
-`STATUS:NOT START`
+[何登成 blog](http://hedengcheng.com/)</br>
+[何登成 云盘](https://pan.baidu.com/share/home?uk=4265849107#category/type=0)</br>
 
-http://bugra.github.io/work/notes/2016-06-05/a-gentle-introduction-to-bloom-filter/
-bloom filter
-`STATUS:NOT START`
 
-http://bugra.github.io/
-`STATUS:NOT START`
 
-https://adamscheller.com/book-reviews/from-mathematics-to-generic-programming-review/
-`STATUS:NOT START`
+[awesome C++](https://cpp.libhunt.com/)</br>
 
-http://datanice.github.io/
-http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html
-`STATUS:NOT START`
+[tensorflow examples](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)</br>
 
-http://www.opsschool.org/en/latest/index.html
-http://www.opsschool.org/en/latest/unix_101.html
-unix 101
-`STATUS:NOT START`
+[squeakland](http://www.squeakland.org/)</br>
 
-https://komunity.komand.com/
-https://komunity.komand.com/learn/article/gdb-for-fun-and-profit/
-`STATUS:NOT START`
+[a-gentle-introduction-to-bloom-filter](http://bugra.github.io/work/notes/2016-06-05/a-gentle-introduction-to-bloom-filter/)</br>
 
-https://www.programmingalgorithms.com/
-https://www.programmingalgorithms.com/algorithm/dijkstra%27s-algorithm?lang=PHP
-`STATUS:NOT START`
+[Bugra Akyildiz homepage](http://bugra.github.io/)</br>
 
-http://bafflednerd.com/
-http://bafflednerd.com/learn-python-online/
-http://bafflednerd.com/learn-sql-online/
-`STATUS:NOT START`
+[from-mathematics-to-generic-programming-review](https://adamscheller.com/book-reviews/from-mathematics-to-generic-programming-review/)</br>
 
-https://hackerlists.com/free-machine-learning-books/
-`STATUS:NOT START`
+[Datanice](http://datanice.github.io/)</br>
+[Datanice Machine learning 101](http://datanice.github.io/machine-learning-101-what-is-regularization-interactive.html)</br>
 
-http://bjsc.github.io/SuperLR-Page/pages/
-`STATUS:NOT START`
+[opsschool](http://www.opsschool.org/en/latest/index.html)</br>
+[unix 101](http://www.opsschool.org/en/latest/unix_101.html)</br>
 
-http://www.mlyearning.org/
-`STATUS:NOT START`
+[komand-komunity](https://komunity.komand.com/)</br>
+[/gdb-for-fun-and-profit](https://komunity.komand.com/learn/article/gdb-for-fun-and-profit/)</br>
 
-https://mp.weixin.qq.com/s?__biz=MjM5NDQ3NTkwMA==&mid=2650141339&idx=1&sn=0a8e7dadec3526af55677ecc3395bd57
-`STATUS:NOT START`
+[programmingalgorithms](https://www.programmingalgorithms.com/)</br>
+[Dijkstra's Algorithm](https://www.programmingalgorithms.com/algorithm/dijkstra%27s-algorithm?lang=PHP)</br>
 
-https://hackerlists.com/free-java-books/
-`STATUS:NOT START`
+[bafflednerd](http://bafflednerd.com/)</br>
+[learn-python-online](http://bafflednerd.com/learn-python-online/)</br>
+[learn-sql-online](http://bafflednerd.com/learn-sql-online/)</br>
 
-https://sebastianraschka.com/
-https://sebastianraschka.com/faq/index.html
-`STATUS:NOT START`
+[free-machine-learning-books](https://hackerlists.com/free-machine-learning-books/)</br>
 
-https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
-`STATUS:NOT START`
+[SuperLR-Page](http://bjsc.github.io/SuperLR-Page/pages/)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzA3OTgzMzUzOA==&mid=503740900&idx=1&sn=2f6c7eaea5c59300d5000a214235df6d#rd
-`STATUS:NOT START`
+[Machine Learning Yearning](http://www.mlyearning.org/)</br>
 
-https://blog.packagecloud.io/
-`STATUS:NOT START`
+[张志华教授](https://mp.weixin.qq.com/s?__biz=MjM5NDQ3NTkwMA==&mid=2650141339&idx=1&sn=0a8e7dadec3526af55677ecc3395bd57)</br>
 
-https://hackerlists.com/
-https://hackerlists.com/free-data-science-books/
-`STATUS:NOT START`
+[free-java-books](https://hackerlists.com/free-java-books/)</br>
 
-http://openbigdatagroup.github.io/
-http://openbigdatagroup.github.io/plda/
-http://openbigdatagroup.github.io/psvm/
-http://openbigdatagroup.github.io/pspectralclustering/
-http://openbigdatagroup.github.io/speedo/
-`STATUS:NOT START`
+[sebastianraschka homepage](https://sebastianraschka.com/)</br>
+[Machine Learning FAQ](https://sebastianraschka.com/faq/index.html)</br>
 
-https://dnlcrl.github.io/
-https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html
-`STATUS:NOT START`
+[monitoring-tuning-linux-networking-stack-receiving-data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)</br>
 
-http://lvdmaaten.github.io/
-http://lvdmaaten.github.io/publications/
-https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf
-`STATUS:NOT START`
+[怎样走出漫长黑夜，找到科研的灵感](http://mp.weixin.qq.com/s?__biz=MzA3OTgzMzUzOA==&mid=503740900&idx=1&sn=2f6c7eaea5c59300d5000a214235df6d#rd)</br>
 
-http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets
-`STATUS:NOT START`
+[packagecloud blog](https://blog.packagecloud.io/)</br>
 
-http://blog.csdn.net/watkinsong/article/details/51773524
-`STATUS:NOT START`
+[hackerlists](https://hackerlists.com/)</br>
+[free-data-science-books](https://hackerlists.com/free-data-science-books/)</br>
 
-https://jaxenter.com/machine-learning-an-introduction-for-programmers-122135.html
-`STATUS:NOT START`
+[OBDG](http://openbigdatagroup.github.io/)</br>
+[plda](http://openbigdatagroup.github.io/plda/)</br>
+[psvm](http://openbigdatagroup.github.io/psvm/)</br>
+[pspectralclustering](http://openbigdatagroup.github.io/pspectralclustering/)</br>
+[speedo](http://openbigdatagroup.github.io/speedo/)</br>
 
-http://meetingcpp.com/
-https://meetingcpp.com/index.php/br/items/final-features-of-c17.html
-`STATUS:NOT START`
+[Daniele Ciriello](https://dnlcrl.github.io/)</br>
+[Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy](https://dnlcrl.github.io/projects/2016/06/22/Deep-Residual-Networks-for-Image-Classification-with-Python+NumPy.html)</br>
 
-http://www.shareditor.com/
-`STATUS:NOT START`
+[Laurens van der Maaten](http://lvdmaaten.github.io/)</br>
+[Laurens van der Maaten publications](http://lvdmaaten.github.io/publications/)</br>
+[Laurens van der Maaten Torchnet ](https://lvdmaaten.github.io/publications/papers/Torchnet_2016.pdf)</br>
 
-http://www.icourses.cn/viewVCourse.action?courseCode=10335V012
-数学传奇
-`STATUS:NOT START`
+[20-data-science-r-python-excel-and-machine-learning-cheat-sheets](http://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)</br>
 
-https://intellipaat.com/
-https://intellipaat.com/interview-question/linux-interview-questions/ 
-`STATUS:NOT START`
+[Learning RNN from scratch](http://blog.csdn.net/watkinsong/article/details/51773524)</br>
 
-https://www.infoq.com/presentations/data-mining-machine-learning
-`STATUS:NOT START`
+[machine-learning-an-introduction-for-programmers](https://jaxenter.com/machine-learning-an-introduction-for-programmers-122135.html)</br>
 
-https://pgexercises.com/
-`STATUS:NOT START`
+[meetingcpp](http://meetingcpp.com/)</br>
+[final-features-of-c17](https://meetingcpp.com/index.php/br/items/final-features-of-c17.html)</br>
 
-https://zhuanlan.zhihu.com/p/21475898?columnSlug=basepair
-`STATUS:NOT START`
+[SharEDITor](http://www.shareditor.com/)</br>
 
-http://docs.pyspider.org/en/latest/
-`STATUS:NOT START`
+[数学传奇](http://www.icourses.cn/viewVCourse.action?courseCode=10335V012)</br>
 
-http://ofir.io/
-http://ofir.io/How-to-Start-Learning-Deep-Learning/
-`STATUS:NOT START`
+[intellipaat](https://intellipaat.com/)</br>
+[linux-interview-questions](https://intellipaat.com/interview-question/linux-interview-questions/)</br>
 
-http://blog.csdn.net/v_july_v/article/details/51812459
-`STATUS:NOT START`
+[data-mining-machine-learning](https://www.infoq.com/presentations/data-mining-machine-learning)</br>
 
-http://blog.sina.com.cn/s/blog_64827e4c0100i0ms.html
-`STATUS:NOT START`
+[postgresql exercises](https://pgexercises.com/)</br>
 
-https://awesome-dtrace.com/
-`STATUS:NOT START`
+[如何入门深度学习](https://zhuanlan.zhihu.com/p/21475898?columnSlug=basepair)</br>
 
-http://blog.shakirm.com/
-http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/
-http://blog.shakirm.com/2016/04/learning-in-brains-and-machines-2/
-http://blog.shakirm.com/2016/07/learning-in-brains-and-machines-3-synergistic-and-modular-action/
-http://blog.shakirm.com/2016/07/learning-in-brains-and-machines-4-episodic-and-interactive-memory/
-`STATUS:NOT START`
+[pyspider](http://docs.pyspider.org/en/latest/)</br>
 
-https://bigdatauniversity.com/
-https://bigdatauniversity.com/courses/introduction-deep-learning/
-`STATUS:NOT START`
+[ofir press](http://ofir.io/)</br>
+[How-to-Start-Learning-Deep-Learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzA4NjA4MTkzMw==&mid=2651987700&idx=1&sn=b7da2c6babf6c90ffd6b5c7b087378b3
-`STATUS:NOT START`
+[cnn笔记： 通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)</br>
 
-http://dataunion.org/24467.html
-http://dataunion.org/24725.html
-http://dataunion.org/24806.html
-http://dataunion.org/24906.html
-`STATUS:NOT START`
+[傅里叶变换和拉普拉斯变换的意义](http://blog.sina.com.cn/s/blog_64827e4c0100i0ms.html)</br>
 
-http://www.datadependence.com/
-http://www.datadependence.com/2016/05/scientific-python-pandas/
-`STATUS:NOT START`
+[awesome-dtrace](https://awesome-dtrace.com/)</br>
 
-http://orange.biolab.si/
-`STATUS:NOT START`
+[The Spectator Shakir's Machine Learning Blog](http://blog.shakirm.com/)</br>
+[learning-in-brains-and-machines-1](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)</br>
+[learning-in-brains-and-machines-2](http://blog.shakirm.com/2016/04/learning-in-brains-and-machines-2/)</br>
+[learning-in-brains-and-machines-3](http://blog.shakirm.com/2016/07/learning-in-brains-and-machines-3-synergistic-and-modular-action/)</br>
+[learning-in-brains-and-machines-4](http://blog.shakirm.com/2016/07/learning-in-brains-and-machines-4-episodic-and-interactive-memory/)</br>
 
-http://www.yaml.org/
-`STATUS:NOT START`
+[bigdatauniversity](https://bigdatauniversity.com/)</br>
+[introduction-deep-learning](https://bigdatauniversity.com/courses/introduction-deep-learning/)</br>
 
-https://blog.acolyer.org/
-https://blog.acolyer.org/2016/07/04/natural-language-understanding-almost-from-scratch/
-`STATUS:NOT START`
+[cs231n 笔记翻译](http://mp.weixin.qq.com/s?__biz=MzA4NjA4MTkzMw==&mid=2651987700&idx=1&sn=b7da2c6babf6c90ffd6b5c7b087378b3)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653159975&idx=1&sn=15679fd75ec50c823464a08922f02420&scene=2&srcid=0704PKkrLNd5LDXR8aB7cocC&from=timeline&isappinstalled=0#wechat_redirect
-http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324989&idx=1&sn=dba2bef393de4f395a265691e82a4d37#rd
-http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324989&idx=2&sn=c70ec361350fefc7693d2231879dfd49#rd
-`STATUS:NOT START`
+[datadependence](http://www.datadependence.com/)</br>
+[An Introduction to Scientific Python – Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)</br>
 
-http://adilmoujahid.com/
-http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
-`STATUS:NOT START`
+[orange](http://orange.biolab.si/)</br>
 
-http://erikdemaine.org/
-http://erikdemaine.org/classes/
-`STATUS:NOT START`
+[yaml -yet another markup language](http://www.yaml.org/)</br>
 
-https://blog.socialcops.com
-https://blog.socialcops.com/engineering/machine-learning-python/
-`STATUS:NOT START`
+[the-morning-paper](https://blog.acolyer.org/)</br>
+[natural-language-understanding-almost-from-scratch](https://blog.acolyer.org/2016/07/04/natural-language-understanding-almost-from-scratch/)</br>
 
-https://prakhar.me/docker-curriculum/
-`STATUS:NOT START`
+[深入浅出spark2.0](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653159975&idx=1&sn=15679fd75ec50c823464a08922f02420&scene=2&srcid=0704PKkrLNd5LDXR8aB7cocC&from=timeline&isappinstalled=0#wechat_redirect)</br>
+[深度学习你不可不知的技巧 上](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324989&idx=1&sn=dba2bef393de4f395a265691e82a4d37#rd)</br>
+[深度学习你不可不知的技巧 下](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324989&idx=2&sn=c70ec361350fefc7693d2231879dfd49#rd)</br>
 
-http://www.52nlp.cn/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%BB%E6%9C%BA%E6%94%92%E6%9C%BA%E5%B0%8F%E8%AE%B0
-`STATUS:NOT START`
+[adilmoujahid](http://adilmoujahid.com/)</br>
+[introduction-deep-learning-python-caffe](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)</br>
 
-https://engineering.linkedin.com/en-us
-https://engineering.linkedin.com/blog/2016/06/open-sourcing-photon-ml
-`STATUS:NOT START`
 
-http://www.infoq.com/cn/news/2016/07/LinkedIn-Photon-Spark
-`STATUS:NOT START`
+[erik demaine](http://erikdemaine.org/)</br>
+[erik demaine class](http://erikdemaine.org/classes/)</br>
 
-https://sspai.com/post/34759
-`STATUS:NOT START`
+[socialcops](https://blog.socialcops.com)</br>
+[machine-learning-python](https://blog.socialcops.com/engineering/machine-learning-python/)</br>
 
-http://www.rbirm.us/
-https://keon.io/
-http://www.ratml.org/
-https://kurg.org/
+[docker-curriculum](https://prakhar.me/docker-curriculum/)</br>
 
-http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/
-`STATUS:NOT START`
+[深度学习主机攒机](http://www.52nlp.cn/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%BB%E6%9C%BA%E6%94%92%E6%9C%BA%E5%B0%8F%E8%AE%B0)</br>
 
-https://www.dataquest.io/blog/data-science-portfolio-machine-learning/#email-signup\
-`STATUS:NOT START`
+[Linkedin Blogs](https://engineering.linkedin.com/en-us)</br>
+[LinkedIn Photon](https://engineering.linkedin.com/blog/2016/06/open-sourcing-photon-ml)</br>
 
-https://www.dataquest.io/
-https://www.dataquest.io/blog/
-`STATUS:NOT START`
+[LinkedIn Photon 中文](http://www.infoq.com/cn/news/2016/07/LinkedIn-Photon-Spark)</br>
 
-http://www.amplifypartners.com/on-the-evolution-of-machine-learning-from-linear-models-to-neural-networks/
-`STATUS:NOT START`
+[少数派](https://sspai.com/post/34759)</br>
 
-https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210006&idx=1&sn=c54c24e927cd77cf2fc4ded6eccebfe1
-`STATUS:NOT START`
+[Ryan Birmingham](http://www.rbirm.us/)</br>
+[keon](https://keon.io/)</br>
+[ratml](http://www.ratml.org/)</br>
+[kurg](https://kurg.org/)</br>
 
-http://www.amplifypartners.com/
-`STATUS:NOT START`
+[applied-deep-learning-in-python-mini-course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)</br>
 
-https://gitlab.com/technomancy
-https://gitlab.com/technomancy/bussard
-`STATUS:NOT START`
+[dataquest](https://www.dataquest.io/)</br>
+[dataquest blog](https://www.dataquest.io/blog/)</br>
+[Building a data science portfolio: Machine learning project](https://www.dataquest.io/blog/data-science-portfolio-machine-learning/)</br>
 
-http://www.infoq.com/cn/news/2016/07/apple-lzfse-lossless-opensource
-`STATUS:NOT START`
+[on-the-evolution-of-machine-learning-from-linear-models-to-neural-networks](http://www.amplifypartners.com/on-the-evolution-of-machine-learning-from-linear-models-to-neural-networks/)</br>
 
-https://developer.apple.com/reference/compression/data_compression
-`STATUS:NOT START`
+[机器学习的演进](https://mp.weixin.qq.com/s?__biz=MzIzMzI0NjkwMw==&mid=2652210006&idx=1&sn=c54c24e927cd77cf2fc4ded6eccebfe1)</br>
 
-https://arxiv.org/abs/1506.01066
-http://www.marekrei.com/blog/
-http://www.marekrei.com/blog/analysing-nlp-publication-patterns/
-`STATUS:NOT START`
+[amplify partners](http://www.amplifypartners.com/)</br>
 
-http://koaning.io/fluctuating-repetition.html
-`STATUS:NOT START`
+[Phil Hagelberg](https://gitlab.com/technomancy)</br>
+[Phil Hagelberg bussard](https://gitlab.com/technomancy/bussard)</br>
 
-https://nosuch.com/tjt/
-http://www.nosuch.com/tjt/plum.html
-http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes
-`STATUS:NOT START`
+[Apple开源新的压缩算法LZFSE](http://www.infoq.com/cn/news/2016/07/apple-lzfse-lossless-opensource)</br>
 
-http://python.jobbole.com/85620/
-http://blog.jobbole.com/73806/
-`STATUS:NOT START`
+[Apple LZFSE](https://developer.apple.com/reference/compression/data_compression)</br>
 
-https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin?trk=pulse_spock-articles
-`STATUS:NOT START`
+[Marek Rei](http://www.marekrei.com/blog/)</br>
+[analysing-nlp-publication-patterns](http://www.marekrei.com/blog/analysing-nlp-publication-patterns/)</br>
 
-http://undo.io/resources/presentations/cppcon-2015-greg-law-give-me-15-minutes-ill-change/
-`STATUS:NOT START`
+[fluctuating-repetition](http://koaning.io/fluctuating-repetition.html)</br>
 
-http://blog.csdn.net/han_xiaoyang/article/details/51871068
-http://blog.csdn.net/han_xiaoyang/article/details/51760923
-http://blog.csdn.net/han_xiaoyang/article/details/51815683
-`STATUS:NOT START`
+[Tim Thompson homepage](https://nosuch.com/tjt/)</br>
+[plum-programming language used for music](http://www.nosuc[]h.com/tjt/plum.html)</br>
+[plum details](http://www.nosuch.com/plum/cgi/showlist.cgi?sort=name&concise=yes)</br>
 
-http://blog.csdn.net/longxinchen_ml/article/details/51567960
-http://blog.csdn.net/longxinchen_ml/article/details/51648532
-http://blog.csdn.net/longxinchen_ml/article/details/51711172
-`STATUS:NOT START`
+[伯乐在线 python列表](http://python.jobbole.com/85620/)</br>
+[伯乐在线 blog](http://blog.jobbole.com/73806/)</br>
 
-https://cn.aminer.org/archive/53e9b068b7602d9703acf032
-`STATUS:NOT START`
+[mathematics-machine-learning](https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin?trk=pulse_spock-articles)</br>
 
-https://elliot.land/post/how-to-write-your-own-recommendation-system-part-1-small-scale
-`STATUS:NOT START`
 
-https://www.codevate.com/
-https://www.codevate.com/blog
-https://www.codevate.com/blog/7-concurrency-with-embedded-python-in-a-multi-threaded-c-application
-`STATUS:NOT START`
+[cppcon-2015 greg-law](http://undo.io/resources/presentations/cppcon-2015-greg-law-give-me-15-minutes-ill-change/)</br>
 
-http://pandoc.org/index.html
-`STATUS:NOT START`
+[cs224d 1](http://blog.csdn.net/longxinchen_ml/article/details/51567960)</br>
+[cs224d 2](http://blog.csdn.net/longxinchen_ml/article/details/51648532)</br>
+[cs224d 3](http://blog.csdn.net/longxinchen_ml/article/details/51711172)</br>
+[cs224d 4](http://blog.csdn.net/han_xiaoyang/article/details/51871068)</br>
+[cs224d 5](http://blog.csdn.net/han_xiaoyang/article/details/51760923)</br>
+[cs224d 6](http://blog.csdn.net/han_xiaoyang/article/details/51815683)</br>
 
-http://www.makeuseof.com/
-http://www.makeuseof.com/tag/15-top-notch-podcasts-programmers-software-developers/
-`STATUS:NOT START`
+[Aminer](https://cn.aminer.org/archive/53e9b068b7602d9703acf032)</br>
 
-http://www.scipy-lectures.org/
-`STATUS:NOT START`
+[how-to-write-your-own-recommendation-system](https://elliot.land/post/how-to-write-your-own-recommendation-system-part-1-small-scale)</br>
 
-https://hackerlists.com/computer-vision-resources/
-`STATUS:NOT START`
+[codevate](https://www.codevate.com/)</br>
+[codevate blog](https://www.codevate.com/blog)</br>
+[7-concurrency-with-embedded-python-in-a-multi-threaded-c-application](https://www.codevate.com/blog/7-concurrency-with-embedded-python-in-a-multi-threaded-c-application)</br>
 
-http://documentup.com/matt-42/vpp
-http://perso.ensta-paristech.fr/~garrigues/index.html
-document for Video++ written by C++14
-`STATUS:NOT START`
+[pandoc](http://pandoc.org/index.html)</br>
 
-http://hunch.net/~l2s/
-Learning to search
-`STATUS:NOT START`
+[makeuseof](http://www.makeuseof.com/)</br>
+[15-top-notch-podcasts-programmers-software-developers](http://www.makeuseof.com/tag/15-top-notch-podcasts-programmers-software-developers/)</br>
 
-http://hunch.net/
-Machine Learning Theory
-`STATUS:NOT START`
+[Scipy Lecture Notes](http://www.scipy-lectures.org/)</br>
 
-http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718072&idx=1&sn=93f90c233077280da3097f397da6260b&scene=0#rd
-Machine Learning Summer School
-`STATUS:NOT START`
+[computer-vision-resources](https://hackerlists.com/computer-vision-resources/)</br>
 
-https://hackerlists.com/beginner-ml-courses/
-`STATUS:NOT START`
+[document for Video++ written by C++14](http://documentup.com/matt-42/vpp)</br>
+[ Matthieu Garrigues](http://perso.ensta-paristech.fr/~garrigues/index.html)</br>
 
-https://hackerlists.com/tensorflow-resources/
-`STATUS:NOT START`
+[Learning to search](http://hunch.net/~l2s/)</br>
 
-https://cn.aminer.org/data
+[Machine Learning Theory](http://hunch.net/)</br>
 
-http://boredzo.org/
-http://boredzo.org/blog/archives/2016-08-15/colorized-man-pages-understood-and-customized
-`STATUS:NOT START`
+[Machine Learning Summer School](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718072&idx=1&sn=93f90c233077280da3097f397da6260b&scene=0#rd)</br>
 
-http://www.studytrails.com/
-http://www.studytrails.com/r/15-page-tutorial-for-r/
-`STATUS:NOT START`
+[beginner-ml-courses](https://hackerlists.com/beginner-ml-courses/)</br>
 
-http://blog.josephmisiti.com/
-`STATUS:NOT START`
+[tensorflow-resources](https://hackerlists.com/tensorflow-resources/)</br>
 
-https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c
-`STATUS:NOT START`
+[Aminer data](https://cn.aminer.org/data)</br>
 
-http://weibo.com/ttarticle/p/show?id=2309404025388832575825
-`STATUS:NOT START`
+[Peter Hoseyzo homepage](http://boredzo.org/)</br>
+[colorized-man-pages-understood-and-customized](http://boredzo.org/blog/archives/2016-08-15/colorized-man-pages-understood-and-customized)</br>
 
-http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Miao_Fan
-http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/%E9%A6%96%E9%A1%B5
-`STATUS:NOT START`
+[study trails](http://www.studytrails.com/)</br>
+[15-page-tutorial-for-r](http://www.studytrails.com/r/15-page-tutorial-for-r/)</br>
 
-https://tensortalk.com/?s=hot&t=type-all
-`STATUS:NOT START`
+[joseph misiti blog](http://blog.josephmisiti.com/)</br>
 
-https://linuxstory.org/
-https://linuxstory.org/free-chinese-programming-books/
-`STATUS:NOT START`
+[start-learn-data-science](https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c)</br>
 
-http://www.kuqin.com/shuoit/20161012/352959.html
-`STATUS:NOT START`
+[陈天奇 NNVM打造模块化深度学习系统](http://weibo.com/ttarticle/p/show?id=2309404025388832575825)</br>
 
-http://www.tldp.org/index.html
-http://www.tldp.org/LDP/LG/
-http://www.tldp.org/LDP/LG/issue23/
-http://www.tldp.org/LDP/LG/issue23/flower/page1.html
-`STATUS:NOT START`
+[Miao Fan](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Miao_Fan)</br>
+[TsingHua CSLT](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/%E9%A6%96%E9%A1%B5)</br>
 
-https://www.reddit.com/
-https://www.reddit.com/r/MachineLearning/comments/5ffgts/p_c_chai_another_open_source_minimal_neural/
-`STATUS:NOT START`
+[tensortalk](https://tensortalk.com/?s=hot&t=type-all)</br>
+
+[Linux story](https://linuxstory.org/)</br>
+[free-chinese-programming-books](https://linuxstory.org/free-chinese-programming-books/)</br>
+
+[麻省理工学院(MIT)研究生学习指导](http://www.kuqin.com/shuoit/20161012/352959.html)</br>
+
+[The Linux Documentation Project](http://www.tldp.org/index.html)</br>
+[Linux Gazette](http://www.tldp.org/LDP/LG/)</br>
+[December 1997 Issue #23](http://www.tldp.org/LDP/LG/issue23/)</br>
+[Processes on Linux and Windows NT](http://www.tldp.org/LDP/LG/issue23/flower/page1.html)</br>
+
+
+[reddit](https://www.reddit.com/)</br>
+[Char : Another open source minimal neural network library](https://www.reddit.com/r/MachineLearning/comments/5ffgts/p_c_chai_another_open_source_minimal_neural/)</br>
+
 
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
 
-Programming Collective Intelligence: Building Smart Web 2.0 Applications
-简单理论，重点程序 web中实际问题和解决办法
+Programming Collective Intelligence: Building Smart Web 2.0 Applications</br>
+简单理论，重点程序 web中实际问题和解决办法 </br>
 `STATUS:NOT START`
 
-Machine Learning for Hackers 机器学习：实用案例解析 使用R语言，很多实践练习，涉及更多的数据分析，建议在读完上一本后读
+Machine Learning for Hackers 机器学习：实用案例解析</br>
+使用R语言，很多实践练习，涉及更多的数据分析，建议在读完上一本后读</br>
 `STATUS:NOT START`
 
-Machine Learning: An Algorithmic Perspective 包含数学知识和Python程序片段，建议在读完第一本后读
+Machine Learning: An Algorithmic Perspective</br>
+包含数学知识和Python程序片段，建议在读完第一本后读</br>
 `STATUS:NOT START`
 
-数据挖掘：实用机器学习工具与技术(3ed) 
+数据挖掘：实用机器学习工具与技术(3ed) </br>
 `STATUS:NOT START`
 
-Machine Learning
-计算机科学丛书 教科书 为每一个算法提供了相关讲解
+Machine Learning</br>
+计算机科学丛书 教科书 为每一个算法提供了相关讲解</br>
 `STATUS:NOT START`
 
-https://mitpress.mit.edu/books/how-write-thesis
-https://www.theparisreview.org/interviews/5856/umberto-eco-the-art-of-fiction-no-197-umberto-eco
-https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis
-How to write thesis 加书评
+[how-write-thesis](https://mitpress.mit.edu/books/how-write-thesis)</br>
+[How to write thesis 书评1](https://www.theparisreview.org/interviews/5856/umberto-eco-the-art-of-fiction-no-197-umberto-eco)</br>
+[How to write thesis 书评2](https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis)</br>
 `STATUS:NOT START`
 
-http://www.redbook.io/index.html
-数据库红宝书
+[数据库红宝书](http://www.redbook.io/index.html)</br>
 `STATUS:NOT START`
 
-http://www.nowpublishers.com/article/Details/MAL-049
-Bayesian Reinforcement Learning
+[Bayesian Reinforcement Learning](http://www.nowpublishers.com/article/Details/MAL-049)</br>
 
-www.wiley.com/WileyCDA/WileyTitle/productCd-1118999738,subjectCd-BE00.html
+[Mathematical Problems in Data Science](http://www.springer.com/cn/book/9783319251257)</br>
 `STATUS:NOT START`
 
-http://www.springer.com/cn/book/9783319251257
+[Advanced Markov Chain Monte Carlo Methods: Learning from Past Samples](http://onlinelibrary.wiley.com/book/10.1002/9780470669723)</br>
 `STATUS:NOT START`
 
-http://onlinelibrary.wiley.com/book/10.1002/9780470669723
+[linux 书籍](http://liwei.life/)</br>
 `STATUS:NOT START`
 
-http://liwei.life/
-linux 书籍
+[Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)</br>
 `STATUS:NOT START`
 
-https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071
+[15 Free ebooks on Artificial Intelligence](http://www.itechflare.com/main/15-free-ebooks-artificial-intelligence/)</br>
 `STATUS:NOT START`
 
-http://www.itechflare.com/main/15-free-ebooks-artificial-intelligence/
+[Deep Learning](http://www.deeplearningbook.org/)</br>
 `STATUS:NOT START`
 
-http://www.deeplearningbook.org/
-`STATUS:NOT START`
+[cs229d 笔记](http://download.csdn.net/detail/u011518985/9473260)</br>
+[cs224d 笔记](http://download.csdn.net/download/u011518985/9473257)</br>
 
-http://download.csdn.net/detail/u011518985/9473260 (cs229d)
-http://download.csdn.net/download/u011518985/9473257 (cs224d)
+[Statistics for Non-Statisticians](http://www.springer.com/us/book/9783642176555)</br>
+http://www.crcnetbase.com/doi/book/10.1201/9781420035391 </br>
 
-http://www.springer.com/us/book/9783642176555
-http://www.crcnetbase.com/doi/book/10.1201/9781420035391
+http://machinelearningmastery.com/deep-learning-books/</br>
 
-http://www.deeplearningbook.org/
-http://machinelearningmastery.com/deep-learning-books/
+[Generalized Principal Component Analysis](http://link.springer.com/book/10.1007/978-0-387-87811-9)</br>
 
-http://link.springer.com/book/10.1007/978-0-387-87811-9
-
-http://www.springer.com/us/book/9783319306186 
-http://www.squeakland.org/resources/books/readingList.jsp
-http://www.springer.com/gp/book/9783319072531
-https://mva.microsoft.com/ebooks/
-https://www.manning.com/books/spark-graphx-in-action
-https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition 
-http://www.springer.com/gp/book/9783319340715
-http://www.springer.com/gp/book/9783658140748
+[Introduction to Probability with Statistical Applications](http://www.springer.com/us/book/9783319306186 )</br>
+[squeakland readinglist](http://www.squeakland.org/resources/books/readingList.jsp)</br>
+[Elements of Probability and Statistics](http://www.springer.com/gp/book/9783319072531)</br>
+[free ebooks from microsoft](https://mva.microsoft.com/ebooks/)</br>
+[spark-graphx-in-action](https://www.manning.com/books/spark-graphx-in-action)</br>
+[/algorithms-of-the-intelligent-web](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition )</br>
+[Approximation Methods in Probability Theory](http://www.springer.com/gp/book/9783319340715)</br>
+[Data Analytics](http://www.springer.com/gp/book/9783658140748)</br>
 
 ## Academy
 
@@ -1425,8 +1069,13 @@ http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf
 http://zhangmeishan.github.io/description%28expect-for-lrec2016%29.pdf
 `STATUS:NOT START`
 
+[Visualizing and Understanding Neural Models in NLP ](https://arxiv.org/abs/1506.01066)</br>
+
 ## Teaching Faculty
 `教师是人类灵魂的工程师`
+
+https://cs.stanford.edu/~matei/
+http://cs.brown.edu/~mlittman/
 https://dickgrune.com/
 http://zhangmeishan.github.io/
 http://www.sns.ias.edu/witten
@@ -1696,67 +1345,65 @@ https://code.nasa.gov/#/
 ## tools
 `工欲善其事，必先利其器`
 ### Programming Libraries
-R Project for Statistical Computing (https://www.r-project.org/)
-CRAN 统计技术方法
+
+[R Project for Statistical Computing](https://www.r-project.org/)</br>
+CRAN 统计技术方法</br>
 `STATUS:NOT START`
 
-WEKA (http://www.cs.waikato.ac.nz/ml/weka/)
+[WEKA](http://www.cs.waikato.ac.nz/ml/weka/)</br>
 `STATUS:NOT START`
 
-Mahout (http://mahout.apache.org/)
-Hadoop机器学习库
+[Mahout机器学习库](http://mahout.apache.org/)</br>
 `STATUS:NOT START`
 
-Scikit Learn (http://scikit-learn.org/stable/) Python编写的基于NumPy和SciPy的机器学习库
+[Scikit Learn](http://scikit-learn.org/stable/)</br>
+Python编写的基于NumPy和SciPy的机器学习库</br>
 `STATUS:NOT START`
 
-Octave (http://www.gnu.org/software/octave/)
-类似Matlab的数值计算环境
+[Octave](http://www.gnu.org/software/octave/)</br>
+类似Matlab的数值计算环境</br>
 `STATUS:NOT START`
 
-BigML (https://bigml.com/)
-通过Web页面建立模型 不用通过代码
+[BigML](https://bigml.com/)</br>
+通过Web页面建立模型 不用通过代码</br>
 `STATUS:NOT START`
 
-http://nbviewer.jupyter.org/
-Jupyter 书籍共享
+[Jupyter 书籍共享](http://nbviewer.jupyter.org/)</br>
 `STATUS:NOT START`
 
-http://pansop.com/1042/
-python自然语言处理工具
+[python自然语言处理工具](http://pansop.com/1042/)</br>
 `STATUS:NOT START`
 
-http://python.jobbole.com/81834/
+[awesome python](http://python.jobbole.com/81834/)</br>
 `STATUS:NOT START`
 
-http://weibo.com/p/1001603939799944846106
-http://weibo.com/p/1001603940328460664808
-爱可可老师的年度分享
+[爱可可老师的年度分享 上](http://weibo.com/p/1001603939799944846106)</br>
+[爱可可老师的年度分享 下](http://weibo.com/p/1001603940328460664808)</br>
 `STATUS:NOT START`
 
-http://vissoc.co/index.html
+[Data Visualization](http://vissoc.co/index.html)</br>
 `STATUS:NOT START`
 
 ### Free books download
 
-http://bookboon.com/en
-http://manybooks.net/
-http://gen.lib.rus.ec/
-http://www.pdfdrive.com/
-http://en.booksee.org/
-https://it-ebooks.info/
-免费下载IT书籍(英文)
-http://bookzz.org/
-https://www.jiumodiary.com/
-英文电子书搜索
+http://bookboon.com/en</br>
+http://manybooks.net/</br>
+http://gen.lib.rus.ec/</br>
+http://www.pdfdrive.com/</br>
+http://en.booksee.org/</br>
+https://it-ebooks.info/</br>
+免费下载IT书籍(英文)</br>
+http://bookzz.org/</br>
+https://www.jiumodiary.com/</br>
+英文电子书搜索</br>
 
-http://sci-hub.io/
+http://sci-hub.io/</br>
 
-Cloud Vision API 谷歌图像识别API
+Cloud Vision API 谷歌图像识别API</br>
 
 ### Conference and Community
 
-http://cacm.acm.org/ (cacm)
+http://cacm.acm.org/ (cacm) 
 
 https://deepmind.com/research/alphago/
 alphago
