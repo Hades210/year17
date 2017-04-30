@@ -103,7 +103,7 @@ https://data.library.utoronto.ca/cleaning-data-python</br>
 `STATUS:NOT START`
 
 [videolectures](http://videolectures.net/)</br>
-[information theory && pattern recognition](http://videolectures.net/course_information_theory_pattern_recognition/ 
+[information theory && pattern recognition](http://videolectures.net/course_information_theory_pattern_recognition/)</br>
 `STATUS:NOT START`
 
 [google开发者 中文社区](http://chinagdg.org/)</br>
@@ -117,9 +117,6 @@ https://data.library.utoronto.ca/cleaning-data-python</br>
 `STATUS:NOT START`
 
 [spark 公开课](http://coursegraph.com/tag/spark)</br>
-`STATUS:NOT START`
-
-https://www.youtube.com/watch?v=CwhFjQThBX0
 `STATUS:NOT START`
 
 [spark 书籍推荐](http://mp.weixin.qq.com/s?__biz=MjM5Njc0MjIwMA==&mid=401316537&idx=1&sn=c009cb4e4f055b4e54cb6afbce9ed5b4)</br>
@@ -199,7 +196,7 @@ https://www.youtube.com/watch?v=CwhFjQThBX0
 
 [学术资源BT站 研究数据集](http://www.52ml.net/20849.html)</br>
 
-https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/
+[grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances](https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/)</br>
 
 [Jeff Erickson](http://jeffe.cs.illinois.edu/) </br>
 [Jeff Erickson Algorithm lesson](http://jeffe.cs.illinois.edu/teaching/algorithms/) </br>
@@ -436,10 +433,7 @@ http://www.bfilipek.com/</br>
 [深度学习与卷积神经网络大事件一览](http://blog.csdn.net/u013088062/article/details/51118744)</br>
 [深度学习与卷积神经网络](http://blog.csdn.net/u013088062/article/category/5738609)</br>
 
-http://www.thoughtly.co/blog/
-http://www.thoughtly.co/blog/deep-learning-lesson-1/
-http://www.thoughtly.co/blog/deep-learning-lesson-2/
-http://www.thoughtly.co/blog/deep-learning-lesson-3/
+[thoughtly](http://www.thoughtly.co)</br>
 
 [模式识别博客](http://blog.csdn.net/eternity1118_/article/category/6174993)</br>
 
@@ -489,7 +483,7 @@ http://www.thoughtly.co/blog/deep-learning-lesson-3/
 
 [rnn-and-lstm](https://handong1587.github.io/deep_learning/2015/10/09/rnn-and-lstm.html#types-of-rnn)</br>
 
-http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb
+[nla2015](http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.ipynb)</br>
 
 [Quora: What-is-the-best-online-course-for-Python-data-science-and-machine-learning](https://www.quora.com/What-is-the-best-online-course-for-Python-data-science-and-machine-learning)</br>
 
@@ -541,7 +535,7 @@ http://nbviewer.jupyter.org/github/Bihaqo/nla2015/blob/master/table_of_contents.
 
 [a-fundamental-introduction-to-x86-assembly-programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)</br>
 
-https://www.nayuki.io/
+[Project Nayuki](https://www.nayuki.io/)</br>
 
 [知识库](http://lib.csdn.net/home)</br>
 [机器学习知识库](http://lib.csdn.net/base/2/structure)</br>
@@ -584,7 +578,7 @@ https://www.nayuki.io/
 
 [nathan carter blog](https://nathancarter.github.io/)</br>
 
-https://www.gitbook.com/book/ds8/textbook/details</br>
+[Computational and Inferential Thinking](https://www.gitbook.com/book/ds8/textbook/details</br>)</br>
 
 [The Foundations of Data Science](http://data8.org/)</br>
 
@@ -914,9 +908,9 @@ Machine Learning</br>
 [cs224d 笔记](http://download.csdn.net/download/u011518985/9473257)</br>
 
 [Statistics for Non-Statisticians](http://www.springer.com/us/book/9783642176555)</br>
-http://www.crcnetbase.com/doi/book/10.1201/9781420035391 </br>
+[Statistics in the 21st Century](http://www.crcnetbase.com/doi/book/10.1201/9781420035391) </br>
 
-http://machinelearningmastery.com/deep-learning-books/</br>
+[Deep-learning-Book-lists](http://machinelearningmastery.com/deep-learning-books/)</br>
 
 [Generalized Principal Component Analysis](http://link.springer.com/book/10.1007/978-0-387-87811-9)</br>
 
@@ -931,416 +925,252 @@ http://machinelearningmastery.com/deep-learning-books/</br>
 
 ## Academy
 
-http://www.cs.virginia.edu/
-http://www.dartmouth.edu
-http://www.ijecs.in/
-https://eecs.berkeley.edu/
-http://webscope.sandbox.yahoo.com/
-http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75
-Yahoo
-`STATUS:NOT START`
+[virginia 大学 计算机系](http://www.cs.virginia.edu/)</br>
+[dartmouth](http://www.dartmouth.edu)</br>
+[IJECS](http://www.ijecs.in/)</br>
+[Berkeley EECS](https://eecs.berkeley.edu/)</br>
+[Yahoo Webscope datasets](http://webscope.sandbox.yahoo.com/)</br>
+[Ratings and Classification Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75)</br>
+[Washington University cse](https://cse.wustl.edu/Pages/default.aspx)</br>
 
-https://cse.wustl.edu/Pages/default.aspx
+[Must Know Tips/Tricks in Deep Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)</br>
+南大 lamda实验室</br> lamda.nju.edu.cn/MainPage.ashx </br>
 
-http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
-lamda.nju.edu.cn/MainPage.ashx
-南大 lamda实验室
+[Toronto University cs](http://www.cs.toronto.edu)</br>
+[上交bcmi实验室](http://bcmi.sjtu.edu.cn/)</br>
+[Princeton 视觉组](http://vision.princeton.edu/)</br>
+[Princeton 视觉组 deepcontext](http://deepcontext.cs.princeton.edu/)</br>
+[Princeton 视觉组 deepcontext论文](http://deepcontext.cs.princeton.edu/paper.pdf)</br>
+[cv lab postech university](http://cvlab.postech.ac.kr/lab/)</br>
+[卷积神经网络 图像问答系统](http://cvlab.postech.ac.kr/~hyeonwoonoh/)</br>
+[[卷积神经网络 图像问答系统介绍](http://cvlab.postech.ac.kr/research/dppnet/?utm_content=buffer89fcb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)</br>
+[vigra 图像处理库](http://ukoethe.github.io/vigra/)</br>
+[Heidelberg Collaboratory for Image Processing](https://hci.iwr.uni-heidelberg.de/)</br>
+[HCI staff ukoethe homepage](https://hci.iwr.uni-heidelberg.de/Staff/ukoethe/)</br>
 
-http://www.cs.toronto.edu
-http://bcmi.sjtu.edu.cn/
-上交bcmi实验室
+[brown university cs](http://cs.brown.edu/)</br>
+[Leonid Sigal homepage](http://cs.brown.edu/~ls/)</br>
+[Leonid Sigal publications](http://cs.brown.edu/~ls/publications_year.html)</br>
 
-http://deepcontext.cs.princeton.edu/
-http://deepcontext.cs.princeton.edu/paper.pdf
-Princeton 视觉组
-http://vision.princeton.edu/ 
+[genie and lamp](http://www.comp.nus.edu.sg/~atung/gl/)</br>
+[generic inverted index paper](http://www.comp.nus.edu.sg/~atung/publication/gpugenie.pdf)</br>
 
-http://cvlab.postech.ac.kr/lab/
-cv lab postech university
-http://cvlab.postech.ac.kr/~hyeonwoonoh/
-卷积神经网络 图像问答系统
-http://cvlab.postech.ac.kr/research/dppnet/?utm_content=buffer89fcb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[National University of Singapore 郑锦浩](http://www.comp.nus.edu.sg/~atung/)</br>
+[National University of Singapore](http://www.comp.nus.edu.sg/)</br>
+[John Ousterhout homepage](http://web.stanford.edu/~ouster/cgi-bin/home.php)</br>
+[standford cs190](http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php)</br>
 
-http://ukoethe.github.io/vigra/
-vigra 图像处理库
-https://hci.iwr.uni-heidelberg.de/
-HCI
-https://hci.iwr.uni-heidelberg.de/Staff/ukoethe/
+[cs224n](http://web.stanford.edu/class/cs224n/)</br>
+[cs224n](https://nlp.stanford.edu/courses/cs224n/)</br>
+[cs224n 课程相关](https://nlp.stanford.edu/courses/cs224n/2015/)</br>
+[Alexander Kogan](http://kogan.rutgers.edu/)</br>
+[Alexander Kogan Machine Learning](http://kogan.rutgers.edu/ml-phd/)</br>
+[Matthias Nießner standford graphics](http://www.graphics.stanford.edu/~niessner/index.html)</br>
+[Face2Face](http://www.graphics.stanford.edu/~niessner/thies2016face.html)</br>
 
-http://cs.brown.edu/
-http://cs.brown.edu/~ls/
-http://cs.brown.edu/~ls/publications_year.html
+[CMU noah smith](http://homes.cs.washington.edu/~nasmith/index.html)</br>
+[cmu 语言等离散数据的结构预测](http://demo.clab.cs.cmu.edu/fa2015-11763/)</br>
 
-http://www.comp.nus.edu.sg/~atung/gl/
-http://www.comp.nus.edu.sg/~atung/publication/gpugenie.pdf
-倒排索引
+[cilvr lab](https://wp.nyu.edu/cilvr/)</br>
 
-http://www.comp.nus.edu.sg/~atung/ (郑锦浩)
-http://www.comp.nus.edu.sg/ (nation university of singapore)
-
-http://web.stanford.edu/~ouster/cgi-bin/home.php 
-http://web.stanford.edu/~ouster/cgi-bin/cs190-spring16/index.php （cs190）
-
-http://web.stanford.edu/class/cs224n/
-https://nlp.stanford.edu/courses/cs224n/
-https://nlp.stanford.edu/courses/cs224n/2015/ (cs224n 课程相关)
-
-http://kogan.rutgers.edu/
-http://kogan.rutgers.edu/ml-phd/
-
-http://www.graphics.stanford.edu/~niessner/index.html
-http://www.graphics.stanford.edu/~niessner/thies2016face.html
-
-http://homes.cs.washington.edu/~nasmith/index.html (CMU noah smith)
-http://demo.clab.cs.cmu.edu/fa2015-11763/ （cmu 语言等离散数据的结构预测)
-
-http://cilvr.nyu.edu/doku.php?id=start
-http://cilvr.nyu.edu/doku.php?id=courses:start
-http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start （课程)
-
-http://www.cs.cmu.edu/
-http://www.cs.cmu.edu/~tom/
-http://www.cs.cmu.edu/~tom/10701_sp11/ （cmu machine learning课程)
-http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
-
-https://cn.aminer.org/ (唐杰老师)
+[cmu cs](http://www.cs.cmu.edu/)</br>
+[Tom Mitchell](http://www.cs.cmu.edu/~tom/)</br>
+[cmu machine learning课程](http://www.cs.cmu.edu/~tom/10701_sp11/)</br>
+[cmu machine learning课程资料](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)</br>
+[唐杰老师](https://cn.aminer.org/)</br>
 
 ## papers
 `读的多了，才会写论文`
 
-http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf
-Tom Mitchell 白皮书 
-`STATUS:NOT START`
+[Tom Mitchell 白皮书 ](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)</br>
+[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)</br>
+[Information Extraction](http://pages.cs.wisc.edu/~anhai/courses/784-fall15/ieSurvey.pdf)</br>
+[Opinion mining and sentiment analysis](http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf)</br>
+[Table-processing paradigms: a research survey](https://www.ecse.rpi.edu/homepages/nagy/PDF_files/Embley_Hurst_Lopresti_Nagy_tablesurvey.pdf)</br>
+[中国计算机学会中文信息技术专业委员会](http://tcci.ccf.org.cn)</br>
 
-http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
-`STATUS:NOT START`
+[A NEW PROOF OF THE FOUR COLOUR THEOREM](http://www.dharwadker.org/)</br>
+[Applications of Graph Theory](http://www.dharwadker.org/graph_theory_applications.pdf)</br>
 
-http://pages.cs.wisc.edu/~anhai/courses/784-fall15/ieSurvey.pdf
-`STATUS:NOT START`
+[为文章自动生成海报](http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf)</br>
+[分布式表示的自然语言理解](https://arxiv.org/abs/1511.07916)</br>
+[Practical and Optimal LSH for Angular Distance](https://arxiv.org/abs/1509.02897)</br>
+[费曼量子计算论文](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)</br>
+[Randomized algorithms for matrices and data](https://arxiv.org/abs/1104.5557)</br>
+[无等待栈](https://arxiv.org/abs/1510.00116)</br>
+[A Roadmap towards Machine Intelligence](https://arxiv.org/abs/1511.08130)</br>
+[大数据系统方面经典论文](http://www.52cs.org/?p=1203)</br>
 
-http://www.cs.cornell.edu/home/llee/omsa/omsa.pdf
-`STATUS:NOT START`
+[Katy Jordan homepage](http://www.katyjordan.com/)</br>
+[MOOC Research Literature Browser](http://www.katyjordan.com/moocliterature/)</br>
+[Scheduling Algorithms in Big Data: A Survey](http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf)</br>
 
-https://www.ecse.rpi.edu/homepages/nagy/PDF_files/Embley_Hurst_Lopresti_Nagy_tablesurvey.pdf
-`STATUS:NOT START`
-
-http://tcci.ccf.org.cn/summersch/classm/nlp20110828.pdf
-`STATUS:NOT START`
-
-http://www.dharwadker.org/
-http://www.dharwadker.org/graph_theory_applications.pdf (Applications of Graph Theory)
-`STATUS:NOT START`
-
-http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf
-为文章自动生成海报
-`STATUS:NOT START`
-
-https://arxiv.org/abs/1511.07916
-分布式表示的自然语言理解
-`STATUS:NOT START`
-
-https://arxiv.org/abs/1509.02897
-`STATUS:NOT START`
-
-https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf
-费曼量子计算论文
-`STATUS:NOT START`
-
-https://arxiv.org/abs/1104.5557
-`STATUS:NOT START`
-
-https://arxiv.org/abs/1510.00116
-无等待栈
-`STATUS:NOT START`
-
-https://arxiv.org/abs/1511.08130
-`STATUS:NOT START`
-
-http://www.52cs.org/?p=1203
-`STATUS:NOT START`
-
-http://www.katyjordan.com/
-http://www.katyjordan.com/moocliterature/
-`STATUS:NOT START`
-
-http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf
-`STATUS:NOT START`
-
-http://zhangmeishan.github.io/description%28expect-for-lrec2016%29.pdf
-`STATUS:NOT START`
-
+[LibN3L:A Lightweight Package for Neural NLP](http://zhangmeishan.github.io/description%28expect-for-lrec2016%29.pdf)</br>
 [Visualizing and Understanding Neural Models in NLP ](https://arxiv.org/abs/1506.01066)</br>
 
 ## Teaching Faculty
 `教师是人类灵魂的工程师`
 
-https://cs.stanford.edu/~matei/
-http://cs.brown.edu/~mlittman/
-https://dickgrune.com/
-http://zhangmeishan.github.io/
-http://www.sns.ias.edu/witten
-http://www.cs.washington.edu/people/faculty/bodik
-http://www.dartmouth.edu/~chance/
-http://yann.lecun.com/
-http://www.cs.cmu.edu/~muli/
-百度少帅 李沐
-http://www.cs.columbia.edu/~blei/
-David blei
-
-http://cs.stanford.edu/~pliang/
-
-http://www.jfsowa.com/ (jfsowa)
-http://www.jfsowa.com/logic/math.htm
-计算机数理逻辑
-
-https://www.cs.bgu.ac.il/~yoavg/uni/
-
-http://www.cs.toronto.edu/~fbacchus/csc384/
-csc384 toronto university
-http://www.cs.toronto.edu/~fbacchus/
-
-https://simons.berkeley.edu/
-https://simons.berkeley.edu/workshops/bigdata2013-boot-camp
-
-http://personalpages.manchester.ac.uk/staff/yanghong.huang/
-http://personalpages.manchester.ac.uk/staff/yanghong.huang/teaching/MATH36032/psbc2017.html
-
-http://homes.cs.washington.edu/~tqchen/
-陈天奇
-
-http://web.stanford.edu/~jurafsky/slp3/
-
-https://www.ece.nus.edu.sg/
-nation university of singapore
-https://www.ece.nus.edu.sg/stfpage/eleyans/
-颜水成教授
-
-https://stellar.mit.edu/
-https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html
-mit6.006
-
-https://database.cs.wisc.edu/
-数据库组
-http://pages.cs.wisc.edu/~anhai/
-http://pages.cs.wisc.edu/~anhai/courses/ (wisc university)
-
-http://www.cs.cornell.edu/
-http://www.cs.cornell.edu/home/llee/lillian.html
-
-https://www.ecse.rpi.edu/
-https://www.ecse.rpi.edu/homepages/nagy/
-
-http://kaiminghe.com/
-KaiMing He
-
-http://homes.cs.washington.edu/~jxie/
-
-http://www.cs.cmu.edu/~guyb/
-http://www.cs.cmu.edu/~guyb/realworld.html
-
-https://people.mpi-inf.mpg.de/~mehlhorn/
-
-http://www.princeton.edu/haushofer/
-http://www.cs.princeton.edu/
-http://www.cs.princeton.edu/~wayne/contact/
-http://www.cs.princeton.edu/~wayne/kleinberg-tardos/
-
-http://web.eecs.umich.edu/~cscott/
-http://web.eecs.umich.edu/~cscott/past_courses/eecs545f15/index.html
-
-http://www.cs.toronto.edu/~rgrosse/
-http://www.cs.toronto.edu/~rgrosse/csc321/
-
-https://cs.uwaterloo.ca/~jimmylin/
-https://cs.uwaterloo.ca/~jimmylin/teaching.html
-
-http://cseweb.ucsd.edu/~dasgupta/
-http://cseweb.ucsd.edu/~dasgupta/250B/lectures.html 
-
-https://www.slac.stanford.edu/
-https://www.slac.stanford.edu/xorg/nmtf/
-https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html
-http://web.stanford.edu/~rezab/
-https://web.stanford.edu/~arbenson/
-https://web.stanford.edu/~arbenson/cme193.html
-
-http://dblab.xmu.edu.cn/
-http://dblab.xmu.edu.cn/post/architecture-of-a-database-system/
-
-http://cs.nju.edu.cn/zlj/
-
-http://www.valpo.edu/mathematics-statistics/academics/degree-programs/b-s-in-data-science/
-
-http://aima.cs.berkeley.edu/
-http://www.stat.cmu.edu/
-http://www.stat.cmu.edu/~larry/
-http://www.stat.cmu.edu/~larry/=sml/
-
-https://www.cs.ox.ac.uk/ (牛津)
-https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-
-http://www.math.ucla.edu/~wotaoyin/index.html
-http://www.math.ucla.edu/~wotaoyin/math164/
-http://www.math.ucla.edu/~wotaoyin/math273a/
-
-https://amplab.cs.berkeley.edu/
-http://ai.berkeley.edu/home.html
-http://ai.berkeley.edu/lecture_videos.html
-http://www.stat.berkeley.edu/~mmahoney/
-http://www.stat.berkeley.edu/~mmahoney/pubs/RandNLA_in_CACM_2016.pdf
-http://people.eecs.berkeley.edu/~jordan/courses/281A-spring14/
-http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/
-http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/lectures.html
-https://people.eecs.berkeley.edu/~christos/
-https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html
-https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/course_schedule.html
-
-http://web.mit.edu/
-http://web.mit.edu/15.053/www/
-
-http://courses.cms.caltech.edu/cs179/
-
-https://github.com/UKPLab
-https://www.ukp.tu-darmstadt.de/ukp-home/
-
-https://research.yahoo.com/researchers/edo/
-http://videolectures.net/edo_liberty/
-
-http://www.cs.ucsb.edu/~william/index.html （王威廉老师)
-http://web.stanford.edu/~jurafsky/
-
-http://webdocs.cs.ualberta.ca/~sutton/
-http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
-
-https://deepmind.com/research/publications/
-
-http://rll.berkeley.edu/deeprlcourse/
-
-http://it.eecs.northwestern.edu/
-http://users.eecs.northwestern.edu/~yingwu/teaching/EECS433/index.html
-http://users.eecs.northwestern.edu/~yingwu/
-
-http://www.cs.yale.edu/homes/aspnes/
-
+[Matei Zaharia Standford](https://cs.stanford.edu/~matei/)</br>
+[Michael L. Littman](http://cs.brown.edu/~mlittman/)</br>
+[Dick Grune](https://dickgrune.com/)</br>
+[Meishan Zhang(张梅山)](http://zhangmeishan.github.io/)</br>
+[EDWARD WITTEN School of Natural Sciences](http://www.sns.ias.edu/witten)</br>
+[Rastislav Bodik](http://www.cs.washington.edu/people/faculty/bodik)</br>
+[ J. Laurie Snell](http://www.dartmouth.edu/~chance/)</br>
+[Yann Lecun](http://yann.lecun.com/)</br>
+[李沐](http://www.cs.cmu.edu/~muli/)</br>
+[David M. Blei](http://www.cs.columbia.edu/~blei/)</br>
+[Percy Liang](http://cs.stanford.edu/~pliang/)</br>
+[jfsowa](http://www.jfsowa.com/)</br>
+[Mathematical Background](http://www.jfsowa.com/logic/math.htm)</br>
+[Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)</br>
+[csc384 toronto university](http://www.cs.toronto.edu/~fbacchus/csc384/)</br>
+[Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/)</br>
+[Simons Institute](https://simons.berkeley.edu/)</br>
+[Big Data Boot Camp](https://simons.berkeley.edu/workshops/bigdata2013-boot-camp)</br>
+[Yanghong Huang](http://personalpages.manchester.ac.uk/staff/yanghong.huang/)</br>
+[MATH36032: Problem Solving by Computer](http://personalpages.manchester.ac.uk/staff/yanghong.huang/teaching/MATH36032/psbc2017.html)</br>
+[Tianqi Chen](http://homes.cs.washington.edu/~tqchen/)</br>
+[Speech and Language Processing ](http://web.stanford.edu/~jurafsky/slp3/)</br>
+[nation university of singapore ece](https://www.ece.nus.edu.sg/)</br>
+[颜水成教授](https://www.ece.nus.edu.sg/stfpage/eleyans/)</br>
+[MIT Course Management System](https://stellar.mit.edu/)</br>
+[mit6.006](https://stellar.mit.edu/S/course/6/sp16/6.006/materials.html)</br>
+[威斯康星大学数据库组](https://database.cs.wisc.edu/)</br>
+[AnHai Doan](http://pages.cs.wisc.edu/~anhai/)</br>
+[AnHai Doan Courses](http://pages.cs.wisc.edu/~anhai/courses/)</br> 
+[cornell cs](http://www.cs.cornell.edu/)</br>
+[Lillian](http://www.cs.cornell.edu/home/llee/lillian.html)</br>
+[rpi ecse](https://www.ecse.rpi.edu/)</br>
+[george Nagy](https://www.ecse.rpi.edu/homepages/nagy/)</br>
+[KaiMing He](http://kaiminghe.com/)</br>
+[cse washington](http://www.cs.washington.edu/education/multimedia)</br>
+[Guy E. Blelloch](http://www.cs.cmu.edu/~guyb/)</br>
+[Algorithms in the "Real World"](http://www.cs.cmu.edu/~guyb/realworld.html)</br>
+[Kurt Mehlhorn](https://people.mpi-inf.mpg.de/~mehlhorn/)</br>
+[Johannes Haushofer](http://www.princeton.edu/haushofer/)</br>
+[cs princeton](http://www.cs.princeton.edu/)</br>
+[Kevin Wayne](http://www.cs.princeton.edu/~wayne/contact/)</br>
+[Kevin Wayne lecture slides for algorithm design](http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)</br>
+[Clayton Scott](http://web.eecs.umich.edu/~cscott/)</br>
+[EECS 545: Machine Learning](http://web.eecs.umich.edu/~cscott/past_courses/eecs545f15/index.html)</br>
+[Roger Grosse](http://www.cs.toronto.edu/~rgrosse/)</br>
+[CSC321 Winter 2015: Introduction to Neural Networks](http://www.cs.toronto.edu/~rgrosse/csc321/)</br>
+[Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)</br>
+[Big Data by Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/teaching.html)</br>
+[Sanjoy Dasgupta](http://cseweb.ucsd.edu/~dasgupta/)</br>
+[CSE 250B: Machine Learning -- Lecture schedule](http://cseweb.ucsd.edu/~dasgupta/250B/lectures.html )</br>
+[slac standford](https://www.slac.stanford.edu/)</br>
+[ESnet Network Monitoring Task Force (NMTF)](https://www.slac.stanford.edu/xorg/nmtf/)</br>
+[Network Monitoring Tools](https://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html)</br>
+[Reza Zadeh](http://web.stanford.edu/~rezab/)</br>
+[Austin R. Benson](https://web.stanford.edu/~arbenson/)</br>
+[CME 193: Introduction to Scientific Python](https://web.stanford.edu/~arbenson/cme193.html)</br>
+[dblab 厦大](http://dblab.xmu.edu.cn/)</br>
+[architecture-of-a-database-system](http://dblab.xmu.edu.cn/post/architecture-of-a-database-system/)</br>
+[Lijun Zhang  (张利军)](http://cs.nju.edu.cn/zlj/)</br>
+[B.S. in Data Science](http://www.valpo.edu/mathematics-statistics/academics/degree-programs/b-s-in-data-science/)</br>
+[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)</br>
+[Department of Statistics CMU](http://www.stat.cmu.edu/)</br>
+[Larry Wasserman](http://www.stat.cmu.edu/~larry/)</br>
+[Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)</br>
+[Oxford CS](https://www.cs.ox.ac.uk/)</br>
+[Machine Learning course lists](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)</br>
+[Wotao Yin](http://www.math.ucla.edu/~wotaoyin/index.html)</br>
+[Math 164: Optimization](http://www.math.ucla.edu/~wotaoyin/math164/)</br>
+[Math 273a: Basic Optimization Theory](http://www.math.ucla.edu/~wotaoyin/math273a/)</br>
+[amplab uc berkeley](https://amplab.cs.berkeley.edu/)</br>
+[CS188 Intro to AI](http://ai.berkeley.edu/home.html)</br>
+[CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_videos.html)</br>
+[Michael Mahoney's new home page](http://www.stat.berkeley.edu/~mmahoney/)</br>
+[RandNLA paper](http://www.stat.berkeley.edu/~mmahoney/pubs/RandNLA_in_CACM_2016.pdf)</br>
+[CS 281A/Stat 241A Statistical Learning Theory ](http://people.eecs.berkeley.edu/~jordan/courses/281A-spring14/)</br>
+[CS 281B/Stat 241B Statistical Learning Theory ](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)</br>
+[cs281B lectures](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/lectures.html)</br>
+[Christos H. Papadimitriou ](https://people.eecs.berkeley.edu/~christos/)</br>
+[CS188 Intro to AI video](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html)</br>
+[CS188 Intro to AI schedule](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/course_schedule.html)</br>
+[web mit](http://web.mit.edu/)</br>
+[Applied Mathematical Programming](http://web.mit.edu/15.053/www/)</br>
+[CS179 GPU Programming](http://courses.cms.caltech.edu/cs179/)</br>
+[UKPLab](https://github.com/UKPLab)</br>
+[ukp-home](https://www.ukp.tu-darmstadt.de/ukp-home/)</br>
+[Edo Liberty Yahoo Research](https://research.yahoo.com/researchers/edo/)</br>
+[Edo Liberty](http://videolectures.net/edo_liberty/)</br>
+[William Wang](http://www.cs.ucsb.edu/~william/index.html)</br>
+[DAN JURAFSKY](http://web.stanford.edu/~jurafsky/)</br>
+[Richard S. Sutton](http://incompleteideas.net/sutton/index.html)</br>
+[DeepMind](https://deepmind.com/research/publications/)</br>
+[CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)</br>
+[Computing Facilities](http://it.eecs.northwestern.edu/)</br>
+[EECS 433 Statistical Pattern Recognition](http://users.eecs.northwestern.edu/~yingwu/teaching/EECS433/index.html)</br>
+[Ying   Wu](http://users.eecs.northwestern.edu/~yingwu/)</br>
+[James Aspnes](http://www.cs.yale.edu/homes/aspnes/)</br>
 http://csifdocs.cs.ucdavis.edu/
-http://csiflabs.cs.ucdavis.edu/~ssdavis/
-http://csiflabs.cs.ucdavis.edu/~ssdavis/60/
-
-http://cocosci.berkeley.edu/tom/index.php
-
-https://www.microsoft.com/en-us/research/people/kannan/?from=https%3A%2F%2Fresearch.microsTensorFlowoft.com%2Fen-US%2Fpeople%2Fkannan%2Fbook-no-solutions-aug-21-2014.pdf
-http://www.cs.cmu.edu/~kannan/Papers/pubs.html
-http://aco.math.cmu.edu/index.html
-https://www.cs.cornell.edu/jeh/
-
-http://www.sz.tsinghua.edu.cn/publish/sz/139/2010/20101218141443318939067/20101218141443318939067_.html
-
-http://www.cs.virginia.edu/~evans/
+[ssdavis](http://csiflabs.cs.ucdavis.edu/~ssdavis/)</br>
+[ECS 60](http://csiflabs.cs.ucdavis.edu/~ssdavis/60/)</br>
+[Tom Griffiths](http://cocosci.berkeley.edu/tom/index.php)</br>
+[Virtual Algorithms Center (VIRAL)](https://www.microsoft.com/en-us/research/people/kannan/?from=https%3A%2F%2Fresearch.microsTensorFlowoft.com%2Fen-US%2Fpeople%2Fkannan%2Fbook-no-solutions-aug-21-2014.pdf)</br>
+[Ravi Kannan](http://www.cs.cmu.edu/~kannan/Papers/pubs.html)</br>
+[aco program](http://aco.math.cmu.edu/index.html)</br>
+[John E. Hopcroft](https://www.cs.cornell.edu/jeh/)</br>
+[深圳清华大学研究生院 ](http://www.sz.tsinghua.edu.cn/publish/sz/139/2010/20101218141443318939067/20101218141443318939067_.html)</br>
+[David Evans](http://www.cs.virginia.edu/~evans/)</br>
 
 
 ## Open Source Projects
 `写代码就像写文章，多读优秀的文章可以提高作文的水平，多读优秀的开源代码，可以提高编码的水平`
 
-http://mp.weixin.qq.com/s/04U5Gcj4Bb4wEgxPV3qLiA
-https://github.com/commaai
-
-https://github.com/intel-analytics
-
-https://github.com/CLDrone
-`STATUS:NOT START`
-
-https://github.com/jonblower/python-viz-intro
-python可视化教程
-`STATUS:NOT START`
-
-https://github.com/stanfordnlp/phrasal 
-standford nlp开源项目phrasal (Java)
-`STATUS:NOT START`
-
-http://joanbruna.github.io/stat212b/
-Topics Course on Deep Learning UC Berkeley
-`STATUS:NOT START`
-
-https://github.com/dmlc
-`STATUS:NOT START`
-
-清华大学NLP 中文分词
-http://thulac.thunlp.org/
-https://github.com/thunlp
-http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/codes
-Tsinghua NLP 开源代码
-`STATUS:NOT START`
-
-https://github.com/google
-https://github.com/facebook
-https://github.com/facebookresearch
-https://github.com/microsoft
-https://github.com/baidu
-http://mxnet.io/index.html
-http://xgboost.readthedocs.io/en/latest/
-https://github.com/tensorflow
-
-https://google.github.io/styleguide/
-https://google.github.io/styleguide/pyguide.html
-google python编程风格指南
-
-https://github.com/FALCONN-LIB
-https://falconn-lib.org/ （FALCONN相关资料)
-
-https://github.com/aimacode
-
-https://github.com/floydhub
-
-https://github.com/jobbole
-
-https://github.com/all-umass
-
-https://github.com/rlpy
-
-https://github.com/isocpp
-
-http://harvardnlp.github.io/
-
-https://github.com/openai
-
-https://github.com/unnati-xyz
-
-https://github.com/nyu-dl
-
-https://github.com/nccgroup
-
-https://github.com/ideaTouch
-
-http://mlpack.org/
-
-https://github.com/mlpack
-
-https://github.com/lzfse
-
-http://www-nlp.stanford.edu/software/sempre/
-standford NLP
-`STATUS:NOT START`
-
-
-https://github.com/nyu-dl
-`STATUS:NOT START`
-
-https://github.com/SeSaMe-NUS 
-`STATUS:NOT START`
-
-https://github.com/docker
-http://learnbigcode.github.io/
-大代码数据集
-`STATUS:NOT START`
-
-https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details
-
-http://prml.github.io/
-https://github.com/PRML （matlab code for algorithm in prml)
-
-https://github.com/torchnet
-https://github.com/nasa/
-https://code.nasa.gov/#/
+[Comma.ai开源全部软硬件](http://mp.weixin.qq.com/s/04U5Gcj4Bb4wEgxPV3qLiA)</br>
+[commaai](https://github.com/commaai)</br>
+[intel-analytics](https://github.com/intel-analytics)</br>
+[Crossline Drone Project](https://github.com/CLDrone)</br>
+[python可视化教程](https://github.com/jonblower/python-viz-intro)</br>
+[standford nlp开源项目phrasal (Java)](https://github.com/stanfordnlp/phrasal )</br>
+[Topics Course on Deep Learning UC Berkeley](http://joanbruna.github.io/stat212b/)</br>
+[Distributed (Deep) Machine Learning Community](https://github.com/dmlc)</br>
+[清华大学NLP 中文分词](http://thulac.thunlp.org/)</br>
+[THUNLP](https://github.com/thunlp)</br>
+[Tsinghua NLP 开源代码](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/codes)</br>
+[google github](https://github.com/google)</br>
+[facebook github](https://github.com/facebook)</br>
+[facebook research github](https://github.com/facebookresearch)</br>
+[microsoft github](https://github.com/microsoft)</br>
+[baidu github](https://github.com/baidu)</br>
+[mxnet](http://mxnet.io/index.html)</br>
+[xgboost](http://xgboost.readthedocs.io/en/latest/)</br>
+[tensorflow](https://github.com/tensorflow)</br>
+[styleguide](https://google.github.io/styleguide/)</br>
+[google python编程风格指南](https://google.github.io/styleguide/pyguide.html)</br>
+[FALCONN-LIB](https://github.com/FALCONN-LIB)</br>
+[FALCONN相关资料](https://falconn-lib.org/)</br>
+[codes for AI A Modern Approach](https://github.com/aimacode)</br>
+[FloydHub](https://github.com/floydhub)</br>
+[伯乐在线 github](https://github.com/jobbole)</br>
+[ALL @ UMass](https://github.com/all-umass)</br>
+[rlpy](https://github.com/rlpy)</br>
+[isocpp](https://github.com/isocpp)</br>
+[harvardnlp](http://harvardnlp.github.io/)</br>
+[openai](https://github.com/openai)</br>
+[UnnatiData Labs](https://github.com/unnati-xyz)</br>
+[nyu-dl](https://github.com/nyu-dl)</br>
+[NCC Group Plc](https://github.com/nccgroup)</br>
+[ideaTouch](https://github.com/ideaTouch)</br>
+[mlpack](http://mlpack.org/)</br>
+[mlpack github](https://github.com/mlpack)</br>
+[lzfse](https://github.com/lzfse)</br>
+[SEMPRE: Semantic Parsing with Execution](http://www-nlp.stanford.edu/software/sempre/)</br>
+[nyu-dl](https://github.com/nyu-dl)</br>
+[SeSaMe](https://github.com/SeSaMe-NUS )</br>
+[docker github](https://github.com/docker)</br>
+[大代码数据集](http://learnbigcode.github.io/)</br>
+[How to be a Programmer](https://www.gitbook.com/book/braydie/how-to-be-a-programmer/details)</br>
+[PRMLT](http://prml.github.io/)</br>
+[matlab code for algorithm in prml](https://github.com/PRML)</br>
+[torchnet](https://github.com/torchnet)</br>
+[NASA](https://github.com/nasa/)</br>
+[NASA Projects](https://code.nasa.gov/#/)</br>
 
 ## tools
 `工欲善其事，必先利其器`
@@ -1396,74 +1226,47 @@ https://it-ebooks.info/</br>
 http://bookzz.org/</br>
 https://www.jiumodiary.com/</br>
 英文电子书搜索</br>
-
 http://sci-hub.io/</br>
-
-Cloud Vision API 谷歌图像识别API</br>
+[谷歌云平台Blog](https://cloudplatform.googleblog.com/)</br>
+[Cloud Vision API 谷歌图像识别API](https://cloudplatform.googleblog.com/2015/12/Google-Cloud-Vision-API-changes-the-way-applications-understand-images.html)</br>
 
 ### Conference and Community
-
-http://cacm.acm.org/ (cacm) 
-
-https://deepmind.com/research/alphago/
-alphago
-
-http://caffecn.cn/
-Caffee中国社区
-
-http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf
-http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1
-iclr会议
-
-https://arxiv.org/
-
-http://wikicfp.com/cfp/
-
-http://ggplot2.org/
-
-http://tcci.ccf.org.cn/summersch/classm/Introduction-to-smt.pdf
-机器翻译
-http://tcci.ccf.org.cn/index.html
-计算机学会
-
-https://algobeans.com/
-http://kddchina.org/#/Home
-
-http://www.socher.org/
-
+[cacm])(http://cacm.acm.org/)</br>
+[alphago](https://deepmind.com/research/alphago/)</br>
+[Caffee中国社区](http://caffecn.cn/)</br>
+[Deep Reinforcement Learning](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:silver-iclr2015.pdf)</br>
+[iclr会议](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1)</br>
+[arxiv](https://arxiv.org/)</br>
+[wikicfp](http://wikicfp.com/cfp/)</br>
+[ggplot2](http://ggplot2.org/)</br>
+[ALGOBEANS](https://algobeans.com/)</br>
+[kddchina](http://kddchina.org/#/Home)</br>
+[Richard Socher](http://www.socher.org/)</br>
 https://www.microsoft.com/cognitive-services
 微软认知服务API
+[计算机研究与发展期刊](http://crad.ict.ac.cn/CN/volumn/home.shtml)</br>
+[pandas](http://pandas.pydata.org/)</br>
+[tom augspurger](http://tomaugspurger.github.io/)</br>
+[modern pandas 1](http://tomaugspurger.github.io/modern-1.html)</br>
+[modern pandas 2](http://tomaugspurger.github.io/method-chaining.html)</br>
 
-http://crad.ict.ac.cn/CN/volumn/home.shtml
-中国计算机学会 会刊
 
-http://pandas.pydata.org/
-
-http://tomaugspurger.github.io/
-http://tomaugspurger.github.io/modern-1.html
-http://tomaugspurger.github.io/method-chaining.html
-
-### top100 国人 from github
-
-http://blog.codingnow.com/
-http://evanyou.me/
-http://blog.ibireme.com/
-http://stormzhang.com/
-http://blog.devtang.com/
-http://svaksha.github.io/pythonidae/
+[云风的Blog](http://blog.codingnow.com/)</br>
+[evan you](http://evanyou.me/)</br>
+[伽蓝之堂](http://blog.ibireme.com/)</br>
+[stormzhang](http://stormzhang.com/)</br>
+[唐巧的Blog](http://blog.devtang.com/)</br>
+[Pythonidae](http://svaksha.github.io/pythonidae/)</br>
 
 
 ### Programming Language
-http://www.lua.org/
-https://www.rust-lang.org/en-US/
-https://www.haskell.org/
-http://erlang.org/doc/man/erlang.html
-http://felix-lang.org/
+[lua](http://www.lua.org/)</br>
+[rust](https://www.rust-lang.org/en-US/)</br>
+[haskell](https://www.haskell.org/)</br>
+[erlang](http://erlang.org/doc/man/erlang.html)</br>
+[felix](http://felix-lang.org/)</br>
 
-https://www.codingame.com/
-https://www.codingame.com/training/machine-learning
-
-http://www.bibtex.org/
-写论文时，制作参考文件的工具
-
-https://www.crunchbase.com/
+[codingame](https://www.codingame.com/)</br>
+[Machine-Learning codingame](https://www.codingame.com/training/machine-learning)</br>
+[bibtex 写论文时，制作参考文件的工具](http://www.bibtex.org/)</br>
+[crunchbase](https://www.crunchbase.com/)</br>
