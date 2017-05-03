@@ -25,10 +25,10 @@ int main()
     valarray<int> myarr (init,5);
     printInfo(myarr);
 
-    myarr.shift(2);
+    myarr = myarr.shift(2);
     printInfo(myarr);
 
-    myarr.shift(-1);
+    myarr = myarr.shift(-1);
     printInfo(myarr);
 
     return 0;
