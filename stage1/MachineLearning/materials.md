@@ -84,8 +84,7 @@ Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave�
 [udacity 算法交易与计算投资](https://cn.udacity.com/course/machine-learning-for-trading--ud501)</br>
 `STATUS:NOT START`
 
-[cs224 Deep Learning for Natural Language Processing
-](http://cs224d.stanford.edu/index.html)</br>
+[cs224 Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)</br>
 `STATUS:NOT START`
 
 http://data.library.utoronto.ca/</br>
@@ -181,17 +180,23 @@ https://data.library.utoronto.ca/cleaning-data-python</br>
 [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)</br>
 `STATUS:NOT START`
 
+[Google计算机科学教育网站](https://edu.google.com/cs/index.html)</br>
+[CMU15210 Parallel and Sequential Data Structures and Algorithms](http://www.cs.cmu.edu/~15210/index.html)</br>
+
+[Siraj Raval youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)</br>
+
 ## Technical Blogs
 ``` The most talant guys from all over the world share the most exciting views about computer science ```
 
+[操作系统 ： 从0到1](https://tuhdo.github.io/os01/)</br>
 [Internet Assigned Numbers Authority](http://www.iana.org/)</br>
 
 [Google是如何做负载均衡的](http://www.techug.com/post/how-google-do-load-balance.html)</br>
-
+[我是如何放弃读博拥抱数据科学的](https://docs.google.com/presentation/d/1_wdSh2PFxiqBegt5PcatbEiQaganlgdb5bH7V2jHXZI/mobilepresent?slide=id.p)</br>
 [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)</br>
 
 [爱德华·威滕 简介](http://wap.sciencenet.cn/blogview.aspx?id=1016560)</br>
-
+F
 [在美国大学计算机专业都学什么](http://geek.csdn.net/news/detail/124887)</br>
 
 [学术资源BT站 研究数据集](http://www.52ml.net/20849.html)</br>
@@ -200,10 +205,9 @@ https://data.library.utoronto.ca/cleaning-data-python</br>
 
 [Jeff Erickson](http://jeffe.cs.illinois.edu/) </br>
 [Jeff Erickson Algorithm lesson](http://jeffe.cs.illinois.edu/teaching/algorithms/) </br>
-`STATUS:NOT START`
-
+[数据科学家们最爱的技术栈](https://www.datascience.com/blog/data-science-tools-machine-learning-technologies-we-love)</br>
 [Hack the kernel Learn Operating System Online](https://www.ops-class.org/)</br>
-
+[如何自己读论文](https://www.zhihu.com/question/23647187)</br>
 [有哪些供本科生研究的机器学习课题](https://www.quora.com/What-are-some-Machine-learning-project-ideas-for-an-undergraduate-that-can-be-original-and-lead-to-a-publication)</br>
 
 [情绪低落时如何鼓舞自己](https://www.quora.com/How-do-you-motivate-yourself-when-you-are-down)</br>
@@ -539,7 +543,7 @@ http://www.bfilipek.com/</br>
 
 [知识库](http://lib.csdn.net/home)</br>
 [机器学习知识库](http://lib.csdn.net/base/2/structure)</br>
-
+[什么是无监督学习](https://www.zhihu.com/question/23194489)</br>
 [ML-DL-NLP-RoadMap](http://www.cnblogs.com/cyruszhu/p/5496913.html)</br>
 
 [Smile ](http://haifengl.github.io/smile/index.html#overview)</br>
@@ -588,10 +592,11 @@ http://www.bfilipek.com/</br>
 [52cs 陈天奇 采访 1](http://www.52cs.org/?p=867)</br>
 [52cs 陈天奇 采访 2](http://www.52cs.org/?p=869)</br>
 [52cs 陈天奇 采访 3](http://www.52cs.org/?p=873)</br>
-
+[博士这5年 李沐](https://zhuanlan.zhihu.com/p/25099638)</br>
+[李沐访谈](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485378&idx=1&sn=80f78e7f57fd538bbb7817aca4cc8a2e)</br>
 
 [随机数生成算法](http://top.jobbole.com/35028/?repeat=w3tc)</br>
-
+[异常检测入门](https://www.datascience.com/blog/intro-to-anomaly-detection-learn-data-science-tutorials)</br>
 
 [ECCC](https://eccc.weizmann.ac.il/report/2015/119/)</br>
 
@@ -599,7 +604,7 @@ http://www.bfilipek.com/</br>
 [何登成 云盘](https://pan.baidu.com/share/home?uk=4265849107#category/type=0)</br>
 
 
-
+[Funny Linux Commands](http://www.pixelstech.net/article/1370744983-Funny-Linux-commands)</br>
 [awesome C++](https://cpp.libhunt.com/)</br>
 
 [tensorflow examples](http://nbviewer.jupyter.org/github/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)</br>
@@ -693,7 +698,7 @@ http://www.bfilipek.com/</br>
 [cnn笔记： 通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)</br>
 
 [傅里叶变换和拉普拉斯变换的意义](http://blog.sina.com.cn/s/blog_64827e4c0100i0ms.html)</br>
-
+[数学中有哪些看起来不可思议的知识](https://www.zhihu.com/question/36461509)</br>
 [awesome-dtrace](https://awesome-dtrace.com/)</br>
 
 [The Spectator Shakir's Machine Learning Blog](http://blog.shakirm.com/)</br>
@@ -811,49 +816,59 @@ http://www.bfilipek.com/</br>
 [ Matthieu Garrigues](http://perso.ensta-paristech.fr/~garrigues/index.html)</br>
 
 [Learning to search](http://hunch.net/~l2s/)</br>
-
+[scipy 速查表](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet#gs.DhnqH14)</br>
 [Machine Learning Theory](http://hunch.net/)</br>
-
+[Quora What are some machine learning algorithms that can learn well even with a small data set? ](https://www.quora.com/What-are-some-machine-learning-algorithms-that-can-learn-well-even-with-a-small-data-set)</br>
 [Machine Learning Summer School](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650718072&idx=1&sn=93f90c233077280da3097f397da6260b&scene=0#rd)</br>
-
+[Effective code review rules](http://codelegance.com/effective-code-review-with-two-simple-rules/)</br>
 [beginner-ml-courses](https://hackerlists.com/beginner-ml-courses/)</br>
-
+[cpi tiny c++ interpreter](http://treefrogframework.github.io/cpi/)</br>
 [tensorflow-resources](https://hackerlists.com/tensorflow-resources/)</br>
-
+[2017年不可错过的Java库](https://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/)</br>
+[意识到不可能称为top1%的程序员 我们该怎么做](https://www.zhihu.com/question/41996685)</br>
+[英语阅读之法](https://www.zhihu.com/question/21740907)</br>
+[矩阵分解与降维](https://www.slideshare.net/HJvanVeen/matrix-factorisation-and-dimensionality-reduction)</br>
 [Aminer data](https://cn.aminer.org/data)</br>
-
+[数学家到数据科学家](https://quomodocumque.wordpress.com/2017/02/26/mathematicians-becoming-data-scientists-should-you-how-to/)</br>
 [Peter Hoseyzo homepage](http://boredzo.org/)</br>
 [colorized-man-pages-understood-and-customized](http://boredzo.org/blog/archives/2016-08-15/colorized-man-pages-understood-and-customized)</br>
-
+[容器技术思考](http://weibo.com/ttarticle/p/show?id=2309404079682852119503)</br>
 [study trails](http://www.studytrails.com/)</br>
 [15-page-tutorial-for-r](http://www.studytrails.com/r/15-page-tutorial-for-r/)</br>
-
+[本科生的数据挖掘与机器学习之路](https://www.zhihu.com/question/56050487)</br>
 [joseph misiti blog](http://blog.josephmisiti.com/)</br>
-
+[crack station](https://crackstation.net/hashing-security.htm)</br>
 [start-learn-data-science](https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c)</br>
-
+[概率论可视化网站](http://students.brown.edu/seeing-theory/index.html)</br>
 [陈天奇 NNVM打造模块化深度学习系统](http://weibo.com/ttarticle/p/show?id=2309404025388832575825)</br>
-
+[当我们读唐诗时，我们在读什么](http://mp.weixin.qq.com/s/_iNul44KtJY7w8QUyh-0bg)</br>
+[thulac中文词法分析工具包](http://thulac.thunlp.org/)</br>
 [Miao Fan](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Miao_Fan)</br>
 [TsingHua CSLT](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/%E9%A6%96%E9%A1%B5)</br>
-
+[google API设计指南](https://cloud.google.com/apis/design/)</br>
 [tensortalk](https://tensortalk.com/?s=hot&t=type-all)</br>
-
+[llvm源代码](http://llvm.org/svn/llvm-project/libcxx/trunk/include/)</br>
 [Linux story](https://linuxstory.org/)</br>
 [free-chinese-programming-books](https://linuxstory.org/free-chinese-programming-books/)</br>
-
+[google 破解sha-1](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)</br>
+[sha-1破解](http://shattered.it/)</br>
 [麻省理工学院(MIT)研究生学习指导](http://www.kuqin.com/shuoit/20161012/352959.html)</br>
-
+[深度学习-游戏刚刚开始](https://www.exchangewire.com/blog/2017/02/21/game-deep-learning-just-begun/)</br>
 [The Linux Documentation Project](http://www.tldp.org/index.html)</br>
 [Linux Gazette](http://www.tldp.org/LDP/LG/)</br>
 [December 1997 Issue #23](http://www.tldp.org/LDP/LG/issue23/)</br>
 [Processes on Linux and Windows NT](http://www.tldp.org/LDP/LG/issue23/flower/page1.html)</br>
-
-
+[开发者和程序员需要关注的42个播客](https://yq.aliyun.com/articles/55963?utm_content=m_11347)</br>
+[编程界12位祖师爷](http://blog.jobbole.com/110321/)</br>
 [reddit](https://www.reddit.com/)</br>
 [Char : Another open source minimal neural network library](https://www.reddit.com/r/MachineLearning/comments/5ffgts/p_c_chai_another_open_source_minimal_neural/)</br>
-
-
+[小白也能看懂的TensorFlow 介绍](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650723520&idx=1&sn=d204284574e9e56682b6ed6f9dcaff01)</br>
+[all-of-us-are-belong-to-machines](https://medium.com/all-of-us-are-belong-to-machines)</br>
+[TensorFlow 1](https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to-tensorflow-248dc871a224)</br>
+[TensorFlow 2](https://medium.com/all-of-us-are-belong-to-machines/gentlest-introduction-to-tensorflow-part-2-ed2a0a7a624f)</br>
+[TensorFlow 3](https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-part-3-matrices-multi-feature-linear-regression-30a81ebaaa6c)</br>
+[TensorFlow 4](https://medium.com/all-of-us-are-belong-to-machines/gentlest-intro-to-tensorflow-4-logistic-regression-2afd0cabc54)</br>
+[姚期智先生的成就](https://www.zhihu.com/question/56103471/answer/148030363?utm_campaign=official_account&utm_source=weibo&utm_medium=zhihu&utm_content=answer)</br>
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
 
@@ -880,26 +895,28 @@ Machine Learning</br>
 [How to write thesis 书评1](https://www.theparisreview.org/interviews/5856/umberto-eco-the-art-of-fiction-no-197-umberto-eco)</br>
 [How to write thesis 书评2](https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis)</br>
 `STATUS:NOT START`
-
+[Machine Learning with R - Second Edition](https://www.packtpub.com/packt/offers/free-learning)</br>
 [数据库红宝书](http://www.redbook.io/index.html)</br>
 `STATUS:NOT START`
-
+[Introduction to Data Science](http://www.springer.com/gp/book/9783319500164)</br>
 [Bayesian Reinforcement Learning](http://www.nowpublishers.com/article/Details/MAL-049)</br>
-
+[Machine Learning Refined: Foundations, Algorithms, and Applications](https://www.amazon.com/Machine-Learning-Refined-Foundations-Applications/dp/1107123526)</br>
+[Machine Learning Refined Sample chapters](http://mlrefined.wixsite.com/home-page)</br>
 [Mathematical Problems in Data Science](http://www.springer.com/cn/book/9783319251257)</br>
 `STATUS:NOT START`
 
 [Advanced Markov Chain Monte Carlo Methods: Learning from Past Samples](http://onlinelibrary.wiley.com/book/10.1002/9780470669723)</br>
 `STATUS:NOT START`
-
+[构建之法参考书](http://www.cnblogs.com/xinz/p/4470424.html)</br>
 [linux 书籍](http://liwei.life/)</br>
 `STATUS:NOT START`
-
+[神经网络数学初级指南](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)</br>
 [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071)</br>
 `STATUS:NOT START`
-
+[LaTex入门](https://www.slideshare.net/jbhuang/research-101-paper-writing-with-latex)</br>
 [15 Free ebooks on Artificial Intelligence](http://www.itechflare.com/main/15-free-ebooks-artificial-intelligence/)</br>
 `STATUS:NOT START`
+[AudiobookBay有声电子书](http://weibo.com/ttarticle/p/show?id=2309404076448708191031)</br>
 
 [Deep Learning](http://www.deeplearningbook.org/)</br>
 `STATUS:NOT START`
@@ -909,11 +926,13 @@ Machine Learning</br>
 
 [Statistics for Non-Statisticians](http://www.springer.com/us/book/9783642176555)</br>
 [Statistics in the 21st Century](http://www.crcnetbase.com/doi/book/10.1201/9781420035391) </br>
-
+[Programming Journal](http://programming-journal.org/)</br>
 [Deep-learning-Book-lists](http://machinelearningmastery.com/deep-learning-books/)</br>
-
+[开源指南](https://github.com/blog/2318-announcing-open-source-guides)</br>
 [Generalized Principal Component Analysis](http://link.springer.com/book/10.1007/978-0-387-87811-9)</br>
-
+[oss blogs](https://www.ossblog.org/)</br>
+[C++开源书籍](https://www.ossblog.org/master-c-programming-with-open-source-books/)</br>
+[Markdown编辑器](https://www.ossblog.org/markdown-editors/)</br>
 [Introduction to Probability with Statistical Applications](http://www.springer.com/us/book/9783319306186 )</br>
 [squeakland readinglist](http://www.squeakland.org/resources/books/readingList.jsp)</br>
 [Elements of Probability and Statistics](http://www.springer.com/gp/book/9783319072531)</br>
