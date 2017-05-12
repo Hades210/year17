@@ -1,4 +1,4 @@
-## Robotics: Fundamentals Week 1
+ï»¿## Robotics: Fundamentals Week 1
 
 ### What is MATLAB
 [Matlab Academy](https://matlabacademy.mathworks.com)</br>
@@ -12,21 +12,21 @@ MATLAB Onramp</br>
 
 #### Commands
 ##### Entering Commands
-Ä¬ÈÏ±äÁ¿ans</br>
-m = 3 * 5 ±äÁ¿ÆğÃû</br>
-m = m + 1  ¸³Öµ²Ù×÷</br>
-y = m / 2 workspace»áÏÔÊ¾±äÁ¿Ãû¼°ĞÅÏ¢</br>
-k - 8 - 2; semicolon»áÖ´ĞĞÃüÁî£¬µ«²»Õ¹ÏÖÔÚcommand window´¦</br>
-ÔÚcommand windowÖĞÊ¹ÓÃupµ÷³öÀúÊ·ÃüÁî£¬¿ÉÔÚÀúÊ·ÃüÁî»ù´¡ÉÏĞŞ¸Ä</br>
-ÊäÈë±äÁ¿Ãû»Ø³µ£¬·µ»Ø¸Ã±äÁ¿µÄÖµ </br>
+é»˜è®¤å˜é‡ans</br>
+m = 3 * 5 å˜é‡èµ·å</br>
+m = m + 1  èµ‹å€¼æ“ä½œ</br>
+y = m / 2 workspaceä¼šæ˜¾ç¤ºå˜é‡ååŠä¿¡æ¯</br>
+k - 8 - 2; semicolonä¼šæ‰§è¡Œå‘½ä»¤ï¼Œä½†ä¸å±•ç°åœ¨command windowå¤„</br>
+åœ¨command windowä¸­ä½¿ç”¨upè°ƒå‡ºå†å²å‘½ä»¤ï¼Œå¯åœ¨å†å²å‘½ä»¤åŸºç¡€ä¸Šä¿®æ”¹</br>
+è¾“å…¥å˜é‡åå›è½¦ï¼Œè¿”å›è¯¥å˜é‡çš„å€¼ </br>
 ##### Sorting Data in Variables
-±äÁ¿ÃüÃû¹æÔò,×ÖÄ¸¿ªÍ·£¬°üº¬Êı×Ö ×ÖÄ¸ _ </br>
-clear»áÇå¿ÕËùÓĞ±äÁ¿</br>
-clcÖ»Çå¿Õcommand window</br>
+å˜é‡å‘½åè§„åˆ™,å­—æ¯å¼€å¤´ï¼ŒåŒ…å«æ•°å­— å­—æ¯ _ </br>
+clearä¼šæ¸…ç©ºæ‰€æœ‰å˜é‡</br>
+clcåªæ¸…ç©ºcommand window</br>
 ##### Using Built-in Functions and Constants
-ÄÚÖÃ³£Á¿£¬±ÈÈçpi</br>
-ÄÚÖÃº¯Êı£¬±ÈÈçsin()</br>
-z = sqrt(-9)  iÊÇ³£Á¿</br>
+å†…ç½®å¸¸é‡ï¼Œæ¯”å¦‚pi</br>
+å†…ç½®å‡½æ•°ï¼Œæ¯”å¦‚sin()</br>
+z = sqrt(-9)  iæ˜¯å¸¸é‡</br>
 
 #### Vectors and Matrices
 
@@ -42,11 +42,11 @@ x = [sqrt(10) pi^2] </br>
 
 x = 1 : 3 / x = [1 2 3] </br>
 x = first : space : last </br>
-space ²»Ğ´Ê±£¬Ä¬ÈÏÎª1</br>
+space ä¸å†™æ—¶ï¼Œé»˜è®¤ä¸º1</br>
 
 x = linspace(first,last,number_of_elements)</br>
-:ºÍlinspace¶¼ÊÇÉú³ÉĞĞÏòÁ¿</br>
-x = x' ×ªÖÃ</br>
+:å’Œlinspaceéƒ½æ˜¯ç”Ÿæˆè¡Œå‘é‡</br>
+x = x' è½¬ç½®</br>
 
 x = (5 : 2 : 9)' </br>
 x = linspace(5,9,3)' </br>
@@ -54,67 +54,125 @@ x = linspace(5,9,3)' </br>
 Array Creation Functions</br>
 x = rand (5) 5by5 matrix </br>
 x = rand (5, 1) 5by1 matrix </br>
-x = zeros(6,3) 6by3 È«Áã¾ØÕó</br>
+x = zeros(6,3) 6by3 å…¨é›¶çŸ©é˜µ</br>
 
 ### Saving and Loading Variables
-save foo x ½«±äÁ¿x±£´æµ½foo.matÎÄ¼şÖĞ</br>
-load foo ´Ófoo.matÎÄ¼şÖĞ¼ÓÔØ</br>
+save foo x å°†å˜é‡xä¿å­˜åˆ°foo.matæ–‡ä»¶ä¸­</br>
+load foo ä»foo.matæ–‡ä»¶ä¸­åŠ è½½</br>
 
 ### Indexing into Arrays
 
-x = A(6,3) È¡¾ØÕóAµÄµÚ6ĞĞ£¬µÚ3ÁĞµÄÊı×Ö</br>
-x = A(end,3) ×îºóÒ»ĞĞ£¬µÚ3ÁĞ</br>
+x = A(6,3) å–çŸ©é˜µAçš„ç¬¬6è¡Œï¼Œç¬¬3åˆ—çš„æ•°å­—</br>
+x = A(end,3) æœ€åä¸€è¡Œï¼Œç¬¬3åˆ—</br>
 x = A(end - 2, end - 3)</br>
 
 ### Extracting Multiple Elements
 
-x = data(2,:) µÚ¶şĞĞµÄËùÓĞÊı¾İ</br>
-x = data(:,2) µÚ¶şÁĞµÄËùÓĞÊı¾İ</br>
+x = data(2,:) ç¬¬äºŒè¡Œçš„æ‰€æœ‰æ•°æ®</br>
+x = data(:,2) ç¬¬äºŒåˆ—çš„æ‰€æœ‰æ•°æ®</br>
 
-x = data(1:3,:) 1µ½3ĞĞ£¬ÈÎÒâÁĞ</br>
-x = data(:,end-1:end) ×îºóÁ½ÁĞ£¬ÈÎÒâĞĞ</br>
+x = data(1:3,:) 1åˆ°3è¡Œï¼Œä»»æ„åˆ—</br>
+x = data(:,end-1:end) æœ€åä¸¤åˆ—ï¼Œä»»æ„è¡Œ</br>
 
-x = v(3) vÊÇÏòÁ¿£¨ÁĞ/ĞĞ£©µÚ3¸öÔªËØ</br>
+x = v(3) væ˜¯å‘é‡ï¼ˆåˆ—/è¡Œï¼‰ç¬¬3ä¸ªå…ƒç´ </br>
 x = v(3:5) </br>
 
 v(2) = 5 </br>
 
 ### Perform Array Operations on Vectors
-y = x + 1 Ã¿Ò»¸öÔªËØ¶¼¼Ó1</br>
+y = x + 1 æ¯ä¸€ä¸ªå…ƒç´ éƒ½åŠ 1</br>
 
-z = z1 + z2 z1ºÍz2Í¬ĞÍÊ±£¬¿ÉÏà¼Ó</br>
+z = z1 + z2 z1å’Œz2åŒå‹æ—¶ï¼Œå¯ç›¸åŠ </br>
 
 za = z/2 </br>
 
 zm = max(za)</br>
 xSqrt = sqrt(x)</br>
-vr = round(va) ËÄÉáÎåÈë</br>
+vr = round(va) å››èˆäº”å…¥</br>
 
-\* ¾ØÕó³Ë·¨</br>
-.* µã³Ë(¶ÔÓ¦ÔªËØÏà³Æ£¬Á½¸öÏòÁ¿ÒªÏàÍ¬)</br>
+\* çŸ©é˜µä¹˜æ³•</br>
+.* ç‚¹ä¹˜(å¯¹åº”å…ƒç´ ç›¸ç§°ï¼Œä¸¤ä¸ªå‘é‡è¦ç›¸åŒ)</br>
 
 ### Obtaining Multiple Outputs from Function Calls
 
-dsize = size(data) ·µ»ØĞĞÊı ÁĞÊı</br>
-[dr,dc] = size(data) ·µ»ØĞĞÊı ÁĞÊı</br>
-[vMax,ivMax] = max(v) ·µ»Ø×î´óÖµ¼°ÆäË÷Òı</br>
+dsize = size(data) è¿”å›è¡Œæ•° åˆ—æ•°</br>
+[dr,dc] = size(data) è¿”å›è¡Œæ•° åˆ—æ•°</br>
+[vMax,ivMax] = max(v) è¿”å›æœ€å¤§å€¼åŠå…¶ç´¢å¼•</br>
 
-doc fcnName ´ò¿ªº¯Êı°ïÖúÊÖ²á</br>
+doc fcnName æ‰“å¼€å‡½æ•°å¸®åŠ©æ‰‹å†Œ</br>
 
 ### Plotng vectors
-Í¬Ñù´óĞ¡µÄÏòÁ¿£¬Ê¹ÓÃplot(x,y)»æÖÆÍ¼ĞÎ</br>
-plot(x,y,'r--o')ÉèÖÃÏßµÄÊôĞÔ</br>
-hold on ²»Ä¨È¥Ö®Ç°µÄÍ¼²ã</br>
-hold off »Ø¸´Ä¬ÈÏ</br>
-close all ¹Ø±ÕËùÓĞÍ¼</br>
-plot(v1) ×÷ÓÃÓÚÏòÁ¿£¬ºáÖáË÷Òı£¬ÊıÖáÎªÖµ</br>
-plot(v1,'LineWidth',5)  ÉèÖÃÏßµÄÊôĞÔ</br>
+åŒæ ·å¤§å°çš„å‘é‡ï¼Œä½¿ç”¨plot(x,y)ç»˜åˆ¶å›¾å½¢</br>
+plot(x,y,'r--o')è®¾ç½®çº¿çš„å±æ€§</br>
+hold on ä¸æŠ¹å»ä¹‹å‰çš„å›¾å±‚</br>
+hold off å›å¤é»˜è®¤</br>
+close all å…³é—­æ‰€æœ‰å›¾</br>
+plot(v1) ä½œç”¨äºå‘é‡ï¼Œæ¨ªè½´ç´¢å¼•ï¼Œæ•°è½´ä¸ºå€¼</br>
+plot(v1,'LineWidth',5)  è®¾ç½®çº¿çš„å±æ€§</br>
 plot(sample,v1,'ro','LineWidth',5) </br>
-title('TITLE') ×Ö·û´®Ê¹ÓÃµ¥ÒıºÅ</br>
-ylabel('²úÁ¿')</br>
-legend('²úÄÜ')Í¼Àı</br>
+title('TITLE') å­—ç¬¦ä¸²ä½¿ç”¨å•å¼•å·</br>
+ylabel('äº§é‡')</br>
+xlabel('æ—¶é—´')</br>
+legend('äº§èƒ½')å›¾ä¾‹</br>
 
+### Logical Operations and Variables
+> < == ~= è¿”å›å€¼ 1 (true) 0 (false)</br>
+pi > 3 </br>
+test = pi > 3 </br>
+[5 10 15] > 12 è¿”å›å€¼ [0 0 1]</br>
+[5 10 15] > [6 9 20] è¿”å›å€¼ [0 1 0] </br>
 
+### Combining Logical Conditions
+ & (ä¸) or(æˆ–)</br>
+
+ ### Logical Indexing
+ You can use a logical array as an array index, in which case MATLAB extracts the array elements where the index is true. The following example will extract all elements in v1 that are greater than six.</br>
+ ```
+ >> v = v1 (v1 > 6)
+ v =
+    6.6678
+    9.0698
+```
+Try creating a variable `s` that contais the elements in `sample` corresponding to where `v1` is less than `4`</br>
+`s = sample(v1 < 4)`
+x(x == 999) = 0</br>
+x(x > 5) = 10</br>
+
+### Decision Branching
+Each if statement must contain one if keyword and one end keyword, and code between the if and end keywords is executed only when the condition is met</br>
+```
+x = rand;
+if x > 0.5
+    y = 3; %Executed only if x > 0.5
+end
+```
+
+```
+x = rand;
+if x > 0.5
+    y = 3;
+else
+    y = 4;
+end
+```
+
+### For Loops
+```
+for i = 1 : 3
+    disp(i)
+end
+```
+
+```
+x = (11:15).^2;
+for idx = 1 : 5
+    disp(x(idx))
+end
+```
+ç»“æœä¸º121 144 169 196 255 </br>
+
+### final project 
+loglog å‡½æ•°ä¹Ÿæ˜¯ç»˜å›¾çš„ï¼Œä¸¤ä¸ªåæ ‡éƒ½æ˜¯å¯¹æ•°</br>
 
 
 
