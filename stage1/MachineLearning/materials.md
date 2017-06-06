@@ -47,7 +47,7 @@ Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave�
 [cos 226 quiz](http://www.cs.princeton.edu/courses/archive/spring15/cos226/flipped.php)</br>
 [Computer Science 294 (UC Berkeley Michael Jordan)](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/)</br>
 `STATUS:NOT START`
-
+[Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data?siteID=je6NUbpObpQ-Akog7jGQXRa756u4lV91MA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ)</br>
 [SJTU数据科学相关课程](http://dataunion.org/2903.html)</br>
 `STATUS:NOT START`
 
@@ -74,10 +74,10 @@ Stanford Machine Learning Andrew Ng 讲解线性代数的知识，使用Octave�
 [cs704 pdf Bayesian Networks](http://nlp.postech.ac.kr/Course/CS704/LectureNotes/BayesianNetworks.pdf)</br>
 [Lectures related to iSoft Lab/CSE department lessons](http://nlp.postech.ac.kr/Course/)</br>
 `STATUS:NOT START`
-
+[CMU 18-645 How to write fast code](https://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html)</br>
 [英国大学公开课](https://www.futurelearn.com/)</br>
 `STATUS:NOT START`
-
+[推荐每个程序员都看的技术演讲](http://blog.jobbole.com/110432/)</br>
 [David Silver homepage](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Home.html)</br>
 [David Silver 强化学习课程 (AlphaGo作者)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)</br>
 `STATUS:NOT START`
@@ -279,6 +279,7 @@ http://www.bfilipek.com/</br>
 [nolan lawson](https://nolanlawson.com/)</br>
 [phunter_lan老师的博客](http://phunter.farbox.com/)</br>
 [Google AudioSet 数据集](https://research.google.com/audioset/)</br>
+[声音识别的 ImageNet 诞生了，大家想用它做什么呢？](https://www.zhihu.com/question/56816282)</br>
 [50个大数据分析学习资料](https://www.ngdata.com/big-data-analysis-resources/)</br>
 [Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)</br>
 [机器学习博客](http://machinelearningmastery.com/)</br>
@@ -292,9 +293,9 @@ http://www.bfilipek.com/</br>
 [build-your-own-neural-network-classifier-in-r](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)</br>
 [利用深度学习进行时序数据的异常检测](https://www.infoq.com/articles/deep-learning-time-series-anomaly-detection)</br>
 [mastering-r-plot-part-2-axis](https://datascienceplus.com/mastering-r-plot-part-2-axis/)</br>
-
+[An Introduction to Key Data Science Concepts](https://blog.dataiku.com/an-introduction-to-key-data-science-concepts)</br>
 [机器学习算法速查表](http://eferm.com/machine-learning-cheat-sheet/)</br>
-
+[CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)</br>
 [eferm的博客 Oxford毕业 就职于Palantir](http://eferm.com/)</br>
 [胡侃CS TOP SCHOOL](http://www.52cs.org/?p=834)</br>
 [NLP系列 1](http://blog.csdn.net/longxinchen_ml/article/details/50543337)</br>
@@ -302,30 +303,32 @@ http://www.bfilipek.com/</br>
 [NLP系列 3](http://blog.csdn.net/longxinchen_ml/article/details/50629110)</br>
 [NLP系列 4](http://blog.csdn.net/longxinchen_ml/article/details/50629613)</br>
 [NLP系列 5](http://blog.csdn.net/longxinchen_ml/article/details/50646528)</br>
-
+[A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)</br>
 [数据可视化课程](https://kieranhealy.org/blog/archives/2016/02/10/data-visualization-course-notes/)</br>
 [Off the Convex Path](http://www.offconvex.org/)</br>
 [16本机器学习与数据挖掘的书](http://www.aioptify.com/topmldmbooks.php)</br>
 [Back-propagation, an introduction](http://www.offconvex.org/2016/12/20/backprop/)</br>
 [random thoughts](http://rt.dgyblog.com/)</br>
 [深度学习阅读清单](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html)</br>
-
+[A Beginner’s Guide to Machine Learning Algorithms](http://dataconomy.com/2017/03/beginners-guide-machine-learning)</br>
+[机器学习入门算法：从线性模型到神经网络](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650724029&idx=2&sn=18e1a3c233e7802d2297d9cbb1e7c35f)</br>
 [计算广告与机器学习](http://www.52caml.com/)</br>
-
+[GDC 2017 技术选荐合辑](http://gulu-dev.com/post/2017-03-11-gdc17)</br>
 [计算机文献](http://dblp.uni-trier.de/)</br>
-
+[Gu Lu's Blog](http://gulu-dev.com/)</br>
 [kdnuggets](http://www.kdnuggets.com/) </br>
-
+[对于读文献，你有哪些愿意分享的技巧？](https://www.zhihu.com/question/37779411)</br>
 [数据挖掘七步走](https://www.techopedia.com/2/30510/trends/big-data/7-steps-for-learning-data-mining-and-data-science)</br>
-
+[大数据舆情情感分析，如何提取情感并使用什么样的工具？（贴情感标签）](https://www.zhihu.com/question/31471793)</br>
 [如何读论文](http://weibo.com/p/1001603946008533927097)</br>
-
+[阿里巴巴Java开发手册快速学习](https://yq.aliyun.com/articles/72038?utm_content=m_13198)</br>
 [getting-started-with-statistics-for-data-science](http://www.jeannicholashould.com/getting-started-with-statistics-for-data-science.html)</br>
-
+[在工作中，你使用过哪些能提高效率的好习惯？](https://www.zhihu.com/question/23891670)</br>
 [数据科学统计学入门](http://dataunion.org/22115.html)</br>
-
+[模仿学习](https://zhuanlan.zhihu.com/p/25688750?group_id=824388312629415936)</br>
+[模仿学习 知乎专栏](https://zhuanlan.zhihu.com/chuchu)</br>
 [Jean Nicholas 的个人网站](http://www.jeannicholashould.com/)</br>
-
+[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)</br>
 [数盟社区](http://dataunion.org/)</br>
 
 [Python 识别相似图片 一](https://segmentfault.com/a/1190000004467183)</br>
@@ -612,8 +615,8 @@ http://www.bfilipek.com/</br>
 [The Foundations of Data Science](http://data8.org/)</br>
 
 [算法可视化](http://algo-visualizer.jasonpark.me/#path=graph_search/bfs/tree)</br>
-
-
+[易内核](http://001001.org/index.php)</br>
+[Java 9 特性](http://www.journaldev.com/13121/java-9-features-with-examples)</br>
 [52cs 陈天奇 采访 1](http://www.52cs.org/?p=867)</br>
 [52cs 陈天奇 采访 2](http://www.52cs.org/?p=869)</br>
 [52cs 陈天奇 采访 3](http://www.52cs.org/?p=873)</br>
@@ -836,10 +839,12 @@ http://www.bfilipek.com/</br>
 [Scipy Lecture Notes](http://www.scipy-lectures.org/)</br>
 
 [computer-vision-resources](https://hackerlists.com/computer-vision-resources/)</br>
-
+[David Patterson口述历史 完整版](http://asg.ict.ac.cn/baoyg/data/DavidPatterson-Oral-History.pdf)</br>
+[David Patterson口述历史 精简版](http://asg.ict.ac.cn/baoyg/data/David-Patterson-Oral-History-Reduced.pdf)</br>
+[高性能计算机体系结构小组](http://asg.ict.ac.cn/)</br>
 [document for Video++ written by C++14](http://documentup.com/matt-42/vpp)</br>
 [ Matthieu Garrigues](http://perso.ensta-paristech.fr/~garrigues/index.html)</br>
-
+[深度学习的120个商业机会](https://mp.weixin.qq.com/s/Kaw5hr_ZSSvB4StCPZiEOw)</br>
 [Learning to search](http://hunch.net/~l2s/)</br>
 [scipy 速查表](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet#gs.DhnqH14)</br>
 [Machine Learning Theory](http://hunch.net/)</br>
@@ -902,8 +907,8 @@ http://www.bfilipek.com/</br>
 [阿里iDST视觉计算负责人华先胜：算法和数据并非AI公司成功的全部](http://weibo.com/ttarticle/p/show?id=2309351000224080791503175445&u=5747336442&m=4080934658122931&cu=5747336442&ru=1715118170&rm=4080840084470166)</br>
 [机器学习编年史](http://chuansong.me/n/1405883051121)</br>
 [mairin](http://blog.linuxgrrl.com/)</br>
-
-
+[教你免费搭建个人博客，Hexo&Github](https://zhuanlan.zhihu.com/p/25729240)</br>
+[python开发者社区 知乎专栏](https://zhuanlan.zhihu.com/pythoncoder)</br>
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
 
@@ -925,7 +930,7 @@ Machine Learning: An Algorithmic Perspective</br>
 Machine Learning</br>
 计算机科学丛书 教科书 为每一个算法提供了相关讲解</br>
 `STATUS:NOT START`
-
+[GDB基础](http://001001.org/gedu/06_LINUX_Raymond_GDB.pdf)</br>
 [how-write-thesis](https://mitpress.mit.edu/books/how-write-thesis)</br>
 [How to write thesis 书评1](https://www.theparisreview.org/interviews/5856/umberto-eco-the-art-of-fiction-no-197-umberto-eco)</br>
 [How to write thesis 书评2](https://www.insidehighered.com/views/2015/03/18/review-umberto-eco-how-write-thesis)</br>
@@ -959,7 +964,8 @@ Machine Learning</br>
 [Postgresql 9.6文档](http://www.pengyuwei.net/PGDOC/960/index.html)</br>
 [cs229d 笔记](http://download.csdn.net/detail/u011518985/9473260)</br>
 [cs224d 笔记](http://download.csdn.net/download/u011518985/9473257)</br>
-
+[StackOverflow 推荐的书单](https://medium.freecodecamp.com/i-analyzed-every-book-ever-mentioned-on-stack-overflow-here-are-the-most-popular-ones-eee0891f1786)</br>
+[StackOverflow 书单](http://www.dev-books.com/)</br>
 [Statistics for Non-Statisticians](http://www.springer.com/us/book/9783642176555)</br>
 [Statistics in the 21st Century](http://www.crcnetbase.com/doi/book/10.1201/9781420035391) </br>
 [Programming Journal](http://programming-journal.org/)</br>
@@ -977,7 +983,7 @@ Machine Learning</br>
 [/algorithms-of-the-intelligent-web](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition )</br>
 [Approximation Methods in Probability Theory](http://www.springer.com/gp/book/9783319340715)</br>
 [Data Analytics](http://www.springer.com/gp/book/9783658140748)</br>
-
+[Thompson Sampling and Bayesian Factorization Machines](http://tech.adroll.com/blog/data-science/2017/03/06/thompson-sampling-bayesian-factorization-machines.html)</br>
 数据可视化网站</br>
 [Information is Beautiful](http://www.informationisbeautiful.net/)</br>
 [History shots](https://www.historyshots.com/)</br>
@@ -985,6 +991,8 @@ Machine Learning</br>
 [数据笔记](https://shujubiji.cn/index)</br>
 [flowing data](http://flowingdata.com/)</br?
 [chartsbin](http://chartsbin.com/)</br>
+
+[algorithmia](https://algorithmia.com/)</br>
 ## Academy
 
 [virginia 大学 计算机系](http://www.cs.virginia.edu/)</br>
@@ -1193,7 +1201,7 @@ http://csifdocs.cs.ucdavis.edu/
 
 ## Open Source Projects
 `写代码就像写文章，多读优秀的文章可以提高作文的水平，多读优秀的开源代码，可以提高编码的水平`
-
+[Cuda Text](http://www.uvviewsoft.com/cudatext/index.html)</br>
 [Comma.ai开源全部软硬件](http://mp.weixin.qq.com/s/04U5Gcj4Bb4wEgxPV3qLiA)</br>
 [commaai](https://github.com/commaai)</br>
 [intel-analytics](https://github.com/intel-analytics)</br>
@@ -1249,6 +1257,11 @@ http://csifdocs.cs.ucdavis.edu/
 [yandex data school github](https://github.com/yandexdataschool)</br>
 [强化学习lectures](https://yadi.sk/d/loPpY45J3EAYfU)</br>
 [Wykobi C++计算几何库](http://wykobi.com/tutorial.html)</br>
+[Apache Beam youtube](https://www.youtube.com/watch?v=owTuuVt6Oro)</br>
+[Apache Beam](https://beam.apache.org/)</br>
+[oxford deepnlp](https://github.com/oxford-cs-deepnlp-2017)</br>
+[caicloud](https://github.com/caicloud)</br>
+[seq2seq](https://google.github.io/seq2seq/)</br>
 ## tools
 `工欲善其事，必先利其器`
 ### Programming Libraries
