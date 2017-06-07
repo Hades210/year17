@@ -1104,6 +1104,46 @@ http://www.bfilipek.com/</br>
 [读完这100篇论文，你也是大数据高手！](https://mp.weixin.qq.com/s/1nS_GdAc6PDDahHO38KZgg)</br>
 [IBM, Google and Lyft give microservices a ride on the Istio Service Mesh](https://developer.ibm.com/dwblog/2017/istio/)</br>
 [istio](https://istio.io/)</br>
+[Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)</br>
+[Conquer csv files in Python](https://kerpanic.wordpress.com/2017/05/26/conquer-csv-files-in-python/)</br>
+[kernel panic](https://kerpanic.wordpress.com/)</br>
+[Improved Word Representation Learning with Sememes](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2017_sememe.pdf)</br>
+[ReSwift](https://github.com/ReSwift)</br>
+[Unidirectional Data Flow in Swift: An Alternative to Massive View Controllers](https://news.realm.io/news/benji-encz-unidirectional-data-flow-swift/)</br>
+[用 Swift 中的单向数据流来替代臃肿的视图控制器](https://news.realm.io/cn/news/benji-encz-unidirectional-data-flow-swift/)</br>
+[Redux学习笔记](http://blog.csdn.net/colorapp/article/details/50256913)</br>
+[自治CPU主页](http://homebrewcpu.com/)</br>
+[Libtins-高级和多平台网络数据包嗅探和制作C++库](http://libtins.github.io/)</br>
+[AgentGraph](http://www.agensgraph.com/)</br>
+[自然语言处理优质资源](http://www.agensgraph.com/)</br>
+[Raspberry Pi is merging with a coding foundation](https://www.engadget.com/2017/05/26/raspberry-pi-coderdojo-merge/)</br>
+[azeria lab](https://azeria-labs.com/)</br>
+[ARM汇编基础第一部分](https://azeria-labs.com/writing-arm-assembly-part-1/)</br>
+[Project Gutenberg](http://www.gutenberg.org/)</br>
+[Jacques Matteij](https://jacquesmattheij.com/)</br>
+[How to Improve a Legacy Codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)</br>
+[Free Ebook Foundation](https://github.com/EbookFoundation)</br>
+[Usage of words from Barron's 800 list in sentences of movie and book plots](https://buildmyvocab.in/)</br>
+[BUILD AN 8-BIT COMPUTER FROM SCRATCH](https://eater.net/)</br>
+[Bartek's coding blog](http://www.bfilipek.com/)</br>
+[C++17 in details: fixes and deprecation](http://www.bfilipek.com/2017/05/cpp17-details-fixes-deprecation.html)</br>
+[faster CPython](http://faster-cpython.readthedocs.io/)</br>
+[ideawu 的博客](http://www.ideawu.net/blog/)</br>
+[经典的服务器最多65536个连接误解](http://www.ideawu.net/blog/archives/533.html)</br>
+[关于TCP粘包和拆包的终极解答](http://www.ideawu.net/blog/archives/993.html)</br>
+[YOU DON’T NEED A PHD TO MASTER MACHINE LEARNING & DATA SCIENCE](http://www.topbots.com/you-dont-need-phd-master-machine-deep-learning-data-science)</br>
+[Microsoft’s high-performance, open source, deep learning toolkit is now generally available](https://www.microsoft.com/en-us/cognitive-toolkit/blog/2017/06/microsofts-high-performance-open-source-deep-learning-toolkit-now-generally-available/)</br>
+[Humble Book Bundle](https://www.humblebundle.com/books/linux-book-bundle)</br>
+[Artificial Intelligence and Games](http://gameaibook.org/)</br>
+[Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802)</br>
+[cling](https://cdn.rawgit.com/root-project/cling/master/www/index.html)</br>
+[root-project](https://github.com/root-project)</br>
+[anger fog](http://www.agner.org/)</br>
+[Software Optimization](http://www.agner.org/optimize/)</br>
+[前端简史](http://geek.csdn.net/news/detail/200416)</br>
+[5 Common reasons of using namespaces in C++ projects](http://cppdepend.com/blog/?p=79)</br>
+[cppdepend](http://www.cppdepend.com/)</br>
+[Jeffrey Hoffstein](http://www.math.brown.edu/~jhoff/)</br>
 
 ## Technical Books
 `书籍是人类灵魂进步的阶梯 --高尔基`
