@@ -212,14 +212,14 @@ protected:
 
 ### 简单对象模型（ A Simple Object Model）
 它为了尽量减低C++编译器的设计复杂度而开发出来的，陪上的则是空间和执行期的效率。在这个简单模型中，一个object是一系列的slots,每一个slot指向一个members。Members按其声明次序，各被指定一个slot.每一个data member或function member都有自己的一个slot.</br>
-![Simple Object Model](./1-1.png)</br>
+![Simple Object Model](https://github.com/Hades210/year17/raw/master/Images/Inside_The_C++_Object_Model/1-1.png)</br>
 在这个简单模型中，members本身并不放在object之中。只有"指向member的指针"才放在object内，这么做可以避免"members有不同的类型，因而需要不同的存储空间"所招致的问题。</br>
 这个模型并没有被应用于实际产品上，不过关于索引或slot数目的观念，倒是被应用到C++的"指向成员的指针(pointer-to-member)观念之中。</br>
 
 ### 表格驱动对象模型(A Table-driven Object Model)
 
 为了对所有classes的所有objects都有一致的表达方式，另一种对象模型是把所有与members相关的信息抽出来，放在一个data member table和一个member function table之中，class object本身则内含指向这两个表格的指针。Member function table是一系列的slots,每一个slot指出一个member function; Data member table 则直接含有data 本身。</br>
-![Table Driven Object Model](./1-2.png)</br>
+![Table Driven Object Model](https://github.com/Hades210/year17/raw/master/Images/Inside_The_C++_Object_Model/1-2.png)</br>
 这个模型也没有实际应用于真正的C++编译器，但member function table这个观念却成为支持virtual functions的一个有效方案</br>
 
 ### C++ 对象模型（ The C++ Object Model）
@@ -227,7 +227,7 @@ protected:
 Stroustrup当初设计的C++对象模型，是从简单对象模型派生而来的，并对内存空间和存取时间做了优化。在此模型中，Nonstatic data members被配置于每一个class object之内，static data members则被存放在所有的class object之外。static和nonstatic function members也被放在所有的class object之外. Virtual functions 则以两个步骤支持之：</br>
 1. 每一个class产生出一堆指向virtual functions的指针，放在表格之中。这个表格被称为virtual table (vtbl)</br>
 2. 每一个class object 被添加一个指针，指向相关的virtual table.通常这个指针被称为vptr. vptr的设定（setting）和重置(resetting)都由每一个class的constructor、destructor和copy assignment运算符自动完成。每一个class所关联的type_info object(用以支持runtime type identification RTTI)也经由virtual table被指出来，通常是放在表格的第一个slot处</br>
-![C++ Object Model](./1-3.png)</br>
+![C++ Object Model](https://github.com/Hades210/year17/raw/master/Images/Inside_The_C++_Object_Model/1-3.png)</br>
 这个模型的主要优点在于它的空间和存取时间的效率；主要的缺点则是，如果应用程序代码本身未曾改变，但所用到的class objects的nonstatic data members 有所修改（可能是增加、移除或更改），那么那些应用程序代码同样得重新编译。</br>
 
 ## 加上继承(Adding Inheritance)
@@ -311,7 +311,7 @@ void foobar(X &_result)
     return;
 }
 ```
-![code transfer](./1-4.png)</br>
+![code transfer](https://github.com/Hades210/year17/raw/master/Images/Inside_The_C++_Object_Model/1-4.png)</br>
 
 ## 关键词所带来的差异(A Keyword Distinction)
 如果不是为了努力维护与C之间的兼容性，C++远可以比现在更简单些。</br>
