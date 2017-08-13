@@ -4,6 +4,8 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 347](#episode-347)
+    * [episode 348](#episode-348)
     * [episode 349](#episode-349)
     * [episode 350](#episode-350)
     * [episode 351](#episode-351)
@@ -23,6 +25,27 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 347
+```
+a chip off the old block  （性格）是父母的翻版
+My mother and I are very alike. I am a chip off the old block.
+
+to know better ... than to do 很清楚...不应该这样做
+A: A strange man was following me when I was walking home last night.
+B: You should know better than to walk alone at night.
+```
+
+#### episode 348
+```
+close one = close call 差点发生 
+I had a close call on my way to work, A car hit my bike but I didn't fall.
+I passed my exam by one point. It was a close one.
+
+hush 嘘
+Hush! Mom and Dad are sleeping.
+Hush! The movie is starting.
+```
 
 #### episode 349
 ```
