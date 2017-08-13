@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 346](#episode-346)
     * [episode 347](#episode-347)
     * [episode 348](#episode-348)
     * [episode 349](#episode-349)
@@ -26,6 +27,16 @@ Learning American Slang
 
 ### Season one
 
+#### episode 346
+```
+on to = 意识到 明白了
+The police were on to the criminals' plan very quickly.
+If anyone's on to us we should call the whole thing off.
+
+In a heartbeat = very quickly to do in just a short time.
+I'd leave in a heartbeat if I had any money.
+I'll arrive in a heartbeat.
+```
 #### episode 347
 ```
 a chip off the old block  （性格）是父母的翻版
