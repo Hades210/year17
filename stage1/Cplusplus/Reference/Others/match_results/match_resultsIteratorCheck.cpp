@@ -29,10 +29,10 @@ int main()
 	cout<<"=========================================\n";
 
 
-	// cout<<"matches: "<<endl;
+	cout<<"matches: "<<endl;
 
-	// for(smatch::iterator it = m.cbegin(); it != m.cend(); ++ it)
-	// 	cout<<*it<<endl;
+	for(smatch::const_iterator cit = m.cbegin(); cit != m.cend(); ++ cit)
+		cout<<*cit<<endl;
 
 	return 0;
 }
