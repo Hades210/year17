@@ -4,6 +4,11 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 341](#episode-341)
+    * [episode 342](#episode-342)
+    * [episode 343](#episode-343)
+    * [episode 344](#episode-344)
+    * [episode 345](#episode-345)
     * [episode 346](#episode-346)
     * [episode 347](#episode-347)
     * [episode 348](#episode-348)
@@ -26,6 +31,75 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 341
+```
+go ballistic = 极度生气的
+My boss went ballistic when I spilled wine on her new white dress.
+If Linda finds out she failed this class, she'll go ballistic.
+
+come between 
+My parents are so in love, nothing will ever come between them.
+Joe and I used to be very good friends, but our political views came between us.
+
+get over it = accept and move on 别再想了
+You are never going to marry Camron Diaz. Get over it!
+I know you are upset about losing the game, but there's nothing you can do about it. Get over it.
+```
+
+#### episode 342
+```
+what in the world (on earth) ... 
+I thought you were in Hongkong. What in the world are you doing here?
+Where in the world did you get that diamond necklace?
+
+whether or not 不管是不是
+Whether you like it or not, Liz and I are getting married next year.
+We are going to Green Bar tonight, whether you come or not.
+
+sticky 棘手的
+Annie is in love with Brian, but Brian is in love with Annie's best friend. What a sticky situation!
+Gay marriage is a very sticky issue in the U.S. It may take a while for the American government to make a decision about the issue.
+```
+#### episode 343
+```
+watch somebody like a hawk 盯紧
+When children reach age two, you have to watch them like hawks.
+I'm watching you like a hawk, so don't do anything stupid.
+
+be under wraps 不为人知
+The politician thought the scandal was completely under wraps, but actually somehow someone found out.
+I thought this project was under wraps, but everyone seems to know about it.
+
+jurisdiction 权限
+The central government has jurisdiction over all of the local governments.
+We can't do anything about the crime since it happened outside of our jurisdiction in the next county.
+```
+#### episode 344
+```
+to screw up something 搞砸了
+Ken totally screwed up the science experiment and he had to do it all again.
+Listen, I really want this thing to work so don't screw it up.
+
+consent 同意
+Did he consent to taking such a low salary for such a high position?
+Rachel didn't consent to the agreement so we have to either create a compromise or try to convince her.
+
+well-wishers 真心祝愿你的人
+The singer had millions of well-wishers by the time she finally retired.
+All of the well-wishers stood on the shore as the boat pulled away from the dock.
+```
+
+#### episode 345
+```
+be to a true (something)
+His paintings are beautiful. He's a true artist.
+A true athelete wouldn't smoke.
+
+bamboozle 欺骗,困惑
+I get bamboozled driving in Beijing.
+All these Chinese characters bamboozle me.
+```
 
 #### episode 346
 ```
