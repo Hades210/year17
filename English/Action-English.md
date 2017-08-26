@@ -4,6 +4,12 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 335](#episode-335)
+    * [episode 336](#episode-336)
+    * [episode 337](#episode-337)
+    * [episode 338](#episode-338)
+    * [episode 339](#episode-339)
+    * [episode 340](#episode-340)
     * [episode 341](#episode-341)
     * [episode 342](#episode-342)
     * [episode 343](#episode-343)
@@ -31,6 +37,77 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 335
+```
+date 约会
+I'm still trying to find a date for the prom next Saturday.
+Sally agreed to be my date tonight.
+
+disgrace 丢人
+His behavior at the party was a disgrace.
+It was a disgrace that France didn't make the World Cup final.
+````
+#### episode 336
+```
+improvise 即兴创作
+I haven't written a speech for tonight so I'll just have to improvise.
+If you don't know the answer just improvise.
+
+cool off
+It takes me a while to cool off after a big argument.
+He cooled off after I apologized.
+```
+#### episode 337
+```
+to be jumping out of somebody's skin 如坐针毡 心惊肉跳
+I was jumping out of my skin worrying about my exam results.
+That ghost movie had me jumping out of my skin.
+
+forward (adj.) 积极的 受欢迎的
+Reducing the tax burden is a very forward policy.
+He has some pretty forward ideas.
+```
+#### episode 338
+```
+thick 厚/傻傻的
+I think I was too thick to go to university.
+My brother's a bit thick when it comes to science.
+
+larger picture 前景
+The larger picture involves more people than just you.
+For the larger picture we need to consider all possible costs and benefits.
+```
+
+#### episode 339
+```
+freaky 怪异的
+Oscar and his wife look alike, isn't that freaky?
+A: A stange woman wearing a hat and sunglasses was staring at me at the restaurant.
+B: Really? That's freaky.
+
+What is somebody (something) like... 是什么样的
+I've never met your girlfriend. What's she like?
+You've been to Chicago, right? What's it like?
+
+be dying to do something 太想做...
+Stacy loves Brad Pitt. She's dying to see his new movie.
+I'm so cold. I'm dying for a hot bath.
+```
+
+#### episode 340
+```
+wait on = to do anything for 服侍
+A: I want to marry a man who will wait on me hand and foot.
+B: Good luck finding one.
+Gary's family is very rich. They have a butler who waits on them.
+
+dream come true 美梦成真
+Being a teacher was a dream come true for me, I've wanted to teach since I was 10 years old.
+Penny was very happy with her wedding. It was a dream come true for her.
+
+
+```
 
 #### episode 341
 ```
