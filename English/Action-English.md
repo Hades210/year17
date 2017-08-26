@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 334](#episode-334)
     * [episode 335](#episode-335)
     * [episode 336](#episode-336)
     * [episode 337](#episode-337)
@@ -37,6 +38,22 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 334
+```
+rehearse 排演
+We hadn't rehearsed often enough so I forgot my lines.
+The play rehearsal is on at 4pm today.
+
+a vow 誓言
+He vowed never to cheat me again.
+Husbands and wives both take vows of sincerity.
+
+be up to = be doing
+If my parents knew what I was up to they'd be angry.
+A: What are you up to?
+B: I'm looking for my key.
+```
 
 #### episode 335
 ```
