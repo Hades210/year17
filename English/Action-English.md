@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 333](#episode-333)
     * [episode 334](#episode-334)
     * [episode 335](#episode-335)
     * [episode 336](#episode-336)
@@ -39,6 +40,16 @@ Learning American Slang
 
 ### Season one
 
+#### episode 333
+```
+have a crush on 迷恋
+I was embarrassed when she found out I had a crush on her.
+He's always had a crush on Cameron Diaz.
+
+coward 懦夫
+You're too much of a coward to watch horror films.
+If you weren't such a coward you'd move out and live on your own.
+```
 #### episode 334
 ```
 rehearse 排演
