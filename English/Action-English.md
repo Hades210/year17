@@ -4,6 +4,9 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 332](#episode-332)
+    * [episode 333](#episode-333)
+    * [episode 334](#episode-334)
     * [episode 335](#episode-335)
     * [episode 336](#episode-336)
     * [episode 337](#episode-337)
@@ -37,6 +40,47 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 332
+```
+keep an eye on 留意
+I'll keep an eye on the stove while you answer the phone.
+I like to keep an eye on the stockmarket.
+
+take advantage of 利用 占……便宜
+I took advantage of the clothes sale to buy more jeans.
+Last time I got drunk she tried to take advantage of me.
+
+a breakdown 崩溃
+I almost had a breakdown trying to get into Princeton.
+The stress at work caused him to have a breakdown.
+
+```
+#### episode 333
+```
+have a crush on 迷恋
+I was embarrassed when she found out I had a crush on her.
+He's always had a crush on Cameron Diaz.
+
+coward 懦夫
+You're too much of a coward to watch horror films.
+If you weren't such a coward you'd move out and live on your own.
+```
+#### episode 334
+```
+rehearse 排演
+We hadn't rehearsed often enough so I forgot my lines.
+The play rehearsal is on at 4pm today.
+
+a vow 誓言
+He vowed never to cheat me again.
+Husbands and wives both take vows of sincerity.
+
+be up to = be doing
+If my parents knew what I was up to they'd be angry.
+A: What are you up to?
+B: I'm looking for my key.
+```
 
 #### episode 335
 ```
