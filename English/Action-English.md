@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 332](#episode-332)
     * [episode 333](#episode-333)
     * [episode 334](#episode-334)
     * [episode 335](#episode-335)
@@ -40,6 +41,21 @@ Learning American Slang
 
 ### Season one
 
+#### episode 332
+```
+keep an eye on 留意
+I'll keep an eye on the stove while you answer the phone.
+I like to keep an eye on the stockmarket.
+
+take advantage of 利用 占……便宜
+I took advantage of the clothes sale to buy more jeans.
+Last time I got drunk she tried to take advantage of me.
+
+a breakdown 崩溃
+I almost had a breakdown trying to get into Princeton.
+The stress at work caused him to have a breakdown.
+
+```
 #### episode 333
 ```
 have a crush on 迷恋
