@@ -26,5 +26,5 @@ int main()
 	{
 		printf("Parent process is printing.\n");
 	}
-	return 0;
+	exit(0);
 }
