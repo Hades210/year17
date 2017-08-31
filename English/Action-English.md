@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 330](#episode-330) 
     * [episode 331](#episode-331)
     * [episode 332](#episode-332)
     * [episode 333](#episode-333)
@@ -41,6 +42,21 @@ Learning American Slang
 * [Season two](#season-two)
 
 ### Season one
+
+#### episode 330
+```
+You're fired 被解雇
+I'm really unhappy with your work, you're fired!
+You've been late to work every day this month, so I'm afraid you're fired!
+
+rig the contest 作假
+That's not a fair result, the soccer match was rigged.
+Are you saying that the election of the new president was rigged?
+
+have no idea
+I hope this medicine works, you have no idea how bad the pain is!
+You should not fire her, you have no idea how hard she works!
+```
 
 #### episode 331
 ```
