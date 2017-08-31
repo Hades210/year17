@@ -4,6 +4,7 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 331](#episode-331)
     * [episode 332](#episode-332)
     * [episode 333](#episode-333)
     * [episode 334](#episode-334)
@@ -41,6 +42,20 @@ Learning American Slang
 
 ### Season one
 
+#### episode 331
+```
+toast 祝酒
+At weddings the best man will always make a toast.
+I think we should toast our hostess for inviting us.
+
+smother 令……窒息
+At school we get smothered with homework.
+The opposition defence smothered our attackers.
+
+keep up 跟上
+I can't keep up with all his different girlfriends.
+I have to work hard to keep up with the speed of the class.
+```
 #### episode 332
 ```
 keep an eye on 留意
