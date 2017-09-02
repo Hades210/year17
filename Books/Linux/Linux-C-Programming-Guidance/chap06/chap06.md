@@ -80,4 +80,191 @@ pid_t wait4(pid_t pid, int* status, int options, struct rusage* rusage);
 rusage是一个结构指针，调用这两个函数时，如果rusage不为NULL，则关于子进程执行时的相关信息将被写入该指针指向的缓冲区内.
 
 ```
+```
+进程的终止
+#include <stdlib.h>
+void exit(int status);
+int atexit(void(*function)(void));
+int on_exit(void(*function)(int,void*),void *arg);
+void abort(void);
 
+#include <unistd.h>
+void _exit(int status);
+
+#include <assert.h>
+void assert(int expression);
+
+exit函数是标准C中提供的函数，它将关闭所有被该进程打开的文件描述符
+atexit函数用于注册一个不带参数也没有返回值的函数以供程序正常退出时被调用.成功返回0，失败返回-1，并设置errno为相应值
+on_exit函数作用与atexit函数十分相似。它注册的函数有参数。成功返回0,失败返回-1,并设置errno为相应值
+abort产生Linux信号，SIGABRT
+_exit 是为了关闭一些Linux下特有的退出句柄.
+assert 宏，计算参数表达式的值，为0，则调用abort.
+```
+
+```
+用户标识符
+获取
+#include <unistd.h>
+#include <sys/types.h>
+uid_t getuid(void);     实际用户标识符
+gid_t getgid(void);     实际组标识符
+uid_t geteuid(void);    有效用户标识符
+gid_t getegid(void);    有效组标识符
+
+修改
+#include <unistd.h>
+#include <sys/types.h>
+int setuid(uid_t uid);
+int setgid(gid_t gid);
+int seteuid(uid_t euid);
+int setegid(gid_t egid);
+int setreuid(uid_t ruid, uid_t euid);
+int setregid(gid_t rgid, gid_t egid);
+int setfsuid(uid_t fsuid);
+int setfsgid(gid_t fsgid);
+```
+```
+system函数
+#include <stdlib.h>
+int system(const char* cmdstring);
+执行system函数时，它将调用fork，exec,和waitpid等函数.
+```
+
+```
+进程组
+#include <sys/types.h>
+#include <unistd.h>
+pid_t getpgrp(void); //获得进程组号
+int setpgid(pid_t pid, pid_t pgid); //当pid == pgid表示创建新的进程组，当pgid是一个存在的进程组ID，表示将pid加入该进程组
+
+在进程组中的各个进程中，有一个特别的进程leader,进程leader的进程ID和它所在的进程组ID一致。
+
+```
+```
+时间片的分配
+
+调度策略和参数
+#include <sched.h>
+int sched_setscheduler(pid_t pid, int policy, const struct sched_param* param);
+int sched_getscheduler(pid_t pid);
+
+policy 表示所设置的调度策略，取值如下:
+SCHED_OTHER: 默认调度策略，通常方法分配时间片
+SCHED_FIFO: 先进先出，可以抢占SCHE_OTHER。只能被优先级比它高的抢占
+SCHED_RR: 轮换规则，实时分配时间片,可以抢占SCHE_OTHER的进程。使用SCHED_RR的进程在需要与其他进程共享时间片时可以被相同优先级的进程抢占，但errno将被设置为相应值.
+
+优先级设定
+静态优先级高的进程会抢占静态优先级低的进程。对静态优先级为0的进程将依照其动态优先级来分配运行时间。优先级的值越小，优先权越高。
+
+#include <unistd.h>
+int nice(int inc); 
+#include <sys/time.h>
+#include<sys/resource.h>
+int setpriority(int which, int who, int prio);
+int getpriority(int which, int who);
+#include <sched.h>
+int sched_set_priority_max(int policy);
+int sched_set_priority_min(int policy);
+
+函数nice改变进程的动态优先级。调用此函数的过程，其优先级将被加上参数inc。inc > 0 优先级降低， inc < 0 优先级升高，只有超级用户才可以设置inc < 0.
+
+getpriority和setpriority设获取和置进程动态优先级。
+which 取值
+PRIO_PROECSS       设置进程动态优先级
+PRIO_PGRP          设置进程组动态优先级
+PRIO_USER          设置用户动态优先级
+
+参数prio取值介于-20~20之间
+
+调用getpriority函数时，返回值是进程的优先级，而优先级可能为-1，因此调用前将errno清除，调用完毕后，检查errno是否成功.
+
+sched_set_priority_max和sched_set_priority_min分别用于获取由参数policy所指定的调度策略下优先级的最大值和最小值.
+```
+```
+进程的同步
+文件锁定、信号、信号量、管道(即FIFO)以及套接字.其中文件锁定和信号量是专用于进程间同步的，其他几个方法是进程间通信的，也可以用于完成进程间的同步操作.
+```
+
+```
+线程
+
+线程的创建
+#include <pthread.h>
+int pthread_create(pthread_t * thread, pthread_attr_t * attr, void* (*start_routine)(void*), void* arg);
+pthread_create用于创建一个新的线程并将其标识符放入参数thread指向的新线程中。参数attr是一个属性对象的指针，用于设置要执行的线程属性。此属性对象由函数pthread_attr_init()生成。参数start_routine指向该线程要调用额程序的函数指针。参数arg用于存放要传递给所调用的函数的参数.
+
+线程属性的设置
+#include <pthread.h>
+int pthread_attr_init(pthread_attr_t * attr);
+int pthread_attr_destroy(pthread_attr_t * attr);
+int pthread_attr_setdetachstate(pthread_attr_t * attr, int detachstate);
+int pthread_attr_getdetachstate(const pthread_attr_t* attr, int detachstate);
+int pthread_attr_setschedpolicy(pthread_attr_t* attr, int policy);
+int pthread_attr_getschedpolicy(const pthread_attr_t* attr, int* policy);
+int pthread_attr_setschedparam(pthread_attr_t* attr, const struct sched_param* param);
+int pthread_attr_getschedparam(const pthread_attr_t* attr, const struct sched_param * param);
+int pthread_attr_setinheritsched(pthread_attr_t* attr, int inherit);
+int pthread_attr_getinheritsched(const pthread_attr_t * attr, int * inherit);
+int pthread_attr_setscope(pthread_attr_t* attr, int scope);
+int pthread_attr_getscope(const pthread_attr_t * attr, int scope);
+int pthread_setschedparam(pthread_t target_thread, int policy, const struct sched_param* param);
+int pthread_getschedparam(pthread_t target_thread, int* policy, struct sched_param * param);
+
+系统的默认设置为：
+detachstate = PTHREAD_CREATE_JOINABLE
+schedpolicy = SCHED_OTHER
+inheritsched = PTHREAD_EXPLICIT_SCHED
+scope = PTHREAD_SCOPE_SYSTEM
+
+线程属性表
+detachstate        PTHREAD_CREATE_JOINABLE      可连接状态
+                   PTHREAD_CREATE_DETACHED      分离状态
+schedpolicy        SCHED_OTHER                  普通，非实时
+                   SCHED_RR                     实时，轮换
+                   SCHED_FIFO                   实时，先进先出
+schedparam         由调度策略指定
+inheritsched       PTHREAD_EXPLICIT_SCHED       由schedpolicy和schedparam设置
+                   PTHREAD_INHERIT_SCHED        从父进程继承
+scope              PTHREAD_SCOPE_SYSTEM         每个线程占用一个系统时间片
+
+
+线程结束
+#include <pthread.h>
+void pthread_exit(void* retval);
+
+线程的挂起
+#include <pthread.h>
+int pthread_join(pthread_t th, void** thread_return);
+
+pthread_join()的调用者将挂起并等待th线程的终止.一个线程仅允许唯一的另一个线程使用pthread_join()等待它的终止，并且被等待的线程应该处于可join状态，即非DETACHED（分离）状态。
+
+用户可以挂起一个线程直至某种条件得到满足。
+#include <pthread.h>
+pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
+int pthread_cond_init(pthread_cond_t* cond, pthread_condattr_t* cond_attr);
+int pthread_cond_destroy(pthread_cond_t* cond);
+int pthread_cond_signal(pthread_cond_t* cond);
+int pthread_cond_broadcast(pthread_cond_t* cond);
+int pthread_cond_wait(pthread_cond_t* cond, pthread_mutex_t* mutex);
+int pthread_cond_timedwait(pthread_cond_t* cond, pthread_mutex_t* mutex, const struct timespce * abstime);
+
+取消线程:当前线程调用这些函数来取消另一个线程
+#include <pthread.h>
+int pthread_cancel(pthread_t thread);
+int pthread_setcancelstate(int type, int* oldtype);
+int pthread_setcanceltype(int type, int* oldtype);
+void pthread_testcancel(void);
+
+互斥
+#include <pthread.h>
+pthread_mutex_t fastmutex = PTHREAD_MUTEX_INITEALIZER;
+pthread_mutex_t recmutex = PTHREAD_RECURSIVE_MUTEX_INITEALIZER_NP;
+pthread_mutex_t errchkmutex = PTHREAD_ERRORCHECK_MUTEX_INITEALIZER_NP;
+int pthread_mutex_init(pthread_mutex_t* mutex, const pthread_mutexattr_t* mutexattr); //构造
+int pthread_mutex_destroy(pthread_mutex_t* mutex); //取消一个互斥
+int pthread_mutex_lock(pthread_mutex_t* mutex); //上锁
+int pthread_mutex_trylock(pthread_mutex_t* mutex); // 尝试上锁，如果锁已经被占据时返回EBUSY而不是挂起
+int pthread_mutex_unlock(pthread_mutex_t* mutex); //互斥解锁
+
+```
