@@ -4,6 +4,8 @@ Learning American Slang
 
 ## Table of Contents
 * [Season one](#season-one)
+    * [episode 328](#episode-328)
+    * [episode 329](#episode-329)
     * [episode 330](#episode-330) 
     * [episode 331](#episode-331)
     * [episode 332](#episode-332)
@@ -43,6 +45,34 @@ Learning American Slang
 
 ### Season one
 
+#### episode 328
+```
+count on somebody 指望/依赖
+I know he let you down last week, but you can count on me this time.
+I am counting on you to get the job done on time.
+
+shoot first ask questions later. 先行动
+If you see a dangerous animal, shoot first ask questions later.
+You've got to be more careful, you shouldn't shoot first and ask questions later.
+
+go into 深入研究
+I've got a plane to catch, I don't have time to go into this right now.
+I'd love to talk to you about our relationship, but I don't have time to go into that right now.
+```
+#### episode 329
+```
+a freak of nature 能力超长，长相怪异
+He is so good at tennis, he's a freak of nature!
+She is so tall - she must be a freak of nature!
+
+someone is going to kill someone 有大麻烦了
+I haven't cleaned my room, my mom's going to kill me!
+I'm late for work again, my boss is going to kill me!
+
+There's not a moment to lose 抓紧，我们没有时间了
+The train is about to leave, there's no time to lose!
+There's not a moment to lose, she needs the operation now.
+```
 #### episode 330
 ```
 You're fired 被解雇
@@ -122,7 +152,7 @@ Sally agreed to be my date tonight.
 disgrace 丢人
 His behavior at the party was a disgrace.
 It was a disgrace that France didn't make the World Cup final.
-````
+```
 #### episode 336
 ```
 improvise 即兴创作
